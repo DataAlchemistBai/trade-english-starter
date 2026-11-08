@@ -1,0 +1,10 @@
+{
+  "name":"trade-english-starter",
+  "version":"1.0.0",
+  "private":true,
+  "type":"module",
+  "license":"MIT",
+  "description":"Adult beginner trade English with exact word highlighting and an advanced story library",
+  "engines":{"node":">=18"},
+  "scripts":{"start":"node tools/serve.mjs","test":"node tools/check.mjs"}
+}

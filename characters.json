@@ -1,0 +1,48 @@
+{
+  "Evan": {
+    "name": "Evan",
+    "voice": "Ryan · British voice",
+    "photo": "images/evan.png",
+    "trait": "clear-headed · warm",
+    "accent": "evan"
+  },
+  "Oliver": {
+    "name": "Oliver",
+    "voice": "Thomas · British voice",
+    "photo": "images/oliver.png",
+    "trait": "thoughtful · grounded",
+    "accent": "oliver"
+  },
+  "Miles": {
+    "name": "Miles",
+    "voice": "Connor · Irish voice",
+    "photo": "images/miles-portrait-20261018.jpg",
+    "trait": "observant · open-hearted",
+    "accent": "miles"
+  },
+  "Kai": {
+    "name": "Kai",
+    "voice": "Ryan · bright vocal profile",
+    "photo": "images/kai.png",
+    "trait": "direct · considerate",
+    "accent": "kai"
+  },
+  "Grant": {
+    "name": "Grant",
+    "voice": "Thomas · low British profile",
+    "photo": "images/grant-20261103.png",
+    "crop": "50 270 850 1130",
+    "trait": "steady · quietly witty",
+    "accent": "grant",
+    "bio": "Fictional character, 32. A site engineer and Kai's gym friend; enjoys coastal walks, notices practical details, and is slower to ask for company than to offer help."
+  },
+  "Dean": {
+    "name": "Dean",
+    "voice": "Ryan · low British profile",
+    "photo": "images/dean-20261029.png",
+    "crop": "320 390 760 930",
+    "trait": "bold · easy-hearted",
+    "accent": "dean",
+    "bio": "Fictional character, 30. A live-events technician and Grant's old friend; loves old cars, feeds his friends, and sometimes uses a joke to avoid admitting he is nervous."
+  }
+}

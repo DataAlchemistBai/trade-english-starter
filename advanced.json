@@ -1,0 +1,4305 @@
+[
+  {
+    "id": "trial-02",
+    "label": "Social English · Trial 02",
+    "title": "Before a Night Out",
+    "subtitle": "A British-English conversation on work, training, friendship and leaving room for a life beyond the plan.",
+    "description": "Work, training & a night out",
+    "audio": "audio/social_english_trial_02_130wpm.mp3",
+    "timings": "timings/trial-02.json",
+    "dialogue": [
+      [
+        "Evan",
+        "You made it. I thought you were still wrestling with that presentation.",
+        "你来了。我还以为你还在和那份汇报死磕。"
+      ],
+      [
+        "Oliver",
+        "I finished it an hour ago. I stopped polishing it when I realised I was trying to make every slide perfect.",
+        "我一小时前做完了。我意识到自己想把每一页都做到完美，就停止继续打磨了。"
+      ],
+      [
+        "Evan",
+        "That's a healthy decision. You always spot the numbers, but sometimes you forget that people just need a clear story.",
+        "这是个健康的决定。你总能看出数据问题，但有时会忘记，别人其实只需要一个清晰的故事。"
+      ],
+      [
+        "Oliver",
+        "Exactly. I cut the extra charts and kept the bit about why the campaign results changed.",
+        "没错。我删掉了多余图表，只保留了活动结果为什么会变化的部分。"
+      ],
+      [
+        "Evan",
+        "Was that the one where the budget was spread across too many posts?",
+        "是不是那个预算分散在太多帖子上的项目？"
+      ],
+      [
+        "Oliver",
+        "Yes. The content wasn't weaker; each post simply got less support.",
+        "对。内容本身并没有变差；只是每条帖子分到的资源更少了。"
+      ],
+      [
+        "Evan",
+        "That's the kind of insight clients actually remember.",
+        "这才是客户真正会记住的洞察。"
+      ],
+      [
+        "Oliver",
+        "I hope so. Anyway, enough work. How's your training going?",
+        "希望如此。好了，工作先到这儿。你最近训练怎么样？"
+      ],
+      [
+        "Evan",
+        "Pretty well. I switched to early sessions, so I don't have to negotiate with myself after work.",
+        "挺好的。我改成早训，这样下班后就不用和自己讨价还价要不要去练。"
+      ],
+      [
+        "Oliver",
+        "Clever. I feel calmer when I train regularly, especially when things get busy.",
+        "聪明。我规律训练时会更平静，尤其是忙起来的时候。"
+      ],
+      [
+        "Evan",
+        "Same. And you look like you've slept properly for once.",
+        "我也是。而且你看上去难得睡够了。"
+      ],
+      [
+        "Oliver",
+        "I have, mostly. I'm trying to keep my weekends social without turning them into recovery days.",
+        "基本上是。我在努力让周末有社交，但别把它过成需要恢复的日子。"
+      ],
+      [
+        "Evan",
+        "A noble goal. Tonight should be easy: good music, friendly people, no pressure.",
+        "很高尚的目标。今晚应该很轻松：好音乐、友善的人、没有压力。"
+      ],
+      [
+        "Oliver",
+        "That's what I like about this crowd. Everyone can be themselves without performing for approval.",
+        "这正是我喜欢这群人的地方。每个人都能做自己，不需要为了获得认可而表演。"
+      ],
+      [
+        "Evan",
+        "Though a little performance never hurt anyone. Are you still thinking about singing at that bar?",
+        "不过稍微表演一下也没什么坏处。你还在考虑去那家酒吧唱歌吗？"
+      ],
+      [
+        "Oliver",
+        "Maybe. I want it to be fun, not another achievement I have to optimise.",
+        "也许吧。我希望那是乐趣，而不是又一项必须不断优化的成就。"
+      ],
+      [
+        "Evan",
+        "Fair. You've got enough ambition already. Let the music be the part that belongs only to you.",
+        "有道理。你的野心已经够多了。让音乐成为只属于你自己的那一部分。"
+      ],
+      [
+        "Oliver",
+        "I like that. And I'm trying to leave room for people too, not just projects and plans.",
+        "我喜欢这句话。我也在尝试给人留出空间，而不只是项目和计划。"
+      ],
+      [
+        "Evan",
+        "Good. Independence is attractive, but letting good people in is a strength as well.",
+        "很好。独立很有吸引力，但让值得的人走近也是一种力量。"
+      ],
+      [
+        "Oliver",
+        "I'll drink to that. Come on, let's find the others before the place gets crowded.",
+        "我敬这句话一杯。走吧，趁地方还没拥挤，去找其他人。"
+      ]
+    ],
+    "speakers": [
+      "Evan",
+      "Oliver"
+    ],
+    "context": {
+      "en": "It is Friday evening. Evan has arrived at a small bar after work, and Oliver is already there. They are close enough to talk honestly about work, training and how they want the night to feel.",
+      "zh": "周五傍晚，Evan 下班后来到一家小酒吧，Oliver 已经在等他。两人关系熟悉，会自然聊到工作、健身，以及今晚想怎样度过。"
+    },
+    "chapter": "everyday",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-03",
+    "label": "Social English · Trial 03",
+    "title": "After the Sunday Session",
+    "subtitle": "A British-English conversation on rest, social plans and choosing an evening that still feels like your own.",
+    "description": "Recovery, coffee & social plans",
+    "audio": "audio/social_english_trial_03_130wpm.mp3",
+    "timings": "timings/trial-03.json",
+    "dialogue": [
+      [
+        "Evan",
+        "That was a solid session. You looked much less tired than you did on Friday.",
+        "这次练得很扎实。你看起来比周五时精神多了。"
+      ],
+      [
+        "Oliver",
+        "I finally stopped trying to train hard on four hours of sleep. A radical idea, apparently.",
+        "我终于不再试图只睡四小时还拼命训练了。显然，这算是个激进想法。"
+      ],
+      [
+        "Evan",
+        "It is radical only because people keep treating exhaustion like a personality trait.",
+        "之所以显得激进，只是因为大家总把精疲力尽当成一种人格标签。"
+      ],
+      [
+        "Oliver",
+        "Fair point. I had a quiet morning, cooked properly, and came here without rushing. It changes the whole day.",
+        "有道理。我安静地过了个早晨，好好做了饭，也没有匆忙赶来。整天的感觉都不一样了。"
+      ],
+      [
+        "Evan",
+        "That sounds like a very grown-up Sunday. So, what's the plan after this?",
+        "听起来是个非常成熟的周日。那么，接下来有什么安排？"
+      ],
+      [
+        "Oliver",
+        "Coffee first. Then maybe the new rooftop place, if neither of us talks ourselves out of it.",
+        "先喝咖啡。然后也许去那家新开的露台店，只要我们谁都没把自己劝退。"
+      ],
+      [
+        "Evan",
+        "You don't need much persuading. You just need to know there is an easy way home.",
+        "你其实不太需要被劝。你只是想知道回家是否方便。"
+      ],
+      [
+        "Oliver",
+        "True. I like going out when it feels like a choice, not something I have to prove.",
+        "没错。我喜欢出门是因为自己选择去，而不是为了证明什么。"
+      ],
+      [
+        "Evan",
+        "Exactly. The best nights usually start with no grand expectations.",
+        "就是。最棒的夜晚通常都不是怀着多宏大的期待开始的。"
+      ],
+      [
+        "Oliver",
+        "And with people who don't make you explain every part of yourself.",
+        "而且是和那些不会让你解释自己每一面的朋友在一起。"
+      ],
+      [
+        "Evan",
+        "That matters more than the venue. A good crowd can make a small place feel brilliant.",
+        "这比场地本身重要。合拍的人能让一个小地方也变得很棒。"
+      ],
+      [
+        "Oliver",
+        "I've been trying to choose more of those people lately. Fewer plans that drain me, more conversations I actually remember.",
+        "最近我正尝试多选择这样的人。少一些耗尽我的计划，多一些真正值得记住的聊天。"
+      ],
+      [
+        "Evan",
+        "That's a useful filter. You have enough going on without spending your free time performing.",
+        "这是个很有用的筛选标准。你的事情已经够多了，不必在空闲时间也一直表现自己。"
+      ],
+      [
+        "Oliver",
+        "I still like a little bit of performance. Just the fun kind, with a decent song and no pressure to impress anyone.",
+        "我还是喜欢一点表演，只要是好玩的那种：一首不错的歌，不必费力取悦任何人。"
+      ],
+      [
+        "Evan",
+        "Then we should find somewhere with good music. You can judge the playlist, and I'll judge the cocktails.",
+        "那我们就找个音乐好的地方。你来评歌单，我来评鸡尾酒。"
+      ],
+      [
+        "Oliver",
+        "A dangerously efficient partnership. Though I reserve the right to leave early if the music is terrible.",
+        "这是个效率高得有点危险的搭档组合。不过如果音乐太糟，我保留提前离开的权利。"
+      ],
+      [
+        "Evan",
+        "Deal. Leaving when you want to is underrated.",
+        "成交。想走的时候就走，这件事其实被低估了。"
+      ],
+      [
+        "Oliver",
+        "So is changing your mind. I used to think every plan had to become a perfect story.",
+        "改变主意也是。我以前总觉得每个计划都得变成一个完美故事。"
+      ],
+      [
+        "Evan",
+        "Now you're learning to enjoy the evening while it's still happening.",
+        "现在你正在学着，在夜晚还在发生时就好好享受它。"
+      ],
+      [
+        "Oliver",
+        "I'll take that lesson. Come on, let's get coffee before I start treating recovery like another project.",
+        "这课我会认真学。走吧，趁我还没把恢复也当成另一个项目来做，先去喝咖啡。"
+      ]
+    ],
+    "speakers": [
+      "Evan",
+      "Oliver"
+    ],
+    "context": {
+      "en": "It is Sunday afternoon, just after a gym session. Evan and Oliver have no fixed plan yet, so coffee becomes a chance to talk about rest, social energy and choosing an evening that still feels good.",
+      "zh": "周日下午，两人刚结束健身。他们尚未确定晚上的安排，于是喝咖啡时聊起休息、社交精力，以及怎样安排才让自己舒服。"
+    },
+    "chapter": "everyday",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-04",
+    "label": "Social English · Trial 04",
+    "title": "A First Drink, No Pressure",
+    "subtitle": "A first date that stays relaxed: curiosity, attraction and asking instead of assuming.",
+    "description": "Gay dating · first meet · no pressure",
+    "audio": "audio/social_english_trial-04_130wpm.mp3",
+    "timings": "timings/trial-04.json",
+    "speakers": [
+      "Evan",
+      "Oliver"
+    ],
+    "dialogue": [
+      [
+        "Evan",
+        "Hi, Oliver? I'm glad we picked somewhere easy to find.",
+        "嗨，Oliver？很高兴我们选了个容易找到的地方。"
+      ],
+      [
+        "Oliver",
+        "Hi. Me too. I always prefer a first drink where neither person has to shout across a bar.",
+        "嗨。我也是。我总喜欢第一次喝酒时不用隔着酒吧大喊。"
+      ],
+      [
+        "Evan",
+        "Same. The app made you sound funny, but I wanted to see if the conversation felt easy in person.",
+        "我也是。软件上你看起来很有趣，但我想看看线下聊天是否自然。"
+      ],
+      [
+        "Oliver",
+        "That is fair. Profiles are useful, but they leave out whether someone makes you relax.",
+        "很合理。个人资料有用，但它看不出一个人能否让你放松。"
+      ],
+      [
+        "Evan",
+        "So far, you do. What made you say yes to meeting up?",
+        "目前为止，你能。是什么让你答应见面的？"
+      ],
+      [
+        "Oliver",
+        "You seemed thoughtful, and you admitted you were still learning how to take a proper day off.",
+        "你看起来很会思考，而且承认自己还在学着好好休息一天。"
+      ],
+      [
+        "Evan",
+        "A very revealing detail. I am working on it.",
+        "这真是个很暴露信息的细节。我正在努力。"
+      ],
+      [
+        "Oliver",
+        "Good. Ambition is attractive, but having a life outside the to-do list is attractive too.",
+        "很好。有野心很有吸引力，但待办事项之外还有生活也很有吸引力。"
+      ],
+      [
+        "Evan",
+        "I agree. What does a good weekend look like for you?",
+        "同意。你理想的周末是什么样？"
+      ],
+      [
+        "Oliver",
+        "A decent workout, friends I can be myself around, and one plan that feels a little spontaneous.",
+        "一次不错的训练、能自在相处的朋友，以及一个有点随性的安排。"
+      ],
+      [
+        "Evan",
+        "That sounds promising. I know a place with good music, if you are not in a rush.",
+        "听起来不错。如果你不赶时间，我知道一家音乐很好的店。"
+      ],
+      [
+        "Oliver",
+        "I'd like that. But I appreciate that you asked rather than assuming.",
+        "我愿意去。不过我很欣赏你会问，而不是直接假定。"
+      ],
+      [
+        "Evan",
+        "First meetings are easier when both people can change the plan without making it awkward.",
+        "第一次见面时，两个人都能改计划又不尴尬，会轻松很多。"
+      ],
+      [
+        "Oliver",
+        "Exactly. No pressure, no performance, just finding out whether we enjoy each other's company.",
+        "正是。没有压力，不必表演，只是看看彼此是否相处愉快。"
+      ],
+      [
+        "Evan",
+        "Then let's call this a good start and see where the evening goes.",
+        "那就把这当作一个好开始，看看这个夜晚会怎么发展。"
+      ],
+      [
+        "Oliver",
+        "A good start sounds perfect.",
+        "好开始听起来就很完美。"
+      ]
+    ],
+    "context": {
+      "en": "Evan and Oliver matched online and agreed to meet at a quiet bar. They are both interested, but neither wants the first meeting to feel like a performance or a test.",
+      "zh": "Evan 和 Oliver 在线上认识，约在一家安静的酒吧第一次见面。两人都有兴趣，但谁也不希望初见变成表演或压力测试。"
+    },
+    "chapter": "dating",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-05",
+    "label": "Social English · Trial 05",
+    "title": "What Are You Looking For?",
+    "subtitle": "Talking about dating intentions, exclusivity and honesty without making a date feel like an interview.",
+    "description": "Dating expectations · boundaries · honesty",
+    "audio": "audio/social_english_trial-05_130wpm.mp3",
+    "timings": "timings/trial-05.json",
+    "speakers": [
+      "Evan",
+      "Oliver"
+    ],
+    "dialogue": [
+      [
+        "Evan",
+        "Can I ask a slightly direct question? What are you looking for these days?",
+        "我可以问个有点直接的问题吗？你最近在寻找什么样的关系？"
+      ],
+      [
+        "Oliver",
+        "You can. I'm open to meeting people, but I'm not trying to force a label after one good evening.",
+        "当然。我愿意见人，但不会因为一个愉快的夜晚就急着套上标签。"
+      ],
+      [
+        "Evan",
+        "That makes sense. I like dating with intention, even if I do not know the outcome immediately.",
+        "有道理。我喜欢有目的地约会，即使一开始并不知道结果。"
+      ],
+      [
+        "Oliver",
+        "Same. Casual can be honest, and serious can be honest. The difficult part is pretending you want something you do not.",
+        "我也是。随意可以真诚，认真也可以真诚。困难的是假装自己想要并不想要的东西。"
+      ],
+      [
+        "Evan",
+        "I have learned that clarity is kinder than being vague just to keep the mood light.",
+        "我学到的是，比起为了气氛轻松而含糊，清晰反而更善意。"
+      ],
+      [
+        "Oliver",
+        "Yes. I do not need a promise tonight; I just prefer not to be left guessing.",
+        "是的。我今晚不需要承诺；我只是不喜欢被留下来猜测。"
+      ],
+      [
+        "Evan",
+        "What about exclusivity? Is that important to you?",
+        "那专一呢？这对你重要吗？"
+      ],
+      [
+        "Oliver",
+        "I do not have one answer for everyone. I care more about disclosure, consent, and agreeing on the same rules.",
+        "我没有适用于所有人的标准答案。我更在意坦诚、同意，以及共同认可同一套规则。"
+      ],
+      [
+        "Evan",
+        "I like that. It makes room for different relationships without treating anyone badly.",
+        "我喜欢这个说法。它给不同关系留出空间，也不亏待任何人。"
+      ],
+      [
+        "Oliver",
+        "Exactly. The structure matters less than whether both people feel respected inside it.",
+        "正是。关系结构没有双方在其中是否感到被尊重那么重要。"
+      ],
+      [
+        "Evan",
+        "For me, trust grows when someone can say what they mean, even when the answer is complicated.",
+        "对我来说，当一个人即使答案复杂也能说出真实想法，信任就会增长。"
+      ],
+      [
+        "Oliver",
+        "And when they can hear an answer they did not expect without punishing the other person for it.",
+        "也包括他们能听到意料之外的答案，而不因此惩罚对方。"
+      ],
+      [
+        "Evan",
+        "That is rare, but it is a good standard.",
+        "这很难得，但这是个好标准。"
+      ],
+      [
+        "Oliver",
+        "A useful standard. It saves a lot of mixed signals later.",
+        "很实用的标准。它能避免之后很多暧昧不清的信号。"
+      ],
+      [
+        "Evan",
+        "I'm glad we can talk like this without turning it into an interview.",
+        "我很高兴我们能这么聊，而不把它变成面试。"
+      ],
+      [
+        "Oliver",
+        "Me too. Honesty can still be relaxed.",
+        "我也是。真诚依然可以很轻松。"
+      ]
+    ],
+    "context": {
+      "en": "After a few relaxed dates, Evan and Oliver are enjoying each other's company. Over a drink, Evan raises the question of intentions in a way that leaves room for an honest, unhurried answer.",
+      "zh": "经历几次轻松约会后，两人相处得很愉快。喝酒时，Evan 自然地问起彼此对关系的期待，为坦诚但不仓促的回答留出空间。"
+    },
+    "chapter": "dating",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-06",
+    "label": "Social English · Trial 06",
+    "title": "Clear Before Closer",
+    "subtitle": "A calm, adult conversation about consent, pace and sexual health before becoming more intimate.",
+    "description": "Consent · pace · sexual health",
+    "audio": "audio/social_english_trial-06_130wpm.mp3",
+    "timings": "timings/trial-06.json",
+    "speakers": [
+      "Evan",
+      "Oliver"
+    ],
+    "dialogue": [
+      [
+        "Evan",
+        "I'm having a really good time, and I'd like to slow down for a minute.",
+        "我真的很享受现在，但我想先慢一点。"
+      ],
+      [
+        "Oliver",
+        "Of course. We can slow down, stop, or just keep talking. What feels right to you?",
+        "当然。我们可以慢下来、停下，或者继续聊天。你觉得怎样舒服？"
+      ],
+      [
+        "Evan",
+        "Thank you. I like being clear before anything gets more intimate.",
+        "谢谢。在更亲密之前，我喜欢把话说清楚。"
+      ],
+      [
+        "Oliver",
+        "I appreciate that. It makes things feel safer, not less natural.",
+        "我很欣赏。这会让人更有安全感，不会显得不自然。"
+      ],
+      [
+        "Evan",
+        "Before we go any further, I prefer to be straightforward about sexual health and protection.",
+        "在进一步之前，我更愿意直接谈谈性健康和保护措施。"
+      ],
+      [
+        "Oliver",
+        "I'm glad you brought it up. I was tested recently, and I use protection. I'm happy to talk through anything you need.",
+        "很高兴你提出来。我最近做过检测，也会使用保护措施。你想谈什么我都愿意。"
+      ],
+      [
+        "Evan",
+        "That is reassuring. I was tested recently too, and I value being able to ask questions without embarrassment.",
+        "这让我安心。我最近也做过检测，而且我很看重能不尴尬地提问。"
+      ],
+      [
+        "Oliver",
+        "You never need to be embarrassed. Looking after each other is part of being an adult.",
+        "你不必感到尴尬。照顾彼此本就是成年人该做的一部分。"
+      ],
+      [
+        "Evan",
+        "And if either of us changes our mind, we say so. No explanations needed.",
+        "还有，如果任何一方改变主意，就直接说。不需要解释。"
+      ],
+      [
+        "Oliver",
+        "Completely. Your comfort matters more than keeping up a moment.",
+        "完全同意。你的舒适比维持某个气氛更重要。"
+      ],
+      [
+        "Evan",
+        "That makes me feel much more relaxed.",
+        "这让我放松多了。"
+      ],
+      [
+        "Oliver",
+        "Good. We can take this at whatever pace feels good for both of us.",
+        "很好。我们可以按对双方都舒服的节奏来。"
+      ],
+      [
+        "Evan",
+        "I like that. Clear, calm, and not overcomplicated.",
+        "我喜欢这样。清晰、平静，而且不复杂。"
+      ],
+      [
+        "Oliver",
+        "The best kind of confidence, really.",
+        "其实这是最好的自信。"
+      ],
+      [
+        "Evan",
+        "Thank you for meeting me there.",
+        "谢谢你愿意和我达成这个共识。"
+      ],
+      [
+        "Oliver",
+        "Thank you for saying it out loud.",
+        "谢谢你把它说出来。"
+      ]
+    ],
+    "context": {
+      "en": "The date has gone well and the mood is becoming more intimate. Evan pauses before things move further, so both men can talk clearly about pace, consent and sexual health.",
+      "zh": "约会进展顺利，气氛也更亲密。Evan 在关系进一步发展前主动暂停，让两人清楚聊聊节奏、同意和性健康。"
+    },
+    "chapter": "dating",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-07",
+    "label": "Social English · Trial 07",
+    "title": "Queer Film Night",
+    "subtitle": "Making friends and connections in a queer social space without turning every interaction into a test.",
+    "description": "Queer community · friendship · social ease",
+    "audio": "audio/social_english_trial-07_130wpm.mp3",
+    "timings": "timings/trial-07.json",
+    "speakers": [
+      "Miles",
+      "Evan"
+    ],
+    "dialogue": [
+      [
+        "Miles",
+        "Is this your first time at the queer film night?",
+        "这是你第一次来酷儿电影夜吗？"
+      ],
+      [
+        "Evan",
+        "It is. I nearly stayed home, but I promised myself I would meet more people offline.",
+        "是的。我差点待在家里，但答应过自己要在线下多认识些人。"
+      ],
+      [
+        "Miles",
+        "I am glad you came. It is a friendly crowd, and nobody expects you to know everyone.",
+        "很高兴你来了。这里的人很友好，也没人期待你认识所有人。"
+      ],
+      [
+        "Evan",
+        "That helps. Apps are useful, but I miss meeting people without a profile doing all the talking.",
+        "这就好。软件有用，但我怀念不用让个人资料替我说完所有话的相遇。"
+      ],
+      [
+        "Miles",
+        "Exactly. In person, you notice how someone listens, laughs, and treats the people around them.",
+        "没错。面对面时，你会注意到一个人如何倾听、发笑、对待身边的人。"
+      ],
+      [
+        "Evan",
+        "And there is less pressure to decide in ten seconds whether it is friendship, dating, or nothing.",
+        "而且不必在十秒内决定这是友情、约会，还是毫无可能。"
+      ],
+      [
+        "Miles",
+        "That is one of my favourite things about queer spaces. A conversation can just be a conversation.",
+        "这正是我喜欢酷儿空间的一点。一段聊天可以就只是一段聊天。"
+      ],
+      [
+        "Evan",
+        "I like that. There is room to be curious without leading anyone on.",
+        "我喜欢这种感觉。你可以好奇，又不会因此误导别人。"
+      ],
+      [
+        "Miles",
+        "The organiser is good at introductions. He knows who likes films, who likes dancing, and who just wants a quieter chat.",
+        "组织者很擅长介绍人认识。他知道谁爱电影、谁爱跳舞、谁只想安静聊聊。"
+      ],
+      [
+        "Evan",
+        "That sounds almost too efficient for a social event.",
+        "对一个社交活动来说，这听起来效率高得有点过头。"
+      ],
+      [
+        "Miles",
+        "He is efficient, but never pushy. He makes it easy to say yes or no.",
+        "他效率很高，但从不强迫。他让人很容易说愿意或不愿意。"
+      ],
+      [
+        "Evan",
+        "That is a skill. I want to get better at inviting people into my life without making it feel like a test.",
+        "这是一种能力。我也想更擅长邀请别人进入我的生活，又不让它像一场考试。"
+      ],
+      [
+        "Miles",
+        "Start small. Ask one real question and let the answer go somewhere.",
+        "从小处开始。问一个真实的问题，让答案自然延伸。"
+      ],
+      [
+        "Evan",
+        "Like asking what brought someone here?",
+        "比如问对方是什么让他来到这里？"
+      ],
+      [
+        "Miles",
+        "Exactly. Or whether they want to grab a coffee after the film.",
+        "正是。或者问他电影后想不想一起喝杯咖啡。"
+      ],
+      [
+        "Evan",
+        "Could I add you on Instagram first? Completely fine if not.",
+        "我可以先加你的 Instagram 吗？不方便也完全没关系。"
+      ]
+    ],
+    "context": {
+      "en": "Evan comes alone to a local queer film night because he wants more real-world connection. Miles knows the community better and opens a friendly conversation without making the moment feel like a test.",
+      "zh": "Evan 独自来到本地酷儿电影夜，希望多一些线下连接。更熟悉这个社群的 Miles 主动搭话，却不会让这次相遇像一场考验。"
+    },
+    "chapter": "circle",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-08",
+    "label": "Social English · Trial 08",
+    "title": "An Honest Check-In",
+    "subtitle": "Ending a date with care: saying no clearly, leaving room for feelings, and avoiding the slow fade.",
+    "description": "Post-date · respectful honesty · closure",
+    "audio": "audio/social_english_trial-08_130wpm.mp3",
+    "timings": "timings/trial-08.json",
+    "speakers": [
+      "Kai",
+      "Oliver"
+    ],
+    "dialogue": [
+      [
+        "Kai",
+        "I wanted to check in after last night. I had a lovely time.",
+        "我想在昨晚之后和你确认一下。我度过了很愉快的时光。"
+      ],
+      [
+        "Oliver",
+        "I am glad you said that. I did too, and I was hoping we could be honest about how it felt.",
+        "很高兴你这么说。我也是，也希望我们能坦诚聊聊感受。"
+      ],
+      [
+        "Kai",
+        "I felt comfortable with you, which I do not take for granted.",
+        "和你在一起我觉得很自在，这一点我不会视为理所当然。"
+      ],
+      [
+        "Oliver",
+        "Neither do I. You were easy to talk to, and I liked how direct you were.",
+        "我也不会。和你聊天很轻松，我也喜欢你的直接。"
+      ],
+      [
+        "Kai",
+        "I also want to be fair: I am still working out whether I felt a romantic spark.",
+        "但我也想公平地说：我还在想自己是否感到了爱情的火花。"
+      ],
+      [
+        "Oliver",
+        "Thank you for saying it clearly. I would rather hear that than be slowly ghosted.",
+        "谢谢你说得清楚。我宁愿听到这个，也不想被慢慢冷处理。"
+      ],
+      [
+        "Kai",
+        "I did not want to disappear or make you read between the lines.",
+        "我不想消失，也不想让你去揣测字里行间。"
+      ],
+      [
+        "Oliver",
+        "That means a lot. Rejection can sting, but respectful honesty makes it much easier to handle.",
+        "这很重要。被拒绝会刺痛，但尊重的真诚会让它更容易承受。"
+      ],
+      [
+        "Kai",
+        "I hope it does not sound like a rehearsed speech. I genuinely enjoyed meeting you.",
+        "希望听起来不像背好的台词。我是真心享受认识你的过程。"
+      ],
+      [
+        "Oliver",
+        "It does not. It sounds like you are treating me as a person, not a problem to avoid.",
+        "不会。它听起来像你把我当作一个人，而不是一个需要避开的麻烦。"
+      ],
+      [
+        "Kai",
+        "Would you be open to staying in touch, with no pressure to make that happen right away?",
+        "你愿意保持联系吗？当然不需要立刻做到。"
+      ],
+      [
+        "Oliver",
+        "Maybe, but I would prefer a little space first. I know what helps me reset.",
+        "也许，不过我想先有一点空间。我知道什么能帮助我恢复。"
+      ],
+      [
+        "Kai",
+        "That is completely fair. Thank you for telling me what you need.",
+        "这完全合理。谢谢你告诉我自己的需要。"
+      ],
+      [
+        "Oliver",
+        "Thank you for asking instead of assuming. That is a good ending to a good date.",
+        "谢谢你会问而不是想当然。这是一次好约会的好结尾。"
+      ],
+      [
+        "Kai",
+        "I hope we both find the connection that fits.",
+        "我希望我们都能找到适合自己的连接。"
+      ],
+      [
+        "Oliver",
+        "I think we will.",
+        "我想我们会的。"
+      ]
+    ],
+    "context": {
+      "en": "The morning after a promising date, Kai messages Oliver rather than letting uncertainty grow. They decide to be kind and direct about what they felt, whatever happens next.",
+      "zh": "一次颇有好感的约会后的第二天早晨，Kai 主动联系 Oliver，而不是让不确定感继续累积。两人决定温和、直接地谈谈彼此的感受。"
+    },
+    "chapter": "dating",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-09",
+    "label": "Social English · Trial 09",
+    "title": "An Easy Invitation",
+    "subtitle": "Letting friendship grow through an invitation that is clear, warm and easy to decline.",
+    "description": "Shared circle · friendship · low-pressure plans",
+    "audio": "audio/social_english_trial-09_130wpm.mp3",
+    "timings": "timings/trial-09.json",
+    "speakers": [
+      "Miles",
+      "Evan"
+    ],
+    "dialogue": [
+      [
+        "Miles",
+        "I was thinking of putting together a small dinner on Sunday. Nothing formal, just a few people who are easy with one another.",
+        "我在想周日组织一个小型晚餐。不正式，只是几位彼此相处自在的人。"
+      ],
+      [
+        "Evan",
+        "That sounds good. Is it the sort of evening where I should bring something, or just bring myself?",
+        "听起来不错。这种聚会我需要带点什么，还是人到就好？"
+      ],
+      [
+        "Miles",
+        "Bring yourself. A bottle or a dessert is welcome, but it is not an entrance fee.",
+        "人来就好。带瓶酒或甜点当然欢迎，但那不是入场费。"
+      ],
+      [
+        "Evan",
+        "I like that. I sometimes overthink invitations as though there is a correct way to arrive.",
+        "我喜欢这种说法。我有时会把邀请想得太复杂，好像必须用正确的方式出现。"
+      ],
+      [
+        "Miles",
+        "There is only one rule: do not apologise for taking up a chair.",
+        "只有一条规则：别因为占了一把椅子而道歉。"
+      ],
+      [
+        "Evan",
+        "Fair enough. Will I know anyone besides you?",
+        "说得有道理。除了你，我还会认识别人吗？"
+      ],
+      [
+        "Miles",
+        "A couple of people from film night, and Kai, who is very good at making quieter people feel included.",
+        "有几位电影夜认识的人，还有 Kai；他很擅长让安静的人也有被接纳的感觉。"
+      ],
+      [
+        "Evan",
+        "That helps. Big groups can make me feel as if I need to perform a version of myself.",
+        "这让我放心。大群体有时会让我觉得自己得表演出某个版本的自己。"
+      ],
+      [
+        "Miles",
+        "You will not have to. It is a sit-down dinner, not an audition.",
+        "你不需要。那是一顿坐下来吃的晚饭，不是一场试镜。"
+      ],
+      [
+        "Evan",
+        "Then yes, I would like to come. I can bring a lemon tart from the bakery near my flat.",
+        "那我愿意来。我可以带公寓附近面包店的柠檬挞。"
+      ],
+      [
+        "Miles",
+        "Perfect. And if Sunday stops working, just tell me. A plan is allowed to change.",
+        "太好了。如果周日后来不合适，直接告诉我。计划本来就可以改变。"
+      ],
+      [
+        "Evan",
+        "Thank you. That makes it easier to say yes in the first place.",
+        "谢谢。这会让我一开始就更容易答应。"
+      ],
+      [
+        "Miles",
+        "Good invitations should leave room for a real answer.",
+        "好的邀请应该为真实的回答留出空间。"
+      ],
+      [
+        "Evan",
+        "I am learning that. I want more friendships that feel intentional without becoming another task.",
+        "我正在学这件事。我想要更多有心经营、但不会变成另一项任务的友谊。"
+      ],
+      [
+        "Miles",
+        "That is exactly the mood. Food, conversation, and nobody checking whether they are doing social life correctly.",
+        "这正是我想要的氛围：食物、聊天，以及没有人检查自己是否把社交生活做对了。"
+      ],
+      [
+        "Evan",
+        "Sold. Send me the time, and I will see you Sunday.",
+        "成交。把时间发我，周日见。"
+      ]
+    ],
+    "context": {
+      "en": "A week after the film night, Miles invites Evan to a small Sunday dinner with people from the wider queer social circle. Evan wants to say yes, but also wants to feel that the invitation leaves room for him to be himself.",
+      "zh": "电影夜一周后，Miles 邀请 Evan 参加一场与更广社交圈朋友的小型周日晚餐。Evan 想答应，但也希望这份邀请让他能自在地做自己。"
+    },
+    "chapter": "circle",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-10",
+    "label": "Social English · Trial 10",
+    "title": "Walking to the Station",
+    "subtitle": "A group dinner turns into an easy one-to-one plan: direct, flexible and free of pressure.",
+    "description": "Shared circle · new connection · making plans",
+    "audio": "audio/social_english_trial-10_130wpm.mp3",
+    "timings": "timings/trial-10.json",
+    "speakers": [
+      "Kai",
+      "Oliver"
+    ],
+    "dialogue": [
+      [
+        "Kai",
+        "I am glad I came tonight. I nearly stayed home after work.",
+        "我很高兴今晚来了。下班后我差点待在家里。"
+      ],
+      [
+        "Oliver",
+        "You did not look like you were forcing yourself.",
+        "你看起来并不像在勉强自己。"
+      ],
+      [
+        "Kai",
+        "That is because Miles made it hard to hover at the edge. He actually introduced people properly.",
+        "那是因为 Miles 让人很难只在边缘徘徊。他真的会好好介绍大家。"
+      ],
+      [
+        "Oliver",
+        "He notices who is new before they have to announce it.",
+        "他会在人们不得不自我介绍之前，就注意到谁是新来的。"
+      ],
+      [
+        "Kai",
+        "You were easy to talk to as well. You ask questions that make people slow down.",
+        "和你聊天也很轻松。你问的问题会让人慢下来。"
+      ],
+      [
+        "Oliver",
+        "I take that as a compliment. I am not very good at filling every silence.",
+        "我把这当作夸奖。我不太擅长填满每一段沉默。"
+      ],
+      [
+        "Kai",
+        "You do not need to. Silence is less awkward when nobody is trying to win the room.",
+        "你不需要。没有人想要赢得全场时，沉默就没那么尴尬。"
+      ],
+      [
+        "Oliver",
+        "That might be the healthiest description of a good evening I have heard.",
+        "这可能是我听过对一个愉快夜晚最健康的描述。"
+      ],
+      [
+        "Kai",
+        "Would you be up for a coffee sometime next week? It can be a proper plan or simply a walk after work.",
+        "你下周愿意一起喝杯咖啡吗？可以认真约个时间，也可以只是下班后散散步。"
+      ],
+      [
+        "Oliver",
+        "A coffee sounds nice. Tuesday is busy, but Thursday is open.",
+        "喝咖啡听起来不错。周二比较忙，周四有空。"
+      ],
+      [
+        "Kai",
+        "Thursday works for me. Shall we keep it flexible until the day before?",
+        "周四对我也可以。我们到前一天再灵活确认，好吗？"
+      ],
+      [
+        "Oliver",
+        "Yes. I appreciate plans that leave room for real life.",
+        "好。我欣赏能为真实生活留出余地的计划。"
+      ],
+      [
+        "Kai",
+        "Good. I prefer clarity, but I do not want a calendar invitation to feel like a contract.",
+        "很好。我喜欢清晰，但不想让日历邀请像一份合同。"
+      ],
+      [
+        "Oliver",
+        "That is a useful distinction. Clear does not have to mean intense.",
+        "这是个很有用的区分。清晰不等于强烈。"
+      ],
+      [
+        "Kai",
+        "Exactly. I will message you on Wednesday, and we can choose a place then.",
+        "没错。我周三给你发消息，到时我们再选地点。"
+      ],
+      [
+        "Oliver",
+        "Perfect. Get home safe, Kai.",
+        "很好。回家路上注意安全，Kai。"
+      ]
+    ],
+    "context": {
+      "en": "At the end of Miles's dinner, Kai and Oliver walk towards the station together. The group setting has made conversation easy, and Kai suggests seeing each other again in a way that is clear without being intense.",
+      "zh": "Miles 的晚餐结束后，Kai 和 Oliver 一起走向车站。群体氛围让聊天很轻松，Kai 提议再次见面，方式清晰却不带压力。"
+    },
+    "chapter": "circle",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-11",
+    "label": "Social English · Trial 11",
+    "title": "The Last Two Chairs",
+    "subtitle": "Two friends reflect on hosting a welcoming queer social space and make room for the next gathering.",
+    "description": "Shared circle · community care · belonging",
+    "audio": "audio/social_english_trial-11_130wpm.mp3",
+    "timings": "timings/trial-11.json",
+    "speakers": [
+      "Miles",
+      "Kai"
+    ],
+    "dialogue": [
+      [
+        "Miles",
+        "We ended up with two spare chairs. I thought the table might feel unfinished.",
+        "最后空了两把椅子。我原以为餐桌会显得没坐满。"
+      ],
+      [
+        "Kai",
+        "It did not. It made room for people to move around without asking permission.",
+        "并没有。那给了大家不用征求许可就能走动的空间。"
+      ],
+      [
+        "Miles",
+        "You notice practical things in a very calming way.",
+        "你会用一种很让人安心的方式注意到实际细节。"
+      ],
+      [
+        "Kai",
+        "I like environments that let people decide how close they want to be.",
+        "我喜欢能让人自行决定想靠多近的环境。"
+      ],
+      [
+        "Miles",
+        "That is what I was trying to create. A place where no one has to explain why they came alone.",
+        "这正是我想营造的地方：没有人需要解释自己为什么独自前来。"
+      ],
+      [
+        "Kai",
+        "You did. Evan looked more settled by the end of the night.",
+        "你做到了。到晚上结束时，Evan 看起来放松多了。"
+      ],
+      [
+        "Miles",
+        "He did. I think he needed proof that new people can be kind without wanting something immediately.",
+        "确实。我想他需要证明：新认识的人可以善意相待，而不是立刻想从你身上得到什么。"
+      ],
+      [
+        "Kai",
+        "Most of us need that proof now and then.",
+        "我们大多数人时不时都需要这种证明。"
+      ],
+      [
+        "Miles",
+        "Would you help me do another one next month?",
+        "你愿意下个月帮我再办一次吗？"
+      ],
+      [
+        "Kai",
+        "Yes, but smaller is better. Six people, a simple meal, and a clear finish time.",
+        "愿意，但小一点更好。六个人，一顿简单的饭，和一个明确的结束时间。"
+      ],
+      [
+        "Miles",
+        "You make hosting sound like a very good boundary.",
+        "你把待客说得像一个非常好的边界。"
+      ],
+      [
+        "Kai",
+        "It is. Hosts deserve to enjoy their own evening too.",
+        "本来就是。主人也值得享受自己的夜晚。"
+      ],
+      [
+        "Miles",
+        "I will remember that. Maybe we rotate the table so no one becomes the permanent organiser.",
+        "我会记住。也许我们轮流组织，这样没有人会永远变成那个组织者。"
+      ],
+      [
+        "Kai",
+        "That is fair. Community works better when care is shared.",
+        "这样很公平。关怀被分担时，社群会运转得更好。"
+      ],
+      [
+        "Miles",
+        "Then next time, you choose the playlist and I handle the introductions.",
+        "那下次你选歌单，我来负责介绍大家认识。"
+      ],
+      [
+        "Kai",
+        "Deal. And keep the two spare chairs.",
+        "成交。而且保留那两把空椅子。"
+      ]
+    ],
+    "context": {
+      "en": "After the guests leave, Miles and Kai clear the table and reflect on why the evening felt welcoming. They make a small plan for another gathering, leaving the shared circle open for future people and stories.",
+      "zh": "客人离开后，Miles 和 Kai 一边收拾餐桌，一边回顾为什么这个夜晚让人感到被接纳。他们为下一次聚会做了小计划，也为未来的人和故事留下空间。"
+    },
+    "chapter": "circle",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-12",
+    "label": "Social English · Trial 12",
+    "title": "A Coffee, No Agenda",
+    "subtitle": "Two people make room for a genuine friendship after being honest that romance is not the right fit.",
+    "description": "Friendship · boundaries · staying in touch",
+    "audio": "audio/social_english_trial-12_130wpm.mp3",
+    "timings": "timings/trial-12.json",
+    "speakers": [
+      "Kai",
+      "Oliver"
+    ],
+    "dialogue": [
+      [
+        "Kai",
+        "I am glad we actually made it for coffee. I was not sure whether my message would feel too soon.",
+        "我很高兴我们真的出来喝咖啡了。我不确定我的消息会不会显得太快。"
+      ],
+      [
+        "Oliver",
+        "It did not. A little time helped, and I appreciated that you did not pretend nothing had happened.",
+        "不会。留一点时间很有帮助，而且我很欣赏你没有假装什么都没发生。"
+      ],
+      [
+        "Kai",
+        "I did not want our honest conversation to make every future one feel awkward.",
+        "我不想让那次坦诚的对话，令以后每一次交流都变得尴尬。"
+      ],
+      [
+        "Oliver",
+        "It only becomes awkward when people avoid it completely. We handled it well.",
+        "只有当人们完全回避它时才会尴尬。我们处理得很好。"
+      ],
+      [
+        "Kai",
+        "That is good to hear. I value the ease we have when we talk.",
+        "听你这么说很好。我很珍惜我们聊天时的自在。"
+      ],
+      [
+        "Oliver",
+        "So do I. Friendship is not a consolation prize when it is chosen honestly.",
+        "我也是。当友谊是坦诚选择的，它就不是安慰奖。"
+      ],
+      [
+        "Kai",
+        "Exactly. I do not want to keep you around out of guilt, and I do not want either of us to perform being fine.",
+        "正是。我不想因为内疚而和你保持联系，也不希望我们任何一方假装没事。"
+      ],
+      [
+        "Oliver",
+        "Then let us keep it simple. We can have coffee when it sounds nice, and say no when life is busy.",
+        "那就让它简单些。想喝咖啡时就喝，生活忙时也可以说不。"
+      ],
+      [
+        "Kai",
+        "That kind of clarity suits me.",
+        "这种清晰很适合我。"
+      ],
+      [
+        "Oliver",
+        "Me too. I am learning that a relaxed friendship still needs a little intention.",
+        "我也是。我正在学着明白：轻松的友谊也需要一点用心。"
+      ],
+      [
+        "Kai",
+        "Would you come to Miles's next dinner, if he does one?",
+        "如果 Miles 再办一次晚餐，你会来吗？"
+      ],
+      [
+        "Oliver",
+        "Yes, especially if you promise not to make me choose the playlist.",
+        "会，尤其是你答应不让我选歌单的话。"
+      ],
+      [
+        "Kai",
+        "No promises. Your quiet confidence might hide excellent taste.",
+        "不敢保证。你安静的自信背后可能藏着很好的品味。"
+      ],
+      [
+        "Oliver",
+        "That is a very diplomatic way of assigning me homework.",
+        "这是非常外交地给我布置作业。"
+      ],
+      [
+        "Kai",
+        "I am trying to be a better friend already.",
+        "我已经在努力做个更好的朋友了。"
+      ],
+      [
+        "Oliver",
+        "Then you are off to a solid start.",
+        "那你的开头很不错。"
+      ]
+    ],
+    "context": {
+      "en": "A few days after their walk to the station, Kai and Oliver meet for coffee. They have already been honest that romance is not the right fit, and now they find a relaxed, intentional way to let a friendship take shape.",
+      "zh": "一起走到车站的几天后，Kai 和 Oliver 约了咖啡。他们已经坦诚过恋爱并不合适，现在正以轻松而有心的方式，让友谊慢慢成形。"
+    },
+    "chapter": "circle",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-13",
+    "label": "Social English · Trial 13",
+    "title": "One More Place Setting",
+    "subtitle": "Evan moves from being invited into a circle to helping make the next gathering welcoming for someone else.",
+    "description": "Shared circle · hosting · inclusive invitation",
+    "audio": "audio/social_english_trial-13_130wpm.mp3",
+    "timings": "timings/trial-13.json",
+    "speakers": [
+      "Evan",
+      "Miles"
+    ],
+    "dialogue": [
+      [
+        "Miles",
+        "I am thinking about another small dinner next month. Kai is choosing the music this time.",
+        "我在想下个月再办一次小型晚餐。这次 Kai 负责选音乐。"
+      ],
+      [
+        "Evan",
+        "That feels like a brave decision. But I would happily come again.",
+        "这听起来是个大胆的决定。不过我很乐意再来。"
+      ],
+      [
+        "Miles",
+        "Good. I wondered whether you might help me with something as well.",
+        "太好了。我还在想，你愿不愿意帮我做一件事。"
+      ],
+      [
+        "Evan",
+        "What sort of thing?",
+        "什么事？"
+      ],
+      [
+        "Miles",
+        "There is someone from film night who seemed interested, but a little unsure about joining a dinner.",
+        "电影夜有个人看起来感兴趣，但对参加晚餐还有些犹豫。"
+      ],
+      [
+        "Evan",
+        "I understand that feeling. Being new can make a simple invitation feel much bigger than it is.",
+        "我懂那种感觉。作为新人，一份简单的邀请会显得比实际更重大。"
+      ],
+      [
+        "Miles",
+        "Exactly. I do not want to persuade him into a room he is not ready for.",
+        "正是。我不想说服他进入一个他还没准备好的场合。"
+      ],
+      [
+        "Evan",
+        "Maybe we make the details clear: who will be there, when it ends, and that it is fine to leave early.",
+        "也许我们可以把细节讲清楚：谁会到、什么时候结束，还有提前离开也完全可以。"
+      ],
+      [
+        "Miles",
+        "That is thoughtful. It gives him information without making the choice for him.",
+        "很周到。这样既给他信息，又不会替他做选择。"
+      ],
+      [
+        "Evan",
+        "You did something similar for me. You made it easy to say yes, but also easy to say not this time.",
+        "你当时对我也做了类似的事。你让我很容易答应，也很容易说这次不去了。"
+      ],
+      [
+        "Miles",
+        "I am glad it landed that way. Would you be comfortable sending the message?",
+        "很高兴它被你这样理解。你愿意发这条消息吗？"
+      ],
+      [
+        "Evan",
+        "Yes. I can say I am going too, so he knows there will be at least one familiar face.",
+        "愿意。我可以说我也会去，这样他就知道至少会有一张熟悉的面孔。"
+      ],
+      [
+        "Miles",
+        "Perfect. That is not pressure; it is a handrail.",
+        "太好了。那不是压力，而是一个扶手。"
+      ],
+      [
+        "Evan",
+        "I like that image. People should be able to hold on if they need to, not be pulled along.",
+        "我喜欢这个比喻。人们需要时可以扶一下，而不是被人拉着走。"
+      ],
+      [
+        "Miles",
+        "You have become very good at noticing what makes a room feel safe.",
+        "你已经很擅长注意什么会让一个空间有安全感。"
+      ],
+      [
+        "Evan",
+        "Maybe because I have started noticing what I need myself.",
+        "也许是因为我开始注意到自己需要什么了。"
+      ]
+    ],
+    "context": {
+      "en": "As Miles plans the next small dinner, Evan offers to help welcome someone who feels uncertain about joining. The conversation quietly shows Evan becoming an active part of the circle rather than only its newest guest.",
+      "zh": "Miles 筹备下一场小型晚餐时，Evan 主动提出帮忙欢迎一位对加入聚会感到犹豫的人。这段对话呈现了 Evan 从圈子的新来者慢慢变成积极参与者。"
+    },
+    "chapter": "circle",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-14",
+    "label": "Social English · Trial 14",
+    "title": "A Plan That Can Breathe",
+    "subtitle": "Evan and Oliver make a gentle plan to keep seeing each other without turning connection into a contract.",
+    "description": "Dating · pace · intentional connection",
+    "audio": "audio/social_english_trial-14_130wpm.mp3",
+    "timings": "timings/trial-14.json",
+    "speakers": [
+      "Evan",
+      "Oliver"
+    ],
+    "dialogue": [
+      [
+        "Evan",
+        "I liked seeing you at Miles's dinner. You seemed more relaxed than you were on our first drink.",
+        "我很喜欢在 Miles 的晚餐上见到你。你看起来比我们第一次喝酒时放松多了。"
+      ],
+      [
+        "Oliver",
+        "I was. It is easier to settle into a room when nobody is trying to impress everyone in it.",
+        "是的。当没有人想给所有人留下印象时，更容易在一个空间里放松下来。"
+      ],
+      [
+        "Evan",
+        "I have been thinking about us as well. I like spending time with you, and I do not want it to become something vague by accident.",
+        "我也一直在想我们。我喜欢和你相处，也不希望它不知不觉变成一段模糊的关系。"
+      ],
+      [
+        "Oliver",
+        "I am glad you said that. Vague can feel easy at first, but it often leaves someone doing all the guessing.",
+        "很高兴你说出来。模糊一开始似乎很轻松，但往往会让其中一个人一直猜测。"
+      ],
+      [
+        "Evan",
+        "I do not need us to decide everything now. I just want to be intentional about making time.",
+        "我不需要我们现在决定一切。我只是想有意识地留出相处时间。"
+      ],
+      [
+        "Oliver",
+        "That feels right to me. A regular plan can be nice, as long as it does not become another obligation.",
+        "我觉得这样很好。固定的计划会很不错，只要它不会变成另一项义务。"
+      ],
+      [
+        "Evan",
+        "What about dinner every other Sunday? And if one of us is tired or busy, we say so early.",
+        "每隔一个周日一起吃晚饭怎么样？如果其中一个人累了或忙，就早点说。"
+      ],
+      [
+        "Oliver",
+        "I like the rhythm of that. It gives us something to look forward to without pretending life never changes.",
+        "我喜欢这个节奏。它让我们有所期待，又不会假装生活从不变化。"
+      ],
+      [
+        "Evan",
+        "Exactly. A plan that can breathe.",
+        "正是。一个可以呼吸的计划。"
+      ],
+      [
+        "Oliver",
+        "That sounds like you have been listening to Kai.",
+        "听起来你一直在听 Kai 说话。"
+      ],
+      [
+        "Evan",
+        "Maybe a little. He is annoyingly good at practical wisdom.",
+        "也许有一点。他在实用的智慧方面好得让人有点烦。"
+      ],
+      [
+        "Oliver",
+        "Then we should take the useful part and leave the rest.",
+        "那我们就拿走有用的部分，其余留给他。"
+      ],
+      [
+        "Evan",
+        "So, next Sunday? There is a small place near the river I have wanted to try.",
+        "那下个周日？河边有一家小店我一直想试试。"
+      ],
+      [
+        "Oliver",
+        "Next Sunday works. Send me the name, and I will bring my honest opinion.",
+        "下个周日可以。把名字发给我，我会带上我的真实评价。"
+      ],
+      [
+        "Evan",
+        "That is all I am asking for.",
+        "这正是我想要的。"
+      ],
+      [
+        "Oliver",
+        "Good. Then it is a plan, not a promise carved in stone.",
+        "很好。那这是一项计划，不是刻在石头上的承诺。"
+      ]
+    ],
+    "context": {
+      "en": "After seeing each other again in the shared circle, Evan and Oliver take a walk and talk about keeping their connection intentional. Neither wants a rigid label or a vague routine, so they make a plan with room for real life.",
+      "zh": "在共同的社交圈再次见面后，Evan 和 Oliver 散步时聊起如何有意识地维系彼此。他们都不想要僵硬的标签或模糊的惯性，于是制定了一个能容纳真实生活的计划。"
+    },
+    "chapter": "dating",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-15",
+    "label": "Social English · Trial 15",
+    "title": "The Shirt Was Deliberate",
+    "subtitle": "A riverside date brings compliments, dry humour and a little more courage to say what they want.",
+    "description": "Dating · playful flirting · dinner plans",
+    "audio": "audio/social_english_trial-15_130wpm.mp3",
+    "timings": "timings/trial-15.json",
+    "speakers": [
+      "Evan",
+      "Oliver"
+    ],
+    "dialogue": [
+      [
+        "Evan",
+        "Is that a new shirt, or am I just paying more attention tonight?",
+        "那是新衬衫吗？还是我今晚看得更仔细了？"
+      ],
+      [
+        "Oliver",
+        "Both, probably. Would you be disappointed if I said I chose it quite carefully?",
+        "大概都有。要是我说这件是认真挑的，你会失望吗？"
+      ],
+      [
+        "Evan",
+        "That depends. Did you choose it for the restaurant or for me?",
+        "那得看情况。你是为餐厅挑的，还是为我？"
+      ],
+      [
+        "Oliver",
+        "The restaurant hasn't complimented me yet, so I'm hoping you will.",
+        "餐厅还没夸我，所以我正指望你呢。"
+      ],
+      [
+        "Evan",
+        "You look good. There, was that convincing enough?",
+        "你很好看。怎么样，这句话够有说服力了吗？"
+      ],
+      [
+        "Oliver",
+        "Very. Though you seem surprisingly interested in the menu now.",
+        "很有。不过你现在突然对菜单格外感兴趣。"
+      ],
+      [
+        "Evan",
+        "I'm giving myself a moment to recover. Shall we share the starters?",
+        "我得给自己一点时间缓过来。前菜我们分着吃好吗？"
+      ],
+      [
+        "Oliver",
+        "Yes, but if you say you're not hungry and steal half my chips later, I'll remember.",
+        "好，但如果你说不饿，之后又偷吃我一半的薯条，我会记住的。"
+      ],
+      [
+        "Evan",
+        "You've clearly dated men with excellent survival skills.",
+        "看来你约会过一些生存技能很优秀的男人。"
+      ],
+      [
+        "Oliver",
+        "And suspiciously small appetites when the bill arrived.",
+        "而且一到账单来的时候，他们的胃口就小得可疑。"
+      ],
+      [
+        "Evan",
+        "Speaking of which, would you rather split it or take turns?",
+        "说到这个，你更想平分，还是轮流请客？"
+      ],
+      [
+        "Oliver",
+        "Let's split tonight. Next time you can cook, if that offer is still available.",
+        "今晚平分吧。下次可以由你做饭，如果那个提议还有效的话。"
+      ],
+      [
+        "Evan",
+        "It is. How brave are you feeling about my cooking?",
+        "有效。对于我的厨艺，你打算拿出多少勇气？"
+      ],
+      [
+        "Oliver",
+        "Brave enough to come over. Sensible enough to know where the nearest takeaway is.",
+        "勇敢到愿意去你家，也理智到会先搞清楚最近的外卖店在哪里。"
+      ],
+      [
+        "Evan",
+        "Fair. Can I ask something without making it sound like a dramatic confession?",
+        "很公平。我能问件事吗？尽量别让它听起来像一场郑重告白。"
+      ],
+      [
+        "Oliver",
+        "You can try. The candlelight is making that quite difficult.",
+        "你可以试试。不过这烛光让难度有点高。"
+      ],
+      [
+        "Evan",
+        "Would you like to kiss me when we get outside?",
+        "等我们出去，你想吻我吗？"
+      ],
+      [
+        "Oliver",
+        "Yes. I was wondering whether you were going to ask.",
+        "想。我一直在想你会不会问。"
+      ],
+      [
+        "Evan",
+        "Good. Now can we order before I lose the ability to read?",
+        "太好了。现在我们能点餐了吗？趁我还没失去阅读能力。"
+      ],
+      [
+        "Oliver",
+        "Absolutely. I'll handle the menu; you recover your composure.",
+        "当然。菜单交给我，你负责恢复镇定。"
+      ]
+    ],
+    "context": {
+      "en": "On the Sunday they arranged, Evan and Oliver meet at the restaurant by the river. Their attraction is becoming easier to express. Over the menu, a carefully chosen shirt turns into teasing, a practical chat about the bill, and a direct question about a kiss."
+    },
+    "chapter": "dating",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-16",
+    "label": "Social English · Trial 16",
+    "title": "A Profile Worth Replying To",
+    "subtitle": "Miles asks Kai for dating-profile advice and discovers that the person behind the invitations needs a social life too.",
+    "description": "Queer dating · app banter · showing personality",
+    "audio": "audio/social_english_trial-16_130wpm.mp3",
+    "timings": "timings/trial-16.json",
+    "speakers": [
+      "Miles",
+      "Kai"
+    ],
+    "dialogue": [
+      [
+        "Miles",
+        "Can you look at my dating profile without destroying what's left of my dignity?",
+        "你能帮我看看交友软件资料，同时保住我仅剩的尊严吗？"
+      ],
+      [
+        "Kai",
+        "I'll try. Why does every photo look as though you've just heard some troubling news?",
+        "我尽量。为什么每张照片都像你刚听到什么令人不安的消息？"
+      ],
+      [
+        "Miles",
+        "That's my thoughtful face. Is it really that bad?",
+        "那是我的沉思脸。真有那么糟吗？"
+      ],
+      [
+        "Kai",
+        "You look handsome. You also look as though you're about to cancel a flight.",
+        "你很帅，但也像马上要取消一趟航班。"
+      ],
+      [
+        "Miles",
+        "All right, which one would you keep?",
+        "好吧，你会保留哪一张？"
+      ],
+      [
+        "Kai",
+        "The one where you're laughing. Was that taken at our first dinner?",
+        "你笑着的那张。是在我们第一次晚餐时拍的吗？"
+      ],
+      [
+        "Miles",
+        "Yes, just before you dropped a fork into your wine.",
+        "是的，就在你把叉子掉进红酒之前。"
+      ],
+      [
+        "Kai",
+        "A strong evening for both of us. What's this line about being easy-going?",
+        "对我们俩来说，那晚都很精彩。这里说自己随和是什么意思？"
+      ],
+      [
+        "Miles",
+        "Isn't that a reasonable thing to say?",
+        "这么写不是很合理吗？"
+      ],
+      [
+        "Kai",
+        "It is, but what could someone ask you about? Give them something more specific.",
+        "合理，但别人能据此问你什么呢？给他们一点更具体的东西。"
+      ],
+      [
+        "Miles",
+        "Films, long walks, and cooking far too much for people I like. Does that sound better?",
+        "电影、长距离散步，还有为喜欢的人做多到吃不完的饭。这样更好吗？"
+      ],
+      [
+        "Kai",
+        "Much. Though you could mention that you're occasionally willing to let somebody else choose the restaurant.",
+        "好多了。不过你也可以提一句，你偶尔愿意让别人选餐厅。"
+      ],
+      [
+        "Miles",
+        "Occasionally. What would you put about what I'm looking for?",
+        "偶尔。你会怎么写我想找什么样的关系？"
+      ],
+      [
+        "Kai",
+        "What are you looking for? I can't write that bit for you.",
+        "你自己想找什么呢？这部分我可替你写不了。"
+      ],
+      [
+        "Miles",
+        "Someone I'm attracted to, who asks me questions back. I'd quite like to feel looked after sometimes.",
+        "一个我觉得有吸引力、也会反过来问我问题的人。我也想偶尔有被照顾的感觉。"
+      ],
+      [
+        "Kai",
+        "That last part surprised me. Do you always end up organising everything?",
+        "最后那点让我有些意外。你是不是总会变成安排一切的人？"
+      ],
+      [
+        "Miles",
+        "More often than I'd like. I'd love someone to say they've booked a table and I just need to turn up.",
+        "比我希望的还频繁。我很想有人告诉我，他已经订好餐厅，我人到就行。"
+      ],
+      [
+        "Kai",
+        "Then leave room for that. You don't have to run every date like a community event.",
+        "那就给这种可能留点空间。你不必把每次约会都办成社群活动。"
+      ],
+      [
+        "Miles",
+        "Fair point. Now, would you approve a gym photo, or is that too much?",
+        "有道理。那么你赞成放一张健身照吗？还是有点过头？"
+      ],
+      [
+        "Kai",
+        "One is fine. Six makes it look as though you're recruiting a training partner.",
+        "一张可以。六张就像你在招训练搭子了。"
+      ]
+    ],
+    "context": {
+      "en": "While planning the next dinner with Kai, Miles admits that his own dating profile needs attention. He is used to welcoming everyone else, but would like someone to make an effort for him too. He hands Kai his phone and asks for an honest opinion."
+    },
+    "chapter": "dating",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-17",
+    "label": "Social English · Trial 17",
+    "title": "The Group Chat Has Evidence",
+    "subtitle": "After the next dinner, Evan admits to a late-night group-chat suggestion and Miles reveals an unexpected competitive streak.",
+    "description": "Shared circle · karaoke · friendly teasing",
+    "audio": "audio/social_english_trial-17_130wpm.mp3",
+    "timings": "timings/trial-17.json",
+    "speakers": [
+      "Miles",
+      "Evan"
+    ],
+    "dialogue": [
+      [
+        "Miles",
+        "Did you really suggest karaoke at half past midnight, or was that someone borrowing your phone?",
+        "凌晨十二点半真是你提议去唱卡拉 OK 吗？还是有人借了你的手机？"
+      ],
+      [
+        "Evan",
+        "It was me. Would you believe I was still perfectly sober?",
+        "是我。你会相信那时我还完全清醒吗？"
+      ],
+      [
+        "Miles",
+        "That makes it more worrying. Have you actually sung in front of people before?",
+        "那就更令人担心了。你以前真在别人面前唱过歌吗？"
+      ],
+      [
+        "Evan",
+        "A few times. Are you surprised?",
+        "唱过几次。你很意外吗？"
+      ],
+      [
+        "Miles",
+        "A little. At the first dinner you seemed ready to apologise for asking for more bread.",
+        "有一点。第一次晚餐时，你连想多要点面包都像准备先道歉。"
+      ],
+      [
+        "Evan",
+        "I was being polite. You were guarding the bread like it was your inheritance.",
+        "我是在讲礼貌。你守着面包的样子，像那是你的遗产。"
+      ],
+      [
+        "Miles",
+        "It was very good bread. So, are we hiring a private room or embarrassing ourselves in public?",
+        "那面包确实很好。那么我们订包厢，还是在公众面前丢脸？"
+      ],
+      [
+        "Evan",
+        "A private room. Six people, a couple of hours, and nobody has to sing alone.",
+        "包厢。六个人、两小时，而且谁都不用独唱。"
+      ],
+      [
+        "Miles",
+        "That sounds manageable. Has Oliver agreed to it?",
+        "听起来还行。Oliver 答应了吗？"
+      ],
+      [
+        "Evan",
+        "He's agreed to attend. Apparently that's different from agreeing to sing.",
+        "他答应到场了。据说这跟答应唱歌是两码事。"
+      ],
+      [
+        "Miles",
+        "And Kai? Has he already chosen seventeen songs?",
+        "那 Kai 呢？他是不是已经选了十七首？"
+      ],
+      [
+        "Evan",
+        "Only twelve. He says he's showing restraint.",
+        "只有十二首。他说自己已经很克制了。"
+      ],
+      [
+        "Miles",
+        "How much will the room cost? I don't want anyone quietly worrying about the bill.",
+        "包厢要多少钱？我不想有人默默担心账单。"
+      ],
+      [
+        "Evan",
+        "About fifteen pounds each. I'll send the price before booking, so everyone can decide.",
+        "每人十五英镑左右。预订前我会先把价格发出来，让大家自己决定。"
+      ],
+      [
+        "Miles",
+        "Excellent. Can we agree that videos stay in the group unless people say otherwise?",
+        "很好。我们能说好，除非当事人同意，视频只留在群里吗？"
+      ],
+      [
+        "Evan",
+        "Definitely. Your future dates don't need footage of you fighting a high note.",
+        "当然。你未来的约会对象没必要看到你跟高音搏斗的视频。"
+      ],
+      [
+        "Miles",
+        "Who says I'll be fighting? I was in a choir for three years.",
+        "谁说我会搏斗？我在合唱团待过三年。"
+      ],
+      [
+        "Evan",
+        "You kept that quiet! Are you the one we should be worried about?",
+        "你居然一直没说！该担心的人其实是你吗？"
+      ],
+      [
+        "Miles",
+        "Possibly. Shall we start with a duet and see who's apologising afterwards?",
+        "有可能。我们先来个二重唱，看看之后谁该道歉，怎么样？"
+      ],
+      [
+        "Evan",
+        "Deal. Now I understand why you were so interested in a private room.",
+        "成交。现在我明白你为什么那么关心包厢了。"
+      ]
+    ],
+    "context": {
+      "en": "The next small dinner has gone well, with Evan helping Miles welcome people. Later that night, Evan suggests karaoke in the group chat. When Miles catches up with him, they work out the details and discover that neither is quite the shy beginner the other expected."
+    },
+    "chapter": "circle",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-18",
+    "label": "Social English · Trial 18",
+    "title": "Coffee Before Conclusions",
+    "subtitle": "A later dinner becomes their first overnight stay, followed by breakfast jokes and a small conversation about how it feels.",
+    "description": "Dating · overnight stay · everyday intimacy",
+    "audio": "audio/social_english_trial-18_130wpm.mp3",
+    "timings": "timings/trial-18.json",
+    "speakers": [
+      "Evan",
+      "Oliver"
+    ],
+    "dialogue": [
+      [
+        "Evan",
+        "Would you like coffee, tea, or ten minutes to work out where you are?",
+        "你想喝咖啡、茶，还是先花十分钟搞清楚自己在哪儿？"
+      ],
+      [
+        "Oliver",
+        "Coffee, please. I know where I am; I'm less certain where my shirt is.",
+        "咖啡，谢谢。我知道自己在哪儿，只是不太确定我的衬衫在哪儿。"
+      ],
+      [
+        "Evan",
+        "On the chair. Is lending you a jumper too domestic for a first overnight stay?",
+        "在椅子上。第一次留宿就借你一件毛衣，会不会太有过日子的感觉？"
+      ],
+      [
+        "Oliver",
+        "Only if it comes with instructions for taking out the bins.",
+        "除非它还附带一份倒垃圾说明书。"
+      ],
+      [
+        "Evan",
+        "Those arrive after the third visit. How do you take your coffee?",
+        "那个第三次来才会有。你的咖啡要怎么喝？"
+      ],
+      [
+        "Oliver",
+        "A little milk, no sugar. Did you get any sleep with me stealing the duvet?",
+        "加一点牛奶，不加糖。我抢被子的时候，你有睡着吗？"
+      ],
+      [
+        "Evan",
+        "Some. I hadn't realised I was inviting a professional into my bed.",
+        "睡了一些。我没想到自己请进床的是个抢被子专家。"
+      ],
+      [
+        "Oliver",
+        "Years of practice. Would breakfast improve your review?",
+        "练了好多年。吃个早餐能提高你给我的评价吗？"
+      ],
+      [
+        "Evan",
+        "It might. Are you good at eggs, or should I keep expectations low?",
+        "也许。你擅长做鸡蛋吗？还是我该降低期待？"
+      ],
+      [
+        "Oliver",
+        "I can manage scrambled eggs. You already proved last night that dinner doesn't have to come from a takeaway.",
+        "炒蛋我可以。你昨晚已经证明了，晚饭不一定得靠外卖。"
+      ],
+      [
+        "Evan",
+        "That sounds almost like a compliment. Shall I put some toast on?",
+        "听着几乎像句夸奖。那我烤点面包好吗？"
+      ],
+      [
+        "Oliver",
+        "Please. And before you ask, I'm glad I stayed.",
+        "好啊。还有，不等你问，我很高兴昨晚留下来了。"
+      ],
+      [
+        "Evan",
+        "I am too. Does it feel different seeing each other like this?",
+        "我也是。像这样相处，感觉会不一样吗？"
+      ],
+      [
+        "Oliver",
+        "A little. It's nice finding out we can be comfortable without making an evening of everything.",
+        "有一点。能发现我们不用每次都郑重安排一个晚上，也能自在相处，挺好的。"
+      ],
+      [
+        "Evan",
+        "Would you be disappointed if I still went to the gym later? I'd already arranged it with Kai.",
+        "如果我待会儿还是去健身，你会失望吗？我之前跟 Kai 约好了。"
+      ],
+      [
+        "Oliver",
+        "Of course not. I've got things to do as well. Breakfast doesn't have to become a whole-day booking.",
+        "当然不会。我也有事要做。吃早餐不用自动升级成包下整天。"
+      ],
+      [
+        "Evan",
+        "Good. Are you still coming to karaoke next week?",
+        "那就好。下周卡拉 OK，你还是会来吗？"
+      ],
+      [
+        "Oliver",
+        "Yes, though I'm hoping this coffee earns me protection from singing alone.",
+        "会，不过我希望这杯咖啡能换来不必独唱的保护。"
+      ],
+      [
+        "Evan",
+        "Would a duet with me make the offer more tempting?",
+        "如果跟我合唱，会不会让这个提议更诱人？"
+      ],
+      [
+        "Oliver",
+        "Possibly. Let's negotiate after the eggs. I'm more generous when I've eaten.",
+        "有可能。等吃完鸡蛋再谈吧。我吃饱以后会更大方。"
+      ]
+    ],
+    "context": {
+      "en": "After a later dinner at Evan's flat, Oliver chooses to stay overnight for the first time. The following morning, they make breakfast before going about their own day. Karaoke is coming up next week, and a borrowed jumper gives them plenty to joke about."
+    },
+    "chapter": "dating",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-19",
+    "label": "Social English · Trial 19",
+    "title": "The Breakfast Agreement",
+    "subtitle": "At karaoke, Evan calls in a breakfast promise and discovers how much Oliver enjoys a little teasing.",
+    "description": "Shared circle · a duet · playful attraction",
+    "audio": "audio/social_english_trial-19_130wpm.mp3",
+    "timings": "timings/trial-19.json",
+    "speakers": [
+      "Evan",
+      "Oliver"
+    ],
+    "dialogue": [
+      [
+        "Evan",
+        "Have you picked a song, or is that microphone just a fashion accessory?",
+        "你选好歌了吗？还是那个麦克风只是个时尚配饰？"
+      ],
+      [
+        "Oliver",
+        "It's a surprisingly good accessory. Does this shirt say reluctant pop star?",
+        "它意外地挺搭。这件衬衫看起来像一个不情不愿的流行歌星吗？"
+      ],
+      [
+        "Evan",
+        "It says man who promised me a duet over breakfast. Ready to honour that?",
+        "它看起来像一个吃早餐时答应跟我合唱的人。准备兑现了吗？"
+      ],
+      [
+        "Oliver",
+        "I agreed to negotiate. You kept the coffee coming and took advantage of my good mood.",
+        "我答应的是商量。你不断给我续咖啡，又利用了我的好心情。"
+      ],
+      [
+        "Evan",
+        "The minutes of that meeting suggest otherwise.",
+        "那次会议的记录可不是这么说的。"
+      ],
+      [
+        "Oliver",
+        "Were there minutes? I thought you were just looking at me across the kitchen.",
+        "还有会议记录？我以为你只是隔着厨房看着我。"
+      ],
+      [
+        "Evan",
+        "That was strategic. Would you rather sing something slow or something everyone knows?",
+        "那是战略行为。你想唱慢歌，还是大家都会唱的歌？"
+      ],
+      [
+        "Oliver",
+        "Something everyone knows. Can you avoid anything with impossible high notes?",
+        "大家都会的吧。能避开那种高音难得离谱的歌吗？"
+      ],
+      [
+        "Evan",
+        "I'll take the high notes. You provide the charm.",
+        "高音交给我，你负责魅力。"
+      ],
+      [
+        "Oliver",
+        "That seems fair. Will you still find me attractive if I come in at the wrong moment?",
+        "听起来很公平。要是我进错拍，你还会觉得我有吸引力吗？"
+      ],
+      [
+        "Evan",
+        "Probably. Though I reserve the right to laugh while being attracted to you.",
+        "大概会。不过我保留一边被你吸引、一边笑你的权利。"
+      ],
+      [
+        "Oliver",
+        "Generous. Has Miles always been that good, or has he been practising in secret?",
+        "真大方。Miles 一直唱得那么好吗？还是他偷偷练过？"
+      ],
+      [
+        "Evan",
+        "Three years in a choir. Apparently he forgot to mention the dramatic hand gestures.",
+        "在合唱团待过三年。看来他忘了提那些戏很多的手势。"
+      ],
+      [
+        "Oliver",
+        "And Kai has another song queued already. How many has he done?",
+        "Kai 已经又排了一首。他到底唱了多少首了？"
+      ],
+      [
+        "Evan",
+        "I've lost count. I think we accidentally bought tickets to his concert.",
+        "我数不过来了。我觉得我们不小心买了他的演唱会门票。"
+      ],
+      [
+        "Oliver",
+        "Then we'd better reclaim the room. Can we stand together rather than make a big entrance?",
+        "那我们得把包厢夺回来。我们站在一起唱就好，别搞什么盛大登场，行吗？"
+      ],
+      [
+        "Evan",
+        "Of course. You can follow my lead for the first verse.",
+        "当然。第一段你可以跟着我。"
+      ],
+      [
+        "Oliver",
+        "All right. Is this the part where you pretend you haven't been waiting all evening?",
+        "好吧。接下来是不是轮到你假装自己没有等了一整晚？"
+      ],
+      [
+        "Evan",
+        "No chance. I like you, and I'm very pleased you're doing this with me.",
+        "没可能。我喜欢你，也很高兴你愿意跟我一起唱。"
+      ],
+      [
+        "Oliver",
+        "Good. Keep looking pleased when you hear the first note.",
+        "很好。听到第一个音时，记得继续这么高兴。"
+      ]
+    ],
+    "context": {
+      "en": "The karaoke evening Evan organised is underway. Miles has surprised everyone with his singing, and Kai has kept the song queue busy. During a pause, Evan reminds Oliver of the duet they discussed over breakfast. Oliver is nervous, but enjoys teasing him back."
+    },
+    "chapter": "circle",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-20",
+    "label": "Social English · Trial 20",
+    "title": "A Table Someone Else Booked",
+    "subtitle": "During a karaoke break, Miles gets the kind of date invitation he wanted, while Kai tries to stop him rewriting his reply.",
+    "description": "Queer dating · texting · anticipation",
+    "audio": "audio/social_english_trial-20_130wpm.mp3",
+    "timings": "timings/trial-20.json",
+    "speakers": [
+      "Kai",
+      "Miles"
+    ],
+    "dialogue": [
+      [
+        "Kai",
+        "Are you checking the time, or has somebody finally asked you a decent question?",
+        "你是在看时间，还是终于有人问了你一个像样的问题？"
+      ],
+      [
+        "Miles",
+        "Somebody has suggested dinner. He even offered to book the table.",
+        "有人提议一起吃晚饭。他甚至主动说要订餐厅。"
+      ],
+      [
+        "Kai",
+        "A man with a reservation? Your profile changes are working already.",
+        "一个会订餐厅的男人？你改资料已经见效了。"
+      ],
+      [
+        "Miles",
+        "Don't make it sound like a miracle. Would you read his message?",
+        "别说得像奇迹一样。你愿意看看他的消息吗？"
+      ],
+      [
+        "Kai",
+        "If you're happy to show me. What do you like about him so far?",
+        "你愿意给我看就行。目前你喜欢他什么？"
+      ],
+      [
+        "Miles",
+        "He's good-looking, he asks about my day, and he remembered which film I mentioned.",
+        "他长得好看，会问我今天过得怎样，还记得我提过哪部电影。"
+      ],
+      [
+        "Kai",
+        "That's a promising start. Have you actually met him yet?",
+        "开头不错。你们已经见过面了吗？"
+      ],
+      [
+        "Miles",
+        "Not yet. We had a short video call, which was less awkward than I expected.",
+        "还没有。我们短暂打过一次视频，比我预想的没那么尴尬。"
+      ],
+      [
+        "Kai",
+        "Did he look like his photos, or was there a ten-year gap?",
+        "他和照片一样吗？还是隔着十年的岁月？"
+      ],
+      [
+        "Miles",
+        "He looked like himself. I was mostly worried that my lamp made me look like a suspect.",
+        "他看着挺真实。我主要担心我的台灯把我照得像个嫌疑人。"
+      ],
+      [
+        "Kai",
+        "You could turn the big light on. So, what are you planning to say?",
+        "你可以开主灯嘛。那么，你打算怎么回复？"
+      ],
+      [
+        "Miles",
+        "That I'd like to go. Is it too keen to reply while I'm out with friends?",
+        "说我很愿意去。跟朋友在外面玩时就回复，会不会显得太急切？"
+      ],
+      [
+        "Kai",
+        "You're allowed to be interested. Answer him, then put the phone away and come back to us.",
+        "你当然可以表现出兴趣。回他，然后放下手机，回来跟我们一起玩。"
+      ],
+      [
+        "Miles",
+        "Would a smiley face help, or am I overthinking this again?",
+        "加个笑脸会不会更好？还是我又想太多了？"
+      ],
+      [
+        "Kai",
+        "You're asking me to supervise punctuation. What do you think?",
+        "你都在让我监督标点符号了。你自己觉得呢？"
+      ],
+      [
+        "Miles",
+        "Fair. I've said Saturday would be lovely. There, sent.",
+        "有道理。我说周六很不错。好了，发出去了。"
+      ],
+      [
+        "Kai",
+        "How does it feel letting someone else make the plan?",
+        "让别人来安排，感觉怎样？"
+      ],
+      [
+        "Miles",
+        "Strangely nice. I do want to know whether it'll feel as easy in person.",
+        "意外地舒服。我确实想知道，见面是不是也会这么自在。"
+      ],
+      [
+        "Kai",
+        "That's what the dinner is for. Shall we go back before Evan and Oliver steal our microphones?",
+        "那就留给那顿晚饭来看看吧。我们要不要回去？不然 Evan 和 Oliver 要把麦克风占了。"
+      ],
+      [
+        "Miles",
+        "Let's. And remind me to choose somewhere flattering for the next video call.",
+        "走吧。还有，记得提醒我，下次视频要挑个把人照得好看一点的地方。"
+      ]
+    ],
+    "context": {
+      "en": "During a break at the same karaoke evening, Kai notices Miles checking his phone. Since updating his dating profile, Miles has been talking to a man who now suggests dinner and offers to book it. Miles likes the invitation, but cannot quite decide how to reply."
+    },
+    "chapter": "dating",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-21",
+    "label": "Social English · Trial 21",
+    "title": "The Hand on Your Shoulder",
+    "subtitle": "After karaoke, a brief flirtation at the bar gives Evan and Oliver a reason to talk about jealousy and what each noticed.",
+    "description": "Dating · jealousy · honest reassurance",
+    "audio": "audio/social_english_trial-21_130wpm.mp3",
+    "timings": "timings/trial-21.json",
+    "speakers": [
+      "Evan",
+      "Oliver"
+    ],
+    "dialogue": [
+      [
+        "Evan",
+        "Can I ask about the guy you were talking to at the bar?",
+        "我能问问刚才在吧台跟你聊天的那个男生吗？"
+      ],
+      [
+        "Oliver",
+        "Of course. The one asking about the karaoke rooms?",
+        "当然。问卡拉 OK 包厢的那个吗？"
+      ],
+      [
+        "Evan",
+        "Yes. Did you know him already, or was he just very friendly?",
+        "是的。你本来就认识他，还是他只是特别热情？"
+      ],
+      [
+        "Oliver",
+        "I'd never met him. I think he started with a practical question and changed direction.",
+        "我之前没见过他。我觉得他一开始问的是正事，后来话题就拐弯了。"
+      ],
+      [
+        "Evan",
+        "The hand on your shoulder suggested he'd found a new topic.",
+        "他把手搭在你肩上时，看起来确实找到了新话题。"
+      ],
+      [
+        "Oliver",
+        "I noticed that too. Did it bother you?",
+        "我也注意到了。那让你不舒服了吗？"
+      ],
+      [
+        "Evan",
+        "A bit. I suddenly felt as though I should come over and make my presence known.",
+        "有一点。我突然觉得，自己是不是该走过去刷一下存在感。"
+      ],
+      [
+        "Oliver",
+        "You could have joined us. Were you worried I'd prefer to keep talking to him?",
+        "你可以过来一起聊。你是不是担心我更想继续跟他聊？"
+      ],
+      [
+        "Evan",
+        "Possibly. I didn't love how quickly I started comparing myself with a stranger.",
+        "可能吧。我不喜欢自己那么快就开始跟一个陌生人比较。"
+      ],
+      [
+        "Oliver",
+        "I wasn't comparing you. I told him I was here with someone, and went to find you.",
+        "我没有把你们放在一起比较。我告诉他我是跟人一起来的，然后就去找你了。"
+      ],
+      [
+        "Evan",
+        "I missed that part. So you weren't interested?",
+        "那部分我没看到。所以你对他没兴趣？"
+      ],
+      [
+        "Oliver",
+        "No. He was handsome, but I'd already had a very good evening with you.",
+        "没有。他挺帅，不过我已经跟你度过了一个很好的晚上。"
+      ],
+      [
+        "Evan",
+        "Even with my questionable dancing?",
+        "即使我的舞姿有待商榷？"
+      ],
+      [
+        "Oliver",
+        "Especially with it. It gave me something to think about during Kai's fourth ballad.",
+        "恰恰因为它。Kai 唱第四首抒情歌时，我总算有点别的可想了。"
+      ],
+      [
+        "Evan",
+        "Would you be comfortable holding hands when we walk back?",
+        "回去的路上，你愿意跟我牵手吗？"
+      ],
+      [
+        "Oliver",
+        "Yes. I'd like that. Is that something you've wanted to ask before?",
+        "愿意。我会很喜欢。你以前就想问这件事了吗？"
+      ],
+      [
+        "Evan",
+        "It is. I wasn't sure how comfortable you were being affectionate in public.",
+        "是的。我不确定你对在公共场合表现亲密有多自在。"
+      ],
+      [
+        "Oliver",
+        "Here, I'm comfortable. If that changes somewhere else, I'll tell you.",
+        "在这里我挺自在。如果换个地方感觉不同，我会告诉你。"
+      ],
+      [
+        "Evan",
+        "Good. Shall we get some chips before my dancing makes a second appearance?",
+        "那就好。我们要不要吃点薯条？趁我的舞姿还没返场。"
+      ],
+      [
+        "Oliver",
+        "Please. I like you much better fed and off the dance floor.",
+        "好啊。我更喜欢吃饱了、离开舞池的你。"
+      ]
+    ],
+    "context": {
+      "en": "After karaoke, the group spends a little time at the adjoining bar. Evan notices another man flirting with Oliver, but misses the end of their conversation. As they leave together, he asks what happened and admits how it felt."
+    },
+    "chapter": "dating",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-22",
+    "label": "Social English · Trial 22",
+    "title": "Breakfast Before the Big Decision",
+    "subtitle": "After training, Kai admits that a new responsibility at work excites and unsettles him, while Evan helps him practise a clear response.",
+    "description": "Everyday life · career confidence · friendly banter",
+    "audio": "audio/social_english_trial-22_130wpm.mp3",
+    "timings": "timings/trial-22.json",
+    "speakers": [
+      "Evan",
+      "Kai"
+    ],
+    "dialogue": [
+      [
+        "Evan",
+        "Are you checking your workout, or answering emails between sets again?",
+        "你是在看训练记录，还是又在组间回邮件？"
+      ],
+      [
+        "Kai",
+        "Neither. My manager asked whether I'd take the lead on a new project.",
+        "都不是。我经理问我愿不愿意负责一个新项目。"
+      ],
+      [
+        "Evan",
+        "That sounds good. Why do you look as though you've been handed a parking fine?",
+        "听着挺好。怎么你看起来像刚收到一张停车罚单？"
+      ],
+      [
+        "Kai",
+        "Because I'm pleased, and slightly terrified. What if they've confused confidence with competence?",
+        "因为我很高兴，也有点害怕。万一他们把自信误认成了能力呢？"
+      ],
+      [
+        "Evan",
+        "You did perform twelve songs in public. Perhaps they think you can handle an audience.",
+        "你可是当众唱了十二首歌。也许他们觉得你能镇得住场子。"
+      ],
+      [
+        "Kai",
+        "A captive audience. Do you think I should say yes straight away?",
+        "那是没法逃走的观众。你觉得我应该马上答应吗？"
+      ],
+      [
+        "Evan",
+        "Do you want the work itself, or do you mostly want to be the person they chose?",
+        "你想做的是这份工作本身，还是主要想成为那个被选中的人？"
+      ],
+      [
+        "Kai",
+        "Annoyingly good question. I want to make decisions, but I don't want responsibility without any support.",
+        "这问题问得好得让人烦。我想参与决策，但不想没有任何支持就背下责任。"
+      ],
+      [
+        "Evan",
+        "Then what would you need to know before agreeing?",
+        "那你答应之前，需要先了解什么？"
+      ],
+      [
+        "Kai",
+        "The deadline, who's on the team, and which decisions I can actually make.",
+        "截止时间、团队有哪些人，以及哪些决定我真的能做主。"
+      ],
+      [
+        "Evan",
+        "That sounds like a useful reply. Would asking those things really make you seem less capable?",
+        "这就很适合写进回复。问这些真的会显得你能力不足吗？"
+      ],
+      [
+        "Kai",
+        "Probably not. I just hate the moment when everyone expects you to have an answer.",
+        "大概不会。我只是讨厌所有人都等着你给答案的那一刻。"
+      ],
+      [
+        "Evan",
+        "You could say you're interested and ask for a proper conversation on Monday.",
+        "你可以说自己感兴趣，再约周一认真聊一聊。"
+      ],
+      [
+        "Kai",
+        "Would you read my reply if I keep it under three sentences?",
+        "如果我控制在三句话以内，你愿意看看我的回复吗？"
+      ],
+      [
+        "Evan",
+        "Yes, after breakfast. I'm not qualified to review anything on an empty stomach.",
+        "愿意，但得吃完早餐。我空着肚子，没资格审任何东西。"
+      ],
+      [
+        "Kai",
+        "Fair. Can we go to the cafe with the enormous sandwiches?",
+        "很公平。我们能去那家三明治特别大的咖啡馆吗？"
+      ],
+      [
+        "Evan",
+        "Excellent choice. Are you going to put your phone away on the walk?",
+        "选得好。走过去的路上，你打算把手机收起来吗？"
+      ],
+      [
+        "Kai",
+        "I will. A career opportunity can survive an hour without my supervision.",
+        "会的。一个职业机会应该能撑过没有我监督的一小时。"
+      ],
+      [
+        "Evan",
+        "Good. Your karaoke career may need longer to recover, though.",
+        "很好。不过你的卡拉 OK 事业可能需要更久才能恢复。"
+      ],
+      [
+        "Kai",
+        "You're welcome to criticise it over breakfast. I'm still choosing the music next time.",
+        "吃早餐时欢迎你批评。不过下次音乐还是我来选。"
+      ]
+    ],
+    "context": {
+      "en": "The following morning, Evan and Kai meet for their usual gym session. Between sets, Kai checks a message offering him the chance to lead a project at work. Over plans for breakfast, the practical friend admits that his own next step feels less straightforward."
+    },
+    "chapter": "everyday",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-23",
+    "label": "Social English · Trial 23",
+    "title": "So, Was There a Second Drink?",
+    "subtitle": "The morning after his date, Miles gives Kai a deliberately incomplete account of dinner, chemistry and the walk to the station.",
+    "description": "Gay dating · attraction · the morning-after debrief",
+    "audio": "audio/social_english_trial-23_130wpm.mp3",
+    "timings": "timings/trial-23.json",
+    "speakers": [
+      "Kai",
+      "Miles"
+    ],
+    "dialogue": [
+      [
+        "Kai",
+        "Well? Did he book an actual table, or was it a metaphor for his emotional availability?",
+        "怎么样？他是真的订了餐厅，还是那只是他愿意投入感情的某种比喻？"
+      ],
+      [
+        "Miles",
+        "An actual table. Good lighting, excellent food, and no conversation about his ex.",
+        "真的订了。灯光好，食物棒，而且没有聊他的前任。"
+      ],
+      [
+        "Kai",
+        "A strong start. Was there a second drink?",
+        "开头不错。后来有喝第二杯吗？"
+      ],
+      [
+        "Miles",
+        "There was a second drink and a very long walk to a station five minutes away.",
+        "喝了第二杯，还花了很长时间，才走到五分钟路程外的车站。"
+      ],
+      [
+        "Kai",
+        "How long are we talking?",
+        "有多长？"
+      ],
+      [
+        "Miles",
+        "Long enough to miss two trains without either of us being particularly upset.",
+        "长到错过两趟车，而且我们俩都没怎么介意。"
+      ],
+      [
+        "Kai",
+        "So the chemistry survived meeting in person?",
+        "所以，见面以后，那种来电的感觉还在？"
+      ],
+      [
+        "Miles",
+        "It improved. He listened properly, and he has a smile that's very bad for my concentration.",
+        "不但在，还更强了。他认真听我说话，而且他的笑容严重影响我的注意力。"
+      ],
+      [
+        "Kai",
+        "And did you tell him that, or just study the pavement?",
+        "那你告诉他了吗？还是只顾着研究人行道？"
+      ],
+      [
+        "Miles",
+        "I told him I wanted to kiss him. The pavement had very little to contribute after that.",
+        "我告诉他，我想吻他。之后人行道就没什么参与感了。"
+      ],
+      [
+        "Kai",
+        "Look at you. Did he invite you back to his place?",
+        "瞧瞧你。他有邀请你去他家吗？"
+      ],
+      [
+        "Miles",
+        "Yes. I was tempted, but I wanted to get home. We made plans to meet again instead.",
+        "有。我挺心动，但当时还是想回家。于是我们另约了下次见面。"
+      ],
+      [
+        "Kai",
+        "Did he take that well?",
+        "他对此反应好吗？"
+      ],
+      [
+        "Miles",
+        "Very. He asked whether brunch on Wednesday would count as a second date.",
+        "很好。他问我，周三一起吃早午餐算不算第二次约会。"
+      ],
+      [
+        "Kai",
+        "Wednesday brunch? Has this man discovered a working week with extra days off?",
+        "周三早午餐？这个男人发现了一个能多休几天假的工作周吗？"
+      ],
+      [
+        "Miles",
+        "We both have the morning free. I checked my diary before writing our entire future in my head.",
+        "我们那天上午都有空。在脑补我们的一生之前，我先查了日程。"
+      ],
+      [
+        "Kai",
+        "Sensibly done. Are you excited, then?",
+        "干得理智。所以，你很期待？"
+      ],
+      [
+        "Miles",
+        "Yes. And I'm enjoying the fact that I don't have to organise every detail.",
+        "是的。而且我很享受不用安排所有细节的感觉。"
+      ],
+      [
+        "Kai",
+        "Good. Can we order now, before you fall in love with the memory of his smile?",
+        "很好。我们现在能点餐了吗？趁你还没爱上他笑容的回忆。"
+      ],
+      [
+        "Miles",
+        "Please. And stop looking pleased with yourself. You changed my profile, not my entire personality.",
+        "点吧。而且别那么得意。你改的是我的资料，又不是我的整个人格。"
+      ]
+    ],
+    "context": {
+      "en": "On Sunday morning, Kai meets Miles for coffee after the Saturday date they discussed during karaoke. Miles has finally let someone else book the restaurant. Kai wants to know how the evening went, while Miles is enjoying making him work for the details."
+    },
+    "chapter": "dating",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-24",
+    "label": "Social English · Trial 24",
+    "title": "The Questions That Got a Yes",
+    "subtitle": "After his Monday meeting, Kai tells Evan what happened when he asked about authority, workload and support before taking the lead.",
+    "description": "Everyday life · work decisions · mutual support",
+    "audio": "audio/social_english_trial-24_130wpm.mp3",
+    "timings": "timings/trial-24.json",
+    "speakers": [
+      "Evan",
+      "Kai"
+    ],
+    "dialogue": [
+      [
+        "Evan",
+        "How did the meeting go? Have they given you a team, or just a more impressive email signature?",
+        "会开得怎么样？他们给了你一个团队，还是只给了个更气派的邮件签名？"
+      ],
+      [
+        "Kai",
+        "A team, thankfully. Though I spent ten minutes rehearsing my first question in the lift.",
+        "幸好是团队。不过我在电梯里练了十分钟，才问出第一个问题。"
+      ],
+      [
+        "Evan",
+        "Ten minutes? Was the lift going somewhere particularly ambitious?",
+        "十分钟？那电梯是要去一个特别有野心的地方吗？"
+      ],
+      [
+        "Kai",
+        "I went up, got nervous, and came back down for coffee. Don't make it worse.",
+        "我上去了，紧张了，又下楼买了杯咖啡。别再损我了。"
+      ],
+      [
+        "Evan",
+        "Fair. What did you ask first?",
+        "好吧。你先问了什么？"
+      ],
+      [
+        "Kai",
+        "Which decisions I'd own, and who would help if the workload got silly.",
+        "哪些决定由我负责，以及工作量太离谱时会有谁帮忙。"
+      ],
+      [
+        "Evan",
+        "And did asking that make the room burst into flames?",
+        "那问完之后，整个会议室有当场着火吗？"
+      ],
+      [
+        "Kai",
+        "Tragically, no. My manager said she was glad I'd raised it before agreeing.",
+        "很遗憾，没有。经理说，很高兴我在答应之前就提出来了。"
+      ],
+      [
+        "Evan",
+        "What about the work you're already doing? Did that come up?",
+        "那你原来在做的工作呢？有谈到吗？"
+      ],
+      [
+        "Kai",
+        "Yes. Someone else will take over two regular tasks. I nearly said I could keep them, out of habit.",
+        "谈了。有两项固定任务会交给别人。我差点出于习惯，说自己还能继续做。"
+      ],
+      [
+        "Evan",
+        "What stopped you?",
+        "是什么让你没那么说？"
+      ],
+      [
+        "Kai",
+        "Imagining you asking whether I'd also offered to clean the office windows.",
+        "我想象了一下，你会不会问我，是不是顺便还揽了办公室擦窗户的活。"
+      ],
+      [
+        "Evan",
+        "I'm pleased my judgemental face is useful. So, have you accepted?",
+        "很高兴我这张爱评判的脸还有点用。所以，你接受了吗？"
+      ],
+      [
+        "Kai",
+        "I've said yes, subject to a written plan. We review how it's working after a month.",
+        "我说了愿意，前提是先把计划写清楚。做一个月后，再看看实际运行得怎样。"
+      ],
+      [
+        "Evan",
+        "That sounds good. How are you feeling now?",
+        "听起来不错。你现在感觉如何？"
+      ],
+      [
+        "Kai",
+        "Excited. Still nervous, but at least I know what I'm nervous about.",
+        "兴奋。还是紧张，但至少知道自己在紧张什么了。"
+      ],
+      [
+        "Evan",
+        "Does this call for a celebratory drink?",
+        "这值得喝一杯庆祝吗？"
+      ],
+      [
+        "Kai",
+        "It does. Could we make it Thursday, before my calendar develops a personality of its own?",
+        "值得。能定在周四吗？趁我的日程表还没发展出自己的独立人格。"
+      ],
+      [
+        "Evan",
+        "Thursday works. Are you choosing the music again?",
+        "周四可以。音乐又归你选？"
+      ],
+      [
+        "Kai",
+        "Only if the new responsibility comes with unlimited control of the playlist.",
+        "除非这份新职责还附带对歌单的无限控制权。"
+      ]
+    ],
+    "context": {
+      "en": "On Monday evening, Evan catches up with Kai after his project meeting. Their conversation at the gym helped Kai decide which questions to ask. Now he has an answer, a few practical conditions, and an embarrassing story about the office lift."
+    },
+    "chapter": "everyday",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-25",
+    "label": "Social English · Trial 25",
+    "title": "The Drawer Question",
+    "subtitle": "A later Sunday at Evan's flat turns a forgotten charger and a washbag into a teasing conversation about being welcome.",
+    "description": "Gay dating · overnight routines · growing closeness",
+    "audio": "audio/social_english_trial-25_130wpm.mp3",
+    "timings": "timings/trial-25.json",
+    "speakers": [
+      "Evan",
+      "Oliver"
+    ],
+    "dialogue": [
+      [
+        "Evan",
+        "Is this your charger, or has my flat started collecting evidence that you stay over?",
+        "这是你的充电器吗？还是我的公寓开始收集你留宿的证据了？"
+      ],
+      [
+        "Oliver",
+        "Mine. Would you prefer I removed all traces before breakfast?",
+        "我的。你更希望我在早餐前清除一切痕迹吗？"
+      ],
+      [
+        "Evan",
+        "That sounds like far too much effort. Would you like to leave a few things here?",
+        "那听起来也太费劲了。你想不想留几样东西在这里？"
+      ],
+      [
+        "Oliver",
+        "Are you offering a drawer, or proposing a complicated new stage of adulthood?",
+        "你是在给我一个抽屉，还是提议进入某个复杂的成人新阶段？"
+      ],
+      [
+        "Evan",
+        "Mostly a drawer. I haven't prepared a speech.",
+        "主要是抽屉。我还没准备演讲。"
+      ],
+      [
+        "Oliver",
+        "Good. I'd be disappointed if there were slides. Which drawer are we talking about?",
+        "很好。要是还有幻灯片，我会很失望的。具体是哪个抽屉？"
+      ],
+      [
+        "Evan",
+        "The empty one by the bed. A washbag and a T-shirt might save you carrying that enormous bag.",
+        "床边空着的那个。放个洗漱包和一件 T 恤，你就不用每次背那么大的包了。"
+      ],
+      [
+        "Oliver",
+        "It's a perfectly normal bag. You're just impressed that I prepare for the possibility of rain.",
+        "那是一个完全正常的包。你只是佩服我连下雨的可能性都考虑到了。"
+      ],
+      [
+        "Evan",
+        "You brought spare socks for one night. How much weather were you expecting?",
+        "住一晚你都带了备用袜子。你是预想了多少天气变化？"
+      ],
+      [
+        "Oliver",
+        "In this country? That's a dangerous question.",
+        "在这个国家？这可是个危险的问题。"
+      ],
+      [
+        "Evan",
+        "Seriously, would it feel comfortable? I like having you here.",
+        "说真的，这样会让你自在吗？我很喜欢你待在这里。"
+      ],
+      [
+        "Oliver",
+        "Yes. I'd like it too. I just don't want you feeling you have to host every time.",
+        "会。我也愿意。我只是不希望你觉得每次都得由你招待。"
+      ],
+      [
+        "Evan",
+        "Then could we have dinner at yours next Sunday?",
+        "那下个周日能去你家吃晚饭吗？"
+      ],
+      [
+        "Oliver",
+        "We could, if you're willing to discover that my kitchen is less impressive than my shirts.",
+        "可以，只要你愿意发现，我的厨房远没有我的衬衫那么出色。"
+      ],
+      [
+        "Evan",
+        "I've already accepted the duvet situation. Surely I can survive a small kitchen.",
+        "我已经接受抢被子这件事了。小厨房总不至于难倒我。"
+      ],
+      [
+        "Oliver",
+        "That's the spirit. Do you expect me to fill the drawer tonight?",
+        "这才像话。你希望我今晚就把抽屉填满吗？"
+      ],
+      [
+        "Evan",
+        "No rush. Though you could start by returning the jumper you've adopted.",
+        "不急。不过你可以先归还那件被你据为己有的毛衣。"
+      ],
+      [
+        "Oliver",
+        "Return it? I thought that was a long-term loan with favourable terms.",
+        "归还？我以为那是一笔条件优惠的长期借贷。"
+      ],
+      [
+        "Evan",
+        "Would a kiss count as interest?",
+        "一个吻能算利息吗？"
+      ],
+      [
+        "Oliver",
+        "An opening payment, perhaps. We can discuss the rest after dinner.",
+        "也许能算首付款。其余部分，晚饭后再商量。"
+      ]
+    ],
+    "context": {
+      "en": "On a later Sunday at Evan's flat, Oliver is staying for dinner and another night together. Evan finds a charger Oliver left behind and offers him a drawer. Neither has made a new commitment or agreed to move in, but being welcome is beginning to feel more ordinary."
+    },
+    "chapter": "dating",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-26",
+    "label": "Social English · Trial 26",
+    "title": "Please Don't Pretend to Be My Boyfriend",
+    "subtitle": "When Miles spots an ex in a cafe, Evan offers a spectacularly unhelpful cover story before they settle on something simpler.",
+    "description": "Queer friendship · running into an ex · cafe banter",
+    "audio": "audio/social_english_trial-26_130wpm.mp3",
+    "timings": "timings/trial-26.json",
+    "speakers": [
+      "Evan",
+      "Miles"
+    ],
+    "dialogue": [
+      [
+        "Evan",
+        "Do you know the man by the window? You've become very interested in hiding behind my menu.",
+        "你认识窗边那个男的吗？你突然对躲在我的菜单后面很感兴趣。"
+      ],
+      [
+        "Miles",
+        "That's my ex. I was deciding whether this menu could cover my entire face.",
+        "那是我前任。我在判断，这份菜单能不能挡住我的整张脸。"
+      ],
+      [
+        "Evan",
+        "Would you like to leave, or are we staying for the pastries?",
+        "你想走吗？还是我们要为了糕点留下？"
+      ],
+      [
+        "Miles",
+        "We're staying. I refuse to surrender a good croissant because of a relationship that ended two years ago.",
+        "留下。我拒绝因为一段两年前结束的关系，放弃一个好吃的可颂。"
+      ],
+      [
+        "Evan",
+        "Was it a difficult breakup?",
+        "当时分手很难熬吗？"
+      ],
+      [
+        "Miles",
+        "Sad, rather than dramatic. We were excellent at booking holidays and terrible at saying what we wanted.",
+        "更多是难过，倒没什么戏剧性。我们很擅长订假期，却很不擅长说清楚自己想要什么。"
+      ],
+      [
+        "Evan",
+        "Have you spoken since?",
+        "之后还有联系过吗？"
+      ],
+      [
+        "Miles",
+        "Occasionally. Nothing hostile. I just hadn't planned to meet him before my second coffee.",
+        "偶尔有。不至于敌对。我只是没计划在第二杯咖啡之前见到他。"
+      ],
+      [
+        "Evan",
+        "Should I pretend to be your new boyfriend? I could look devoted for about ten minutes.",
+        "要不要我假装是你新男友？我可以深情地演上十分钟。"
+      ],
+      [
+        "Miles",
+        "Absolutely not. We'd have to explain that to Oliver, and I'm already dealing with enough history.",
+        "千万别。那我们还得跟 Oliver 解释。我现在要处理的历史已经够多了。"
+      ],
+      [
+        "Evan",
+        "Fair. Do you still have feelings for him?",
+        "有道理。你对他还有感情吗？"
+      ],
+      [
+        "Miles",
+        "Some affection. I don't want the relationship back. Seeing him just reminds me how much of my life he knew.",
+        "还有些情分。我不想回到那段关系里。见到他，只是会想起他曾经多么了解我的生活。"
+      ],
+      [
+        "Evan",
+        "Does that make dating someone new feel strange?",
+        "那会让你跟新人约会时觉得别扭吗？"
+      ],
+      [
+        "Miles",
+        "Sometimes. But the man I'm seeing now asks questions instead of assuming he knows the answers.",
+        "有时会。不过我现在见面的那个人，会问问题，而不是觉得自己已经知道答案。"
+      ],
+      [
+        "Evan",
+        "How did your Wednesday brunch go, then?",
+        "那你周三的早午餐约会怎么样？"
+      ],
+      [
+        "Miles",
+        "Well enough that there's a third date. You can have details once you've ordered something.",
+        "顺利到已经有第三次约会了。等你点完餐，我再告诉你细节。"
+      ],
+      [
+        "Evan",
+        "Blackmail over baked goods. Should I be concerned?",
+        "用烘焙食品作筹码来勒索。我该担心吗？"
+      ],
+      [
+        "Miles",
+        "Only about how long you're taking. He's seen me now, so I'm going to say hello.",
+        "只需要担心你点餐花了多久。他已经看见我了，我去打个招呼。"
+      ],
+      [
+        "Evan",
+        "Do you want me to guard the table or the croissants?",
+        "你想让我守住桌子，还是守住可颂？"
+      ],
+      [
+        "Miles",
+        "The croissants. My romantic history has taken enough from me already.",
+        "可颂。我的感情史已经让我失去够多东西了。"
+      ]
+    ],
+    "context": {
+      "en": "Later that week, Evan meets Miles at a cafe. Miles has been on his Wednesday brunch date and arranged a third meeting, but has not yet shared the details. Before they order, he spots a former boyfriend at another table and tries to hide behind a menu."
+    },
+    "chapter": "circle",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-27",
+    "label": "Social English · Trial 27",
+    "title": "Not a Promotion, Still a Toast",
+    "subtitle": "Thursday drinks give Kai a chance to celebrate a clearer work plan, admit a small mistake, and let Evan choose the next song.",
+    "description": "Work · friendship · a well-earned celebration",
+    "audio": "audio/social_english_trial-27_130wpm.mp3",
+    "timings": "timings/trial-27.json",
+    "speakers": [
+      "Evan",
+      "Kai"
+    ],
+    "dialogue": [
+      [
+        "Evan",
+        "Are we toasting your new project, or the fact that you actually left work on time?",
+        "我们是庆祝你的新项目，还是庆祝你居然准时下班了？"
+      ],
+      [
+        "Kai",
+        "Both. Have you ordered anything with food in it, or does an olive count as dinner?",
+        "都庆祝。你点吃的了吗？还是一颗橄榄就算晚饭？"
+      ],
+      [
+        "Evan",
+        "Chips are coming. Did the written plan arrive, or are we celebrating a very attractive email?",
+        "薯条马上来。书面计划到了吗？还是我们在庆祝一封措辞漂亮的邮件？"
+      ],
+      [
+        "Kai",
+        "It arrived yesterday. My manager signed off the decisions I can make and the support I'll get.",
+        "昨天到了。经理确认了哪些决定由我做，以及会给我哪些支持。"
+      ],
+      [
+        "Evan",
+        "And those two regular tasks? Have you actually handed them over?",
+        "那两项固定任务呢？真的交出去了吗？"
+      ],
+      [
+        "Kai",
+        "One's gone. I'm showing someone the other tomorrow, then it's theirs from Monday.",
+        "一项交了。另一项明天教给接手的人，下周一开始由他负责。"
+      ],
+      [
+        "Evan",
+        "Will you manage not to check it every twenty minutes?",
+        "你能忍住不每隔二十分钟就去看一眼吗？"
+      ],
+      [
+        "Kai",
+        "Could you sound less like you've met me? I only checked the first one twice today.",
+        "你能别表现得这么了解我吗？今天第一项我只检查了两次。"
+      ],
+      [
+        "Evan",
+        "Progress. Have you told the others?",
+        "有进步。你告诉其他人了吗？"
+      ],
+      [
+        "Kai",
+        "Miles sent congratulations. Oliver asked whether leadership training covers retrieving forks from wine glasses.",
+        "Miles 说了恭喜。Oliver 问，领导力培训包不包括从酒杯里捞叉子。"
+      ],
+      [
+        "Evan",
+        "A fair question. So, what's the first thing you're changing?",
+        "问得有道理。那么，你首先想改什么？"
+      ],
+      [
+        "Kai",
+        "The meeting schedule. I accidentally invited everyone to the same meeting twice, so I've started strongly.",
+        "会议安排。我不小心把同一场会给大家发了两遍邀请，开局相当有力。"
+      ],
+      [
+        "Evan",
+        "Twice the leadership. Did anyone notice?",
+        "双倍的领导力。有人发现了吗？"
+      ],
+      [
+        "Kai",
+        "Everyone. I cancelled one before somebody could ask whether the second was the extended edition.",
+        "所有人。我赶在有人问第二场是不是加长版之前，取消了一场。"
+      ],
+      [
+        "Evan",
+        "That deserves chips. Are you still excited underneath the embarrassment?",
+        "这值得吃点薯条。丢脸归丢脸，你还是很兴奋吧？"
+      ],
+      [
+        "Kai",
+        "I am. It's not a promotion, but getting a proper chance to lead feels good.",
+        "是啊。这不是升职，但有一次真正带项目的机会，感觉很好。"
+      ],
+      [
+        "Evan",
+        "Then here's to that. Do you have to keep your phone on the table all evening?",
+        "那就为这个干杯。你今晚非得一直把手机放桌上吗？"
+      ],
+      [
+        "Kai",
+        "No. The handover can survive dinner. What's your first request, now you're controlling the music?",
+        "不用。交接的事可以等吃完饭。既然音乐归你了，第一首想放什么？"
+      ],
+      [
+        "Evan",
+        "Something nobody can turn into a twelve-song solo performance.",
+        "一首不会被某人发展成十二首个人演唱会的歌。"
+      ],
+      [
+        "Kai",
+        "Cruel. Give me a chip, and I'll consider remaining a member of the audience.",
+        "真狠。给我根薯条，我可以考虑老老实实当观众。"
+      ]
+    ],
+    "context": {
+      "en": "On the Thursday evening they arranged after Kai's project meeting, Evan meets him for a celebratory drink. The written plan has arrived, and the handover of Kai's old tasks is underway. Kai is excited about leading the project, although his first small administrative mistake gives Evan plenty to tease him about."
+    },
+    "chapter": "everyday",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-28",
+    "label": "Social English · Trial 28",
+    "title": "The Jumper Has Visiting Rights",
+    "subtitle": "At Oliver's flat, a small kitchen, a stubborn jar and a familiar jumper turn Sunday dinner into something comfortably untidy.",
+    "description": "Gay dating · cooking together · overnight plans",
+    "audio": "audio/social_english_trial-28_130wpm.mp3",
+    "timings": "timings/trial-28.json",
+    "speakers": [
+      "Oliver",
+      "Evan"
+    ],
+    "dialogue": [
+      [
+        "Oliver",
+        "Could you stop looking so pleased? It's a kitchen, not a private tour of my inner life.",
+        "你能别笑得那么开心吗？这是厨房，不是我的内心世界私人导览。"
+      ],
+      [
+        "Evan",
+        "I'm admiring the shirt. Did you dress for dinner, or is this how you normally open a jar?",
+        "我在欣赏你的衬衫。你是为晚饭特地穿的，还是平常开罐头也这样？"
+      ],
+      [
+        "Oliver",
+        "The shirt was deliberate. The jar refusing to open wasn't. Would you try?",
+        "衬衫是特意穿的。罐子死活打不开可不是安排好的。你试试？"
+      ],
+      [
+        "Evan",
+        "Happy to. If this works, do I get invited back?",
+        "乐意效劳。如果我打开了，还能再被邀请来吗？"
+      ],
+      [
+        "Oliver",
+        "Depends whether you give a speech about your grip strength afterwards.",
+        "那得看你会不会随后发表握力获奖感言。"
+      ],
+      [
+        "Evan",
+        "There. Would you like me to pretend you'd already loosened it?",
+        "开了。要我假装是你之前已经拧松了吗？"
+      ],
+      [
+        "Oliver",
+        "I'd like you to chop the tomatoes. Can you reach the board without moving my entire kitchen?",
+        "我希望你去切番茄。你能在不搬空整个厨房的前提下拿到砧板吗？"
+      ],
+      [
+        "Evan",
+        "Just about. Is that my jumper on the chair?",
+        "勉强可以。椅子上那件是我的毛衣吗？"
+      ],
+      [
+        "Oliver",
+        "It has visiting rights. I washed it, which surely improves my chances of keeping it.",
+        "它在这里有探访权。我洗过了，这总能提高我留住它的机会吧。"
+      ],
+      [
+        "Evan",
+        "You're welcome to borrow it. Does that mean the enormous overnight bag has retired?",
+        "你想借就借。那是不是说，那个巨型过夜包终于退休了？"
+      ],
+      [
+        "Oliver",
+        "Not until my washbag moves into your drawer. I bought a second toothbrush, though.",
+        "等我的洗漱包住进你家抽屉再说。不过，我倒是又买了一支牙刷。"
+      ],
+      [
+        "Evan",
+        "One for mine? I'm trying to respond normally and not look absurdly happy.",
+        "放我家用的？我正在努力正常回应，不笑得太傻。"
+      ],
+      [
+        "Oliver",
+        "You're failing, but it's rather nice. Would you turn the heat down?",
+        "你失败了，不过挺可爱的。能把火调小一点吗？"
+      ],
+      [
+        "Evan",
+        "Is the sauce supposed to be that enthusiastic?",
+        "这个酱本来就应该沸腾得这么热情吗？"
+      ],
+      [
+        "Oliver",
+        "No. Move your sleeve. I'd hate your jumper to be the best thing I cooked tonight.",
+        "不应该。袖子躲开点。我可不想今晚做得最成功的一道菜是你的毛衣。"
+      ],
+      [
+        "Evan",
+        "Crisis avoided. Do you want company while you rescue it, or should I set the table?",
+        "危机解除。你拯救晚餐时想让我陪着，还是我去摆桌子？"
+      ],
+      [
+        "Oliver",
+        "Stay. You can taste it and tell me whether we need takeaway.",
+        "留下。你可以尝一口，判断我们需不需要点外卖。"
+      ],
+      [
+        "Evan",
+        "It's good. Shall I cancel my imaginary escape plan and stay the night?",
+        "很好吃。那我可以取消想象中的逃跑计划，今晚住下吗？"
+      ],
+      [
+        "Oliver",
+        "Please do. But I've got an early start tomorrow, so breakfast may be toast rather than a production.",
+        "当然。不过我明天要早出门，早餐可能只有吐司，不是什么盛大工程。"
+      ],
+      [
+        "Evan",
+        "Toast works. A kiss for the cook before we eat?",
+        "吐司就很好。开饭前，能先亲一下厨师吗？"
+      ]
+    ],
+    "context": {
+      "en": "The following Sunday, Oliver hosts the dinner he promised Evan when they discussed the bedside drawer. Evan arrives at Oliver's flat to find him cooking in a very small kitchen. The borrowed jumper is still there, and neither the sauce nor a stubborn jar is cooperating with Oliver's carefully chosen shirt."
+    },
+    "chapter": "dating",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-29",
+    "label": "Social English · Trial 29",
+    "title": "He Remembered the Small Thing",
+    "subtitle": "After a third date, Miles finds himself more affected by an ordinary act of attention than by the impressive plans he expected.",
+    "description": "Gay dating · attraction · being looked after",
+    "audio": "audio/social_english_trial-29_130wpm.mp3",
+    "timings": "timings/trial-29.json",
+    "speakers": [
+      "Oliver",
+      "Miles"
+    ],
+    "dialogue": [
+      [
+        "Oliver",
+        "Why are you smiling at a sandwich? Did Saturday go particularly well?",
+        "你为什么对着三明治笑？周六特别顺利吗？"
+      ],
+      [
+        "Miles",
+        "The sandwich is innocent. Yes, the third date went well. Would you like the respectable version?",
+        "三明治是无辜的。对，第三次约会不错。你想听体面版吗？"
+      ],
+      [
+        "Oliver",
+        "Start there. I haven't finished my coffee. Where did he take you?",
+        "先从那个版本开始吧。我的咖啡还没喝完。他带你去哪儿了？"
+      ],
+      [
+        "Miles",
+        "A photography exhibition, then dinner at his. He asked what I liked eating instead of planning a surprise menu.",
+        "一个摄影展，然后去他家吃晚饭。他问了我喜欢吃什么，而不是安排惊喜菜单。"
+      ],
+      [
+        "Oliver",
+        "Sensible. Did you manage to sit down, or did you reorganise his kitchen?",
+        "明智。你有乖乖坐下吗？还是替他重新整理了厨房？"
+      ],
+      [
+        "Miles",
+        "I offered to help three times. He gave me a drink and told me where the glasses were.",
+        "我提了三次要帮忙。他给了我一杯喝的，又告诉我杯子放在哪儿。"
+      ],
+      [
+        "Oliver",
+        "So you were welcome, not put to work. What made you smile just now?",
+        "所以你是被欢迎的客人，不是被安排干活。那刚才是什么让你笑了？"
+      ],
+      [
+        "Miles",
+        "He bought decaf. I'd mentioned that late coffee keeps me awake, and he'd remembered.",
+        "他买了低因咖啡。我之前说过，晚上喝咖啡会睡不着，他记住了。"
+      ],
+      [
+        "Oliver",
+        "That's lovely. Was the cooking any good, or are we overlooking serious faults because he's handsome?",
+        "真不错。菜好吃吗？还是因为他长得帅，我们就忽略严重问题了？"
+      ],
+      [
+        "Miles",
+        "It was good. Although being kissed against the kitchen counter may have influenced the review.",
+        "好吃。不过，靠着厨房台面接吻这件事，可能影响了评分。"
+      ],
+      [
+        "Oliver",
+        "I see. Was that before or after you'd checked his seasoning?",
+        "明白了。那是在你检查调味之前，还是之后？"
+      ],
+      [
+        "Miles",
+        "Before. I made no attempt to remain professionally detached.",
+        "之前。我完全没有努力保持专业客观。"
+      ],
+      [
+        "Oliver",
+        "And after dinner? Did you feel comfortable staying?",
+        "晚饭之后呢？你觉得自在，愿意多待一会儿吗？"
+      ],
+      [
+        "Miles",
+        "I stayed for a film, then went home. I had an early start, and he offered to walk me to the station.",
+        "我留下看了部电影，然后回家了。我第二天要早起，他主动说送我去车站。"
+      ],
+      [
+        "Oliver",
+        "Do you want to see him again, or are you still deciding?",
+        "你想再见他吗？还是还在考虑？"
+      ],
+      [
+        "Miles",
+        "I do. I'm cooking next time. Letting him make an effort doesn't mean I never get to make one.",
+        "想。下次我来做饭。让他用心，不代表我就永远不用付出。"
+      ],
+      [
+        "Oliver",
+        "Will the famous dinner playlist make an appearance?",
+        "你那份著名的晚餐歌单会登场吗？"
+      ],
+      [
+        "Miles",
+        "Possibly. No choir recordings unless he specifically requests evidence of my past.",
+        "可能吧。合唱团录音就算了，除非他特意要求查验我的过去。"
+      ],
+      [
+        "Oliver",
+        "When do the rest of us meet him? Or is that question a few dinners early?",
+        "那我们什么时候能见他？还是这个问题问早了几顿饭？"
+      ],
+      [
+        "Miles",
+        "A few dinners early. For now, can we enjoy that I like someone without making a group announcement?",
+        "早了几顿饭。目前我们能不能先享受一下，我喜欢上了一个人，还不用群发通告？"
+      ]
+    ],
+    "context": {
+      "en": "On Monday, Miles meets Oliver for lunch after his third date on Saturday. Miles has not introduced the man to the group and is enjoying getting to know him privately. Oliver notices him smiling at his phone, then putting it away, and asks how the evening went."
+    },
+    "chapter": "dating",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-30",
+    "label": "Social English · Trial 30",
+    "title": "Two Seats Are Not a Conspiracy",
+    "subtitle": "Planning another queer film night, Kai and Miles discover that choosing seats is easy until the group chat gets involved.",
+    "description": "Queer friendship · cinema plans · group-chat humour",
+    "audio": "audio/social_english_trial-30_130wpm.mp3",
+    "timings": "timings/trial-30.json",
+    "speakers": [
+      "Kai",
+      "Miles"
+    ],
+    "dialogue": [
+      [
+        "Kai",
+        "Have we chosen a film, or are you still trying to find one that makes all four of us look cultured?",
+        "电影选好了吗？还是你还想找一部能让我们四个人都显得很有文化的？"
+      ],
+      [
+        "Miles",
+        "It's a queer comedy next Friday. Can you manage ninety minutes without judging the soundtrack?",
+        "下周五，一部酷儿喜剧。你能坚持九十分钟不点评配乐吗？"
+      ],
+      [
+        "Kai",
+        "I make no promises. Has Evan replied, or is he waiting for Oliver to approve the seating plan?",
+        "不敢保证。Evan 回复了吗？还是在等 Oliver 审批座位安排？"
+      ],
+      [
+        "Miles",
+        "They're both coming. Evan asked for two seats together, which is apparently breaking news to you.",
+        "他们都来。Evan 要两个连座，看来这对你来说是什么突发新闻。"
+      ],
+      [
+        "Kai",
+        "I only sent one eyebrow emoji. Is that really enough to count as interference?",
+        "我只发了一个挑眉表情。这也能算干涉吗？"
+      ],
+      [
+        "Miles",
+        "Oliver replied that you could sit between them if you needed supervision.",
+        "Oliver 回复说，要是你需要人管着，可以坐他俩中间。"
+      ],
+      [
+        "Kai",
+        "Tempting, but I enjoy being alive. Are you bringing your date?",
+        "挺诱人，但我还想好好活着。你会带约会对象吗？"
+      ],
+      [
+        "Miles",
+        "Not this time. I want an evening with my friends without feeling I have to make introductions.",
+        "这次不带。我想跟朋友好好玩一晚，不用觉得自己还得负责介绍。"
+      ],
+      [
+        "Kai",
+        "Fair enough. Shall I book the tickets, then?",
+        "没问题。那我来买票？"
+      ],
+      [
+        "Miles",
+        "Please. Four together, but not right at the front. Do you want the aisle?",
+        "好。四个连座，但别太靠前。你想坐过道吗？"
+      ],
+      [
+        "Kai",
+        "Yes, so I can leave quietly when your commentary becomes unbearable.",
+        "想，这样你的解说让我忍无可忍时，我就能悄悄离场。"
+      ],
+      [
+        "Miles",
+        "My commentary has depth. Who asked whether that art film had a gym scene?",
+        "我的解说很有深度。上次是谁问，那部艺术电影里有没有健身房戏份？"
+      ],
+      [
+        "Kai",
+        "A reasonable enquiry about the director's vision. Do we want food before or after?",
+        "那是对导演创作视野的合理询问。我们在电影前吃，还是看完再吃？"
+      ],
+      [
+        "Miles",
+        "Before. Otherwise Evan will spend the final scene thinking about noodles.",
+        "之前吧。不然 Evan 会一边看最后一幕，一边想面条。"
+      ],
+      [
+        "Kai",
+        "Could we make it somewhere simple? It's my first full week on the project.",
+        "能不能找家简单点的？这周是我完整带项目的第一周。"
+      ],
+      [
+        "Miles",
+        "Of course. Is the handover sorted, or are you still answering questions about your old tasks?",
+        "当然。交接顺利吗？还是还在回答旧任务的问题？"
+      ],
+      [
+        "Kai",
+        "Mostly sorted. I've blocked out Friday evening, and I'm refusing to put another meeting in it.",
+        "基本好了。我已经把周五晚上留出来，不会再往里塞会议了。"
+      ],
+      [
+        "Miles",
+        "Good. Send me the booking, and I'll find somewhere to eat. What do I owe you?",
+        "很好。订好了发给我，我来找吃饭的地方。票钱给你多少？"
+      ],
+      [
+        "Kai",
+        "I'll send the amount once it's confirmed. Will you let me choose the next film?",
+        "确认后告诉你。下次电影能让我选吗？"
+      ],
+      [
+        "Miles",
+        "You can send a shortlist. If every poster features a shirtless man, I'm asking follow-up questions.",
+        "你可以先发候选名单。要是每张海报都有光膀子的男人，我可要追问了。"
+      ]
+    ],
+    "context": {
+      "en": "Later that week, Miles and Kai arrange another queer film night for the four friends, this time for the following Friday. Evan and Oliver have confirmed they are coming, and Kai has begun his first full week leading the project. As they divide the booking and dinner arrangements, the group chat starts making a simple seating request sound much more dramatic."
+    },
+    "chapter": "circle",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-31",
+    "label": "Social English · Trial 31",
+    "title": "Four Tickets, One Opinion Too Many",
+    "subtitle": "Before their queer film screening, the four friends discover that choosing dinner produces almost as much commentary as choosing a film.",
+    "description": "Four voices · queer film night · friends at dinner",
+    "audio": "audio/social_english_trial-31_130wpm.mp3",
+    "timings": "timings/trial-31.json",
+    "speakers": [
+      "Evan",
+      "Oliver",
+      "Miles",
+      "Kai"
+    ],
+    "dialogue": [
+      [
+        "Kai",
+        "Four tickets, all together, and I'm on the aisle. Can we admire my organisational brilliance before we order?",
+        "四张票，全部连座，我坐过道。点餐前，能先欣赏一下我的组织才华吗？"
+      ],
+      [
+        "Oliver",
+        "We could, but you've already sent us the confirmation three times. Are we eating it?",
+        "可以，不过你已经把确认信息发了三次了。我们今晚是要吃那个吗？"
+      ],
+      [
+        "Evan",
+        "I'd prefer noodles. Miles, did you choose this place because it's good or because it's opposite the cinema?",
+        "我更想吃面。Miles，你选这家是因为好吃，还是因为它就在电影院对面？"
+      ],
+      [
+        "Miles",
+        "Both. I also wanted to avoid chasing four hungry men through traffic. You're welcome.",
+        "都有。我还不想追着四个饿肚子的男人横穿马路。不用谢。"
+      ],
+      [
+        "Kai",
+        "I did walk past the poster. Is the lead actor that handsome in the actual film?",
+        "我刚路过海报看了一眼。男主在正片里也那么帅吗？"
+      ],
+      [
+        "Miles",
+        "We haven't seen it yet. Would you like me to request a close-up before buying your noodles?",
+        "我们还没看呢。你想让我买面前先申请一个男主特写吗？"
+      ],
+      [
+        "Oliver",
+        "This is why he wasn't allowed to choose the film. What are you ordering, Evan?",
+        "所以之前才没让他选电影。Evan，你点什么？"
+      ],
+      [
+        "Evan",
+        "The spicy one. Will you still sit next to me if I cry?",
+        "辣的那份。要是我哭了，你还愿意坐我旁边吗？"
+      ],
+      [
+        "Miles",
+        "He packed tissues. I saw the bag. That man could survive a minor natural disaster.",
+        "他带纸巾了。我看见那个包了。那人能应付一场小型自然灾害。"
+      ],
+      [
+        "Kai",
+        "Good, because I'm not surrendering the aisle for your romantic emergency.",
+        "那就好。我可不会为你们的恋爱紧急事件让出过道位。"
+      ],
+      [
+        "Evan",
+        "Who said emergency? Oliver rescuing me with a tissue sounds like excellent value.",
+        "谁说是紧急事件？Oliver 递纸巾救我，听起来很值。"
+      ],
+      [
+        "Oliver",
+        "You haven't seen my rescue fee. Shall we share the dumplings?",
+        "你还没看过我的救援收费标准呢。我们分一份饺子吧？"
+      ],
+      [
+        "Evan",
+        "Yes. And for the record, I can handle a little chilli.",
+        "好。而且声明一下，区区一点辣，我还是能应付的。"
+      ],
+      [
+        "Miles",
+        "Your ears have gone red, and the food isn't here. Is this the chilli or the flirting?",
+        "菜还没上，你耳朵就红了。这是辣的，还是调情造成的？"
+      ],
+      [
+        "Kai",
+        "Either way, I want credit for the seating arrangement. How was your week, Miles?",
+        "不管是哪种，这个座位安排的功劳得算我一份。Miles，你这周怎么样？"
+      ],
+      [
+        "Oliver",
+        "Let him choose what he tells us. Some of us have already exercised remarkable discretion.",
+        "让他自己挑想说的部分吧。有些人已经表现出了惊人的保密能力。"
+      ],
+      [
+        "Miles",
+        "Thank you. I'm enjoying seeing someone. Tonight I'm enjoying seeing you lot, which is a different sort of challenge.",
+        "谢谢。我跟一个人见面挺开心的。今晚跟你们这群人见面也挺开心，只是挑战类型不同。"
+      ],
+      [
+        "Evan",
+        "Fair. Does the challenge improve if we stop asking questions and pass you the menu?",
+        "有道理。如果我们不再追问，把菜单递给你，挑战会小一点吗？"
+      ],
+      [
+        "Oliver",
+        "It improves if Kai stops treating the poster as a personal invitation.",
+        "如果 Kai 别把那张海报当私人邀请函，情况也会改善。"
+      ],
+      [
+        "Kai",
+        "I'm appreciating the arts. By the way, a gym friend is coming for coffee tomorrow. Fancy joining us, Miles?",
+        "我在欣赏艺术。对了，明天有个健身的朋友一起喝咖啡。Miles，想来吗？"
+      ],
+      [
+        "Miles",
+        "Possibly. Are we talking coffee, or a surprise fitness assessment?",
+        "可以考虑。说的是喝咖啡，还是突袭体能测评？"
+      ],
+      [
+        "Oliver",
+        "Ask whether anyone will be bringing a clipboard. That's usually a warning.",
+        "问问有没有人带记录板。那通常是危险信号。"
+      ],
+      [
+        "Kai",
+        "No clipboards. His name's Grant, and he's bringing an old friend. I'll send you the details after the film.",
+        "没有记录板。他叫 Grant，会带个老朋友来。看完电影我把时间地点发你。"
+      ],
+      [
+        "Evan",
+        "Excellent. Food first, film second, and absolutely no voice notes reviewing my chilli tolerance.",
+        "很好。先吃饭，再看电影。绝对不许发语音点评我的吃辣能力。"
+      ]
+    ],
+    "context": {
+      "en": "The Friday film outing planned by Miles and Kai is finally happening. Kai has booked four seats together, including his aisle seat and two adjacent seats for Evan and Oliver. Before the queer comedy screening, the four friends meet at a noodle restaurant opposite the cinema. Everyone is hungry, and Kai has already inspected the film poster."
+    },
+    "chapter": "circle",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-32",
+    "label": "Social English · Trial 32",
+    "title": "Big Arms, Small Coffee Cups",
+    "subtitle": "Kai introduces Miles to Grant and Dean over Saturday brunch, where first impressions last only until someone orders a tiny coffee.",
+    "description": "Four voices · new friends · brunch and first impressions",
+    "audio": "audio/social_english_trial-32_130wpm.mp3",
+    "timings": "timings/trial-32.json",
+    "speakers": [
+      "Kai",
+      "Miles",
+      "Grant",
+      "Dean"
+    ],
+    "dialogue": [
+      [
+        "Kai",
+        "Miles, this is Grant. We've trained together for about a year. Grant, can you introduce your unusually punctual friend?",
+        "Miles，这是 Grant。我们一起练了差不多一年。Grant，介绍一下你这位准时得不太寻常的朋友？"
+      ],
+      [
+        "Miles",
+        "Morning, both. Did you come straight from the gym, or do you always make a cafe entrance look coordinated?",
+        "两位早啊。你们是刚从健身房来，还是平时进咖啡馆也会这么有阵势？"
+      ],
+      [
+        "Grant",
+        "Gym. This is Dean. We've been mates since college, which explains why he knows too much.",
+        "刚练完。这是 Dean。我们从大学起就是朋友，所以他知道得太多了。"
+      ],
+      [
+        "Dean",
+        "I know where he hides the good biscuits. Shall we start with coffee before I damage his reputation?",
+        "我知道他把好吃的饼干藏在哪儿。要不先点咖啡，免得我开始破坏他的名声？"
+      ],
+      [
+        "Miles",
+        "Please do. Grant, is that tiny espresso really going to last you the whole conversation?",
+        "请点。Grant，那杯迷你浓缩真的够你撑完整场聊天吗？"
+      ],
+      [
+        "Grant",
+        "It's coffee, not a swimming pool. What are you having?",
+        "这是咖啡，又不是游泳池。你喝什么？"
+      ],
+      [
+        "Kai",
+        "That's three sentences already. He normally saves that much conversation for a long weekend.",
+        "已经说三句话了。他平时攒到一个长周末才舍得说这么多。"
+      ],
+      [
+        "Dean",
+        "Ignore him. Grant talks plenty if you ask about coastal walks. Are you into walking, Miles?",
+        "别理他。要是问海边徒步，Grant 能聊很多。Miles，你喜欢走路吗？"
+      ],
+      [
+        "Grant",
+        "You make it sound like I sell walking. A quiet route and a decent lunch. That's the appeal.",
+        "你说得像我在推销走路。一条安静的路线，再吃顿像样的午饭。吸引力就在这儿。"
+      ],
+      [
+        "Miles",
+        "Lunch I understand. What do you both do when you're not making Kai look undertrained?",
+        "午饭我懂。不忙着衬托 Kai 练得不够的时候，两位做什么工作？"
+      ],
+      [
+        "Dean",
+        "Live events. Mostly sound and lighting, occasionally explaining that plugging it in is an important first step.",
+        "做现场活动。主要管音响灯光，偶尔解释一下，插上电其实是很重要的第一步。"
+      ],
+      [
+        "Kai",
+        "He's a site engineer. Grant, is your job mostly solving problems or refusing impossible deadlines?",
+        "Grant 是现场工程师。Grant，你工作主要是在解决问题，还是拒绝不可能的截止时间？"
+      ],
+      [
+        "Miles",
+        "Let him answer after a sip. You've given him the smaller cup and the bigger question.",
+        "让他喝一口再答吧。你给了他最小的杯子，还问了最大的问题。"
+      ],
+      [
+        "Grant",
+        "Both. Though I also do some actual engineering when everyone lets me.",
+        "都有。不过，在大家允许的时候，我也做点真正的工程工作。"
+      ],
+      [
+        "Dean",
+        "And excellent breakfasts. His last boyfriend only discovered that after six months. Do we want eggs?",
+        "他早餐也做得很好。他上一个男朋友交往半年后才发现。我们要鸡蛋吗？"
+      ],
+      [
+        "Kai",
+        "Yes. Can we order before Miles starts interviewing the chef about his relationship history?",
+        "要。能不能赶在 Miles 开始采访厨师的感情史之前点好？"
+      ],
+      [
+        "Grant",
+        "I'm single. The chef downstairs might not be. Let's avoid confusing the two.",
+        "我是单身。楼下的厨师可未必。别把我们俩弄混了。"
+      ],
+      [
+        "Miles",
+        "Noted. Dean, are you always this helpful with introductions?",
+        "记住了。Dean，你介绍朋友时一直这么热心吗？"
+      ],
+      [
+        "Kai",
+        "Wait until he sees your dating profile. He'll offer to direct the photoshoot.",
+        "等他看见你的交友资料再说。他会主动提出担任拍摄导演。"
+      ],
+      [
+        "Dean",
+        "Good lighting matters. But I can behave. Did the film go well last night?",
+        "好灯光很重要。不过我也可以规矩一点。昨晚电影怎么样？"
+      ],
+      [
+        "Miles",
+        "The film was good. The commentary at dinner needed subtitles and adult supervision.",
+        "电影不错。晚饭时那群人的解说需要配字幕，外加成年人监督。"
+      ],
+      [
+        "Grant",
+        "Sounds promising. Would there be room for us next time?",
+        "听着挺有意思。下次能给我们留位置吗？"
+      ],
+      [
+        "Dean",
+        "Listen to him inviting himself. That little coffee's clearly working.",
+        "听听，他都开始主动邀请自己了。那点咖啡显然起作用了。"
+      ],
+      [
+        "Kai",
+        "You're both welcome. Now, four breakfasts, and nobody's allowed to call this a networking event.",
+        "当然欢迎你们。现在先点四份早餐，谁也不许把这说成社交拓展活动。"
+      ]
+    ],
+    "context": {
+      "en": "On Saturday morning after the film outing, Miles joins the coffee Kai mentioned at dinner. Kai introduces Grant, a 32-year-old site engineer he has trained with for about a year. Grant brings Dean, his 30-year-old friend from college who works in live events. Both men are gay, both enjoy training, and neither has met Miles before. This is a friendly brunch, not a date; neither man is the unnamed person Miles is seeing."
+    },
+    "chapter": "circle",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-33",
+    "label": "Social English · Trial 33",
+    "title": "The Car Is Not a Dating Profile",
+    "subtitle": "Outside the cafe, Dean's old car starts a conversation about photos, first dates and a possible coastal day out.",
+    "description": "Four voices · gay dating banter · a weekend plan",
+    "audio": "audio/social_english_trial-33_130wpm.mp3",
+    "timings": "timings/trial-33.json",
+    "speakers": [
+      "Kai",
+      "Miles",
+      "Grant",
+      "Dean"
+    ],
+    "dialogue": [
+      [
+        "Dean",
+        "Before anyone says anything, she's older than most of my jackets and considerably more reliable.",
+        "先说好，她比我大多数外套都老，而且可靠得多。"
+      ],
+      [
+        "Miles",
+        "Are we discussing the car, or do I need to reconsider everything you said about dating over breakfast?",
+        "我们说的是车吧？还是我得重新理解你早餐时关于约会的所有发言？"
+      ],
+      [
+        "Kai",
+        "The car. Has he shown you the photo where he appears to be dating the bonnet?",
+        "车。他给你看过那张像是在跟引擎盖谈恋爱的照片吗？"
+      ],
+      [
+        "Grant",
+        "Don't encourage him. He spent longer choosing that picture than I spent choosing my last flat.",
+        "别鼓励他。他选那张照片花的时间，比我选上次的公寓还长。"
+      ],
+      [
+        "Miles",
+        "Is it on your dating profile? I'd want one photo where I could actually see your face.",
+        "放交友资料上了吗？我会希望至少有一张能看清你的脸。"
+      ],
+      [
+        "Dean",
+        "It was. I changed it. Apparently nice car isn't the same as emotionally available man.",
+        "以前放过。我换了。看来，好看的车不等于情感上愿意投入的人。"
+      ],
+      [
+        "Grant",
+        "A breakthrough. Did you also remove the sunglasses from the other four photos?",
+        "重大突破。另外四张里的墨镜，也摘了吗？"
+      ],
+      [
+        "Kai",
+        "Leave him one mystery. So, does this magnificent machine ever go anywhere except the gym?",
+        "给他留一点神秘感吧。那么，这台了不起的机器除了健身房还去别处吗？"
+      ],
+      [
+        "Dean",
+        "The coast, when Grant actually invites someone on one of his walks. Could we do that next weekend?",
+        "海边啊，前提是 Grant 真愿意邀请别人去走走。下周末我们去不去？"
+      ],
+      [
+        "Miles",
+        "Possibly. Are we talking a pleasant stroll or earning our lunch by climbing a cliff?",
+        "可以考虑。你说的是愉快散步，还是先爬个悬崖才配吃午饭？"
+      ],
+      [
+        "Grant",
+        "An easy coastal path. I'll check the route and the weather before promising anything.",
+        "一条轻松的海岸小路。我会先查路线和天气，再答应具体安排。"
+      ],
+      [
+        "Kai",
+        "Could you put the distance in the message? Your short walk and mine may have different definitions.",
+        "消息里能写一下距离吗？你和我对走一小段的定义，可能不太一样。"
+      ],
+      [
+        "Miles",
+        "And the lunch options. Evan and Oliver might be interested if we ask them.",
+        "还有午饭能吃什么。问一问的话，Evan 和 Oliver 可能也会感兴趣。"
+      ],
+      [
+        "Dean",
+        "Then we'd need two cars or a train. Mine's a car, not a nightclub queue with wheels.",
+        "那就得两辆车，或者坐火车。我这是车，不是装了轮子的夜店排队通道。"
+      ],
+      [
+        "Kai",
+        "Fair. No squeezing six of us in. What day were you thinking?",
+        "有道理。不能硬挤六个人。你考虑哪天？"
+      ],
+      [
+        "Grant",
+        "Sunday, if the forecast holds. I like quiet places. Doesn't mean I always want to go alone.",
+        "如果天气合适，周日吧。我喜欢安静的地方，不代表我总想一个人去。"
+      ],
+      [
+        "Dean",
+        "Was that a sincere invitation? Somebody write it down before he changes the subject.",
+        "这是一次真诚的邀请吗？赶紧记下来，免得他转移话题。"
+      ],
+      [
+        "Miles",
+        "Accepted in principle. You're not the only person here learning to let other people join in.",
+        "原则上接受。这里又不只有你一个人在学习怎么让别人参与自己的生活。"
+      ],
+      [
+        "Grant",
+        "Good. Dean, aren't you busy on Saturday anyway?",
+        "很好。Dean，你周六不是还有安排吗？"
+      ],
+      [
+        "Kai",
+        "That sounds like information. Is there a date we haven't heard about?",
+        "听起来有情况。有一场我们还没听说的约会吗？"
+      ],
+      [
+        "Grant",
+        "He asked me which shirt looked less like he was trying. I gave him an unhelpfully honest answer.",
+        "他问我，哪件衬衫显得没那么刻意。我给了一个诚实得帮不上忙的答案。"
+      ],
+      [
+        "Dean",
+        "There might be a first drink. Could we please postpone the press conference until it actually happens?",
+        "可能会去喝第一杯。能不能等真见了面，再开新闻发布会？"
+      ],
+      [
+        "Kai",
+        "Fine. Grant, send the route. I'll ask the others, and nobody puts romantic expectations in the calendar.",
+        "行。Grant 发路线，我问其他人，谁也别把恋爱预期写进日历。"
+      ],
+      [
+        "Miles",
+        "Perfect. And Dean, keep the car photo. Just make sure the man gets a proper introduction too.",
+        "完美。Dean，车的照片可以留着，只是也得让照片里的男人好好介绍一下自己。"
+      ]
+    ],
+    "context": {
+      "en": "After the same Saturday brunch, Kai, Miles, Grant and Dean leave the cafe together. Dean has parked his old car nearby, and Kai recognises it from a photograph. Teasing about dating profiles turns into a possible coastal walk the following Sunday. No route, weather forecast or transport plan has been confirmed, and Evan and Oliver have not yet been invited."
+    },
+    "chapter": "circle",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-34",
+    "label": "Social English · Trial 34",
+    "title": "Sunday Is Not a Fitness Test",
+    "subtitle": "At a Thursday planning coffee, Evan meets Grant and Dean and discovers that the coastal walk has room for questions, snacks and a later start.",
+    "description": "Four voices · first introductions · planning a day out",
+    "audio": "audio/social_english_trial-34_130wpm.mp3",
+    "timings": "timings/trial-34.json",
+    "speakers": [
+      "Kai",
+      "Evan",
+      "Grant",
+      "Dean"
+    ],
+    "dialogue": [
+      [
+        "Kai",
+        "Evan, this is Grant, and this is Dean. Shall we establish that Sunday is a day out, not a fitness test?",
+        "Evan，这是 Grant，这是 Dean。我们先说清楚，周日是出去玩，不是体能考试，好吗？"
+      ],
+      [
+        "Evan",
+        "Lovely to meet you both. Should I be asking about the scenery or my chances of surviving the pace?",
+        "很高兴认识两位。我该问问风景，还是问自己能不能跟上你们？"
+      ],
+      [
+        "Grant",
+        "The scenery. It's about six kilometres on an easy path. Nobody gets a medal for finishing first.",
+        "问风景就行。一条大约六公里的轻松路线。第一个走完也没有奖牌。"
+      ],
+      [
+        "Dean",
+        "Which is disappointing. I was planning to accept mine wearing sunglasses and looking modest.",
+        "真令人失望。我本来打算戴着墨镜，一脸谦虚地领奖。"
+      ],
+      [
+        "Evan",
+        "You must be the man with the car. Are we taking it, or has the group outgrown the back seat?",
+        "你一定就是有那辆车的朋友。我们坐它去，还是人已经多到后排装不下了？"
+      ],
+      [
+        "Grant",
+        "If all six come, the train makes more sense. The path starts near the station.",
+        "要是六个人都来，坐火车更合理。小路起点离车站很近。"
+      ],
+      [
+        "Kai",
+        "He's checked the route. I've checked whether everyone is free. Evan, have you heard from Oliver?",
+        "他查了路线，我问了大家有没有空。Evan，Oliver 回你了吗？"
+      ],
+      [
+        "Dean",
+        "Before you answer, I'd like credit for not offering to squeeze everyone into a classic car.",
+        "你回答之前，我想先为自己没有提议把所有人硬塞进老车这件事邀个功。"
+      ],
+      [
+        "Grant",
+        "Noted. We can save your heroic parking stories for another day.",
+        "记下了。你那些英勇的停车故事，可以留到下次。"
+      ],
+      [
+        "Evan",
+        "Oliver is checking a work commitment. Miles said he'd confirm tonight. What time are we thinking?",
+        "Oliver 还在确认一个工作安排，Miles 说今晚回复。我们考虑几点出发？"
+      ],
+      [
+        "Dean",
+        "After breakfast, preferably. I have a first drink on Saturday, and I'd rather not meet my alarm while still holding it.",
+        "最好吃过早饭再说。我周六有第一次约会喝酒的安排，不想手里还拿着酒杯，闹钟就响了。"
+      ],
+      [
+        "Kai",
+        "Nobody's proposing dawn. Could we meet at the station after ten?",
+        "没人提议天亮就走。十点之后在车站碰头，行吗？"
+      ],
+      [
+        "Evan",
+        "That sounds civilised. Is there a coffee stop, or should I negotiate one before agreeing?",
+        "听起来很文明。中间有咖啡休息吗？还是我得先谈好才答应？"
+      ],
+      [
+        "Grant",
+        "There's a cafe halfway round. If the weather turns, we can take a shorter loop instead.",
+        "走到一半有家咖啡馆。天气变差的话，我们可以改走短一点的环线。"
+      ],
+      [
+        "Dean",
+        "Look at him offering options. Last year his idea of flexibility was moving lunch by twelve minutes.",
+        "看看，他都开始提供选项了。去年他所谓的灵活调整，就是把午饭挪十二分钟。"
+      ],
+      [
+        "Kai",
+        "Personal growth. Would you put the route in the chat so nobody turns up expecting a beach club?",
+        "这是成长。能把路线发群里吗？免得有人以为要去海滩俱乐部。"
+      ],
+      [
+        "Grant",
+        "I will. Bring a layer you don't mind carrying. The forecast looks reasonable, but I'll check again on Saturday.",
+        "可以。带件方便拿着的外套。预报目前还行，不过我周六会再确认。"
+      ],
+      [
+        "Evan",
+        "I can manage an extra layer. Does Dean also provide dramatic lighting for the photographs?",
+        "多带件衣服没问题。Dean 还负责给照片打戏剧性灯光吗？"
+      ],
+      [
+        "Kai",
+        "Don't ask him that. We'll spend the whole day waiting for a cloud to move.",
+        "别这么问他。我们会花一整天等一朵云挪位置。"
+      ],
+      [
+        "Dean",
+        "Good light takes patience. Who's in charge of the playlist?",
+        "好光线需要耐心。歌单归谁管？"
+      ],
+      [
+        "Evan",
+        "We haven't even bought tickets, and you're already negotiating artistic control.",
+        "票还没买呢，你就已经在谈艺术掌控权了。"
+      ],
+      [
+        "Grant",
+        "We're taking a train, not hiring a tour bus. Headphones should contain the artistic vision.",
+        "我们是坐火车，不是包旅游大巴。艺术构想可以先收在耳机里。"
+      ],
+      [
+        "Dean",
+        "Fine. I'll bring snacks instead. Less controversial, and generally more popular.",
+        "行，那我带零食。争议更小，一般也更受欢迎。"
+      ],
+      [
+        "Kai",
+        "Perfect. I'll send the station details once Oliver and Miles confirm. No one buys anything until then.",
+        "完美。Oliver 和 Miles 确认后，我再发车站碰头信息。在那之前大家先别买票。"
+      ]
+    ],
+    "context": {
+      "en": "On Thursday evening after the brunch where the coastal walk was suggested, Kai brings Evan to a planning coffee with Grant and Dean. This is Evan's first meeting with the two men. Grant has checked an easy route, but Oliver and Miles have not confirmed Sunday yet. The four discuss distance, transport and whether a leisurely day really needs an early start."
+    },
+    "chapter": "circle",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-35",
+    "label": "Social English · Trial 35",
+    "title": "The Train Was the Sensible Option",
+    "subtitle": "On Sunday morning, Miles introduces Oliver to Grant and Dean while the coffee run threatens to become the most complicated part of the journey.",
+    "description": "Four voices · meeting friends · train-station banter",
+    "audio": "audio/social_english_trial-35_130wpm.mp3",
+    "timings": "timings/trial-35.json",
+    "speakers": [
+      "Miles",
+      "Oliver",
+      "Grant",
+      "Dean"
+    ],
+    "dialogue": [
+      [
+        "Miles",
+        "Oliver, meet Grant and Dean. We've successfully assembled four adults at the correct station. Shall we celebrate quietly?",
+        "Oliver，认识一下 Grant 和 Dean。我们已经成功让四个成年人来到正确的车站。要不要低调庆祝一下？"
+      ],
+      [
+        "Oliver",
+        "Lovely to meet you. Should I apologise for being the last person to confirm, or will breakfast cover it?",
+        "很高兴认识你们。我要为最后一个确认参加而道歉吗？还是请点早餐就能解决？"
+      ],
+      [
+        "Grant",
+        "No apology needed. You said you'd check, then checked. That's unusually efficient for a group chat.",
+        "不用道歉。你说要确认，然后就确认了。在群聊里，这已经高效得不寻常了。"
+      ],
+      [
+        "Dean",
+        "He means welcome. I'm translating until his first proper coffee.",
+        "他的意思是欢迎。在他喝到第一杯像样的咖啡之前，我负责翻译。"
+      ],
+      [
+        "Oliver",
+        "Useful service. Is this the part where I discover everyone else has professional walking equipment?",
+        "服务很实用。接下来是不是该发现，其他人全都带了专业徒步装备？"
+      ],
+      [
+        "Grant",
+        "I've got a waterproof and sandwiches. It isn't an expedition.",
+        "我带了防水外套和三明治。又不是去探险。"
+      ],
+      [
+        "Miles",
+        "Excellent. The train was definitely the sensible option. Has anyone checked the return journey?",
+        "很好。坐火车绝对是明智选择。有人看过回程了吗？"
+      ],
+      [
+        "Dean",
+        "Grant has. He sent me the options before I'd finished asking the question.",
+        "Grant 看过。我问题还没问完，他就把几个方案发来了。"
+      ],
+      [
+        "Grant",
+        "I've saved them on my phone. And this isn't a secret inspection of anybody's walking speed.",
+        "我存在手机里了。另外，这不是对各位走路速度的秘密考核。"
+      ],
+      [
+        "Oliver",
+        "Reassuring. Is that folded paper also a map?",
+        "令人安心。那张折起来的纸也是地图吗？"
+      ],
+      [
+        "Dean",
+        "Backup. He says it doesn't need charging. I think he's becoming emotionally attached to it.",
+        "备用的。他说纸不需要充电。我觉得他都快对它产生感情了。"
+      ],
+      [
+        "Miles",
+        "Speaking of backup, how long have Kai and Evan been buying six coffees?",
+        "说到备用方案，Kai 和 Evan 买六杯咖啡已经买多久了？"
+      ],
+      [
+        "Oliver",
+        "Long enough for Evan to offer a detailed comparison of the cup sizes. I should probably check on them.",
+        "久到 Evan 已经有时间详细比较杯子的大小了。我大概该过去看看。"
+      ],
+      [
+        "Grant",
+        "They're walking back now. Please tell them I didn't order anything involving syrup.",
+        "他们正在往回走。拜托告诉他们，我没点任何加糖浆的东西。"
+      ],
+      [
+        "Dean",
+        "Nobody would dare. Your coffee order has the tone of a planning regulation.",
+        "没人敢。你的咖啡点单，听起来像一条规划条例。"
+      ],
+      [
+        "Miles",
+        "What's in your bag, then, Dean? It looks suspiciously like a second breakfast.",
+        "那 Dean，你袋子里是什么？看着可疑得像第二顿早餐。"
+      ],
+      [
+        "Grant",
+        "Pastries. He bought them on the way, then announced they were emergency supplies.",
+        "糕点。他路上买的，然后宣布这是应急物资。"
+      ],
+      [
+        "Oliver",
+        "That improves my opinion of the emergency. Are we allowed one before departure?",
+        "这让我对这场紧急情况更有好感了。出发前能吃一个吗？"
+      ],
+      [
+        "Miles",
+        "Only if we leave something for the two men currently transporting our entire coffee budget.",
+        "可以，只要给那两位正搬运我们全部咖啡预算的男人留一点。"
+      ],
+      [
+        "Dean",
+        "Of course. I only demand that nobody photographs me halfway through chewing.",
+        "当然。我唯一的要求，就是别在我嚼到一半时拍照。"
+      ],
+      [
+        "Oliver",
+        "Agreed. I prefer my first group photograph to contain recognisable facial expressions.",
+        "同意。我希望第一次集体照里，大家的表情至少能看懂。"
+      ],
+      [
+        "Grant",
+        "Good. I'll hold the bag while you sort the coffees. Who's got the tickets ready?",
+        "很好。你们分咖啡，我来拿袋子。谁已经把票准备好了？"
+      ],
+      [
+        "Dean",
+        "Mine's downloaded. Shall we move away from the stairs before we become a coffee-based obstacle?",
+        "我的下载好了。要不要离楼梯远一点？免得我们变成一座咖啡路障。"
+      ],
+      [
+        "Miles",
+        "Let's. We can introduce the pastries to Evan and Kai on the train.",
+        "走吧。糕点和 Evan、Kai 的正式介绍，可以上车再进行。"
+      ]
+    ],
+    "context": {
+      "en": "By Saturday evening, Oliver and Miles have confirmed, and the six friends have chosen to travel by train. On Sunday morning they meet at the station. While Evan and Kai collect the coffees, Miles introduces Oliver to Grant and Dean for the first time. The tickets and return options are ready, although breakfast is taking on a life of its own."
+    },
+    "chapter": "circle",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-36",
+    "label": "Social English · Trial 36",
+    "title": "A Good Photo, Not a Relationship Announcement",
+    "subtitle": "At the coastal cafe, four familiar friends negotiate a photograph, a borrowed scarf and how much information belongs in the group chat.",
+    "description": "Four voices · seaside flirting · photos and everyday intimacy",
+    "audio": "audio/social_english_trial-36_130wpm.mp3",
+    "timings": "timings/trial-36.json",
+    "speakers": [
+      "Evan",
+      "Oliver",
+      "Miles",
+      "Kai"
+    ],
+    "dialogue": [
+      [
+        "Evan",
+        "Could someone take a photo of us before the wind turns my hair into a public statement?",
+        "有人能先给我们拍张照吗？赶在风把我的头发吹成某种公开宣言之前。"
+      ],
+      [
+        "Oliver",
+        "Too late. Your hair has already expressed several strong opinions about the coast.",
+        "晚了。你的头发已经对这片海岸发表了好几个强烈观点。"
+      ],
+      [
+        "Miles",
+        "I'll take it. Do you want the sea behind you, or is this mostly about documenting the scarf?",
+        "我来拍。你们想让海出现在身后，还是主要为了记录这条围巾？"
+      ],
+      [
+        "Kai",
+        "The scarf is Oliver's. Evan has been wearing it since the first breeze. Should we notify its owner?",
+        "围巾是 Oliver 的。第一阵风吹来后就一直在 Evan 身上。需要通知失主吗？"
+      ],
+      [
+        "Oliver",
+        "The owner offered it. Apparently lending clothes is my main contribution to this relationship.",
+        "是失主主动借的。看来借衣服已经成了我在这段相处中的主要贡献。"
+      ],
+      [
+        "Miles",
+        "A generous contribution. Could you both look this way rather than argue with the knitwear?",
+        "很慷慨的贡献。你们能看这里吗？先别跟针织物吵架了。"
+      ],
+      [
+        "Evan",
+        "Are we smiling normally, or pretending we don't know each other for artistic reasons?",
+        "我们正常笑，还是出于艺术考虑假装不认识？"
+      ],
+      [
+        "Kai",
+        "You could try looking at each other. You've been doing it quite successfully without instructions.",
+        "你们可以试试互相看。没人指导的时候，你们一直做得挺成功的。"
+      ],
+      [
+        "Miles",
+        "That one works. Want to see it before I send it?",
+        "这张不错。发给你们之前，想先看看吗？"
+      ],
+      [
+        "Oliver",
+        "Please. I'd like proof that I possess a chin when the camera isn't below the table.",
+        "想。我希望证明一下，只要镜头不放在桌子底下，我也是有下巴的人。"
+      ],
+      [
+        "Kai",
+        "You both look good. Are we expecting an acceptance speech?",
+        "你们都很好看。接下来有获奖感言吗？"
+      ],
+      [
+        "Evan",
+        "Just send it to us first. I'd rather enjoy the day than write a caption for everyone I know.",
+        "先发给我们就好。我更想享受今天，不想给所有认识的人写配文。"
+      ],
+      [
+        "Oliver",
+        "Agreed. A good photograph doesn't have to announce anything. Although I am rather pleased with that one.",
+        "同意。一张好照片不一定非得宣布什么。不过这张我确实挺喜欢。"
+      ],
+      [
+        "Miles",
+        "Sent to you both. Shall we get a ridiculous one as well, so this doesn't become too tasteful?",
+        "分别发给你们了。要不要再拍张傻一点的，免得整件事太有品位？"
+      ],
+      [
+        "Kai",
+        "Finally, a brief I can deliver. Evan, stop looking as though you're about to explain the quarterly figures.",
+        "终于有个我能执行的拍摄要求了。Evan，别一脸准备讲季度数据的样子。"
+      ],
+      [
+        "Evan",
+        "I'm trying to look relaxed. Why does that apparently require so much concentration?",
+        "我在努力显得放松。为什么这件事好像还需要高度集中注意力？"
+      ],
+      [
+        "Miles",
+        "Because you've turned relaxing into a task. There. That laugh was much better.",
+        "因为你把放松也变成任务了。对，刚才那个笑就好多了。"
+      ],
+      [
+        "Oliver",
+        "Keep that one. It's much more like you. Can we send it to Grant and Dean too?",
+        "那张留着。更像平常的你。也能发给 Grant 和 Dean 吗？"
+      ],
+      [
+        "Evan",
+        "Yes. Now we need a picture with all six, once they return from the counter.",
+        "可以。等他们从柜台回来，我们还得拍张六个人一起的。"
+      ],
+      [
+        "Kai",
+        "Give them a minute. Dean is apparently discussing cake lighting rather than simply choosing cake.",
+        "给他们一点时间。Dean 好像在讨论蛋糕的灯光，而不只是挑蛋糕。"
+      ],
+      [
+        "Oliver",
+        "A serious professional. Miles, are you practising cake selection for your next dinner date?",
+        "很有职业精神。Miles，你是在为下次晚餐约会练习选蛋糕吗？"
+      ],
+      [
+        "Miles",
+        "Tuesday at mine. I'm cooking, and dessert is still an unresolved strategic issue.",
+        "周二来我家。我做饭，甜点目前还是一个没解决的战略问题。"
+      ],
+      [
+        "Kai",
+        "Buy something lovely. Being interested doesn't require opening a bakery. Is that rain on your sleeve?",
+        "买份好吃的吧。喜欢一个人，不代表还得开家面包店。你袖子上那个是雨点吗？"
+      ],
+      [
+        "Evan",
+        "It is. Let's move inside before our windswept photograph becomes a rescue documentary.",
+        "是。进去吧，别让迎风拍照变成救援纪录片。"
+      ]
+    ],
+    "context": {
+      "en": "Later that Sunday, all six have reached the coastal cafe after the first part of the walk. Grant and Dean are choosing food at the counter while Evan, Oliver, Miles and Kai sit outside. Evan has borrowed Oliver's scarf and asks for a photograph. The conversation moves from flattering camera angles to how much of an ordinary happy moment needs to be shared."
+    },
+    "chapter": "dating",
+    "section": "advanced",
+    "vocabulary": []
+  },
+  {
+    "id": "trial-37",
+    "label": "Social English · Trial 37",
+    "title": "The Shorter Route Still Counts",
+    "subtitle": "Sheltering from a shower, Grant lets the group change the plan while Dean finally shares a little about Saturday's first drink.",
+    "description": "Four voices · changing plans · first-date nerves",
+    "audio": "audio/social_english_trial-37_130wpm.mp3",
+    "timings": "timings/trial-37.json",
+    "speakers": [
+      "Grant",
+      "Dean",
+      "Miles",
+      "Kai"
+    ],
+    "dialogue": [
+      [
+        "Grant",
+        "The shorter loop would bring us back to the station without the exposed stretch. How does that sound?",
+        "短环线可以绕开那段无遮挡的路，直接回车站。你们觉得怎么样？"
+      ],
+      [
+        "Dean",
+        "As a man who has discovered a roof and a cake menu, I'm surprisingly open to a shorter walk.",
+        "作为一个刚刚发现屋顶和蛋糕菜单的男人，我对缩短路程出奇地开放。"
+      ],
+      [
+        "Miles",
+        "Sounds good to me. Are you disappointed, Grant, or relieved you won't have to listen to us complain?",
+        "我觉得很好。Grant，你是有点失望，还是庆幸不用听我们抱怨了？"
+      ],
+      [
+        "Kai",
+        "I've already complained once about wet socks. I don't want to repeat myself artistically.",
+        "我已经抱怨过一次湿袜子了。不想再进行艺术性重复。"
+      ],
+      [
+        "Dean",
+        "At least I chose a more practical outfit today. Yesterday's shirt was mostly selected for sitting attractively.",
+        "至少我今天穿得更实用。昨天那件衬衫，主要是为了坐着好看才选的。"
+      ],
+      [
+        "Miles",
+        "That sounds like our postponed press conference. How did the first drink go?",
+        "听起来是我们推迟的新闻发布会终于开始了。第一次喝酒见面怎么样？"
+      ],
+      [
+        "Grant",
+        "You can say you enjoyed it without giving a full report on the parking.",
+        "你可以直接说玩得开心，不用先完整汇报停车经过。"
+      ],
+      [
+        "Kai",
+        "Was he interesting, or did you spend the evening explaining why your car has a personality?",
+        "他有意思吗？还是你花了一整晚解释，为什么你的车有独立人格？"
+      ],
+      [
+        "Miles",
+        "Give him a chance. He's only just admitted that the shirt was deliberate.",
+        "给他点机会。他刚承认衬衫是特意选的。"
+      ],
+      [
+        "Dean",
+        "He was interesting. He asked what I enjoy about my work, then actually listened to the answer.",
+        "他挺有意思的。他问我喜欢自己工作中的什么，而且真的听了回答。"
+      ],
+      [
+        "Kai",
+        "Promising. Did you manage to stop making jokes for five consecutive minutes?",
+        "开头不错。你有成功连续五分钟不讲笑话吗？"
+      ],
+      [
+        "Grant",
+        "That's ambitious. Start with two and build gradually.",
+        "目标有点高。先从两分钟开始，循序渐进。"
+      ],
+      [
+        "Dean",
+        "I was nervous. I eventually said so. He smiled, asked if he could kiss me, and considerably improved the evening.",
+        "我当时紧张。后来还是说出来了。他笑了，问能不能亲我，让那个晚上好上了不少。"
+      ],
+      [
+        "Miles",
+        "There we are. Was admitting it easier than trying to look completely unbothered?",
+        "这不就好了。承认紧张，是不是比努力装得毫不在意轻松？"
+      ],
+      [
+        "Kai",
+        "Let the record show that good lighting wasn't the decisive factor.",
+        "请记录在案：好灯光并不是决定性因素。"
+      ],
+      [
+        "Grant",
+        "A useful finding. And for the record, I don't mind changing the walk. I wanted the company more than the distance.",
+        "这是个有用的发现。也声明一下，我不介意改路线。我想要的是有人一起走，不是凑够公里数。"
+      ],
+      [
+        "Miles",
+        "Good. We came to spend time together, not validate a route. Has the rain eased at all?",
+        "很好。我们是来相处的，不是来验收路线的。雨有没有小一点？"
+      ],
+      [
+        "Dean",
+        "A little. And there's a message asking whether I'd like to meet again. I'm trying not to compose a speech.",
+        "小了一点。还有条消息问我想不想再见。我正努力不把回复写成演讲。"
+      ],
+      [
+        "Grant",
+        "Would you like to? That seems a useful place to start.",
+        "你想吗？从这个问题开始，好像挺有用。"
+      ],
+      [
+        "Kai",
+        "Then answer that question, not the imaginary panel reviewing your punctuation.",
+        "那就回答这个问题，别回答你脑补出来的标点审核委员会。"
+      ],
+      [
+        "Dean",
+        "I've said I'd love to. The time isn't settled. Phone away before any of you start choosing wedding music.",
+        "我说了很愿意。时间还没定。先收手机，免得你们开始选婚礼音乐。"
+      ],
+      [
+        "Miles",
+        "No weddings. My immediate romantic ambition is getting through Tuesday dinner without burning the kitchen.",
+        "没有婚礼。我眼下的恋爱抱负，就是周二那顿饭别把厨房烧了。"
+      ],
+      [
+        "Kai",
+        "A manageable goal. I'll take the drinks to the other table. Grant, can you sit down and let someone else carry something?",
+        "目标可以实现。我把饮料送到另一桌。Grant，你能坐一会儿，让别人也搬点东西吗？"
+      ],
+      [
+        "Grant",
+        "All right. Tea for me, please. Apparently organising a walk doesn't mean I have to carry every tray.",
+        "好吧。给我茶就好。看来组织一次散步，不代表每个托盘都得我来端。"
+      ]
+    ],
+    "context": {
+      "en": "A shower sends everyone inside the same cafe. Evan and Oliver settle at a nearby table while Grant, Dean, Miles and Kai discuss the shorter route Grant mentioned during planning. Dean's Saturday first drink has now happened, and he is willing to share a little about it. The day out is still underway; the group has not yet completed the walk or returned home."
+    },
+    "chapter": "circle",
+    "section": "advanced",
+    "vocabulary": []
+  }
+]

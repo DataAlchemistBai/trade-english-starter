@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f4f8fe">
+  <meta name="description" content="成人初级外贸英语：慢速播放、逐词同步高亮、重点词汇与故事进阶练习。">
+  <title>Trade English Starter · 外贸英语入门</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='17' fill='%231c344d'/%3E%3Cpath d='M17 36v-8c0-8 6-14 15-14s15 6 15 14v8' fill='none' stroke='%23f5b86c' stroke-width='5'/%3E%3Cpath d='M24 38c0 7 4 12 8 12s8-5 8-12' fill='none' stroke='%23f5b86c' stroke-width='5'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="starter.css">
+</head>
+<body class="light-theme">
+  <main class="app">
+    <header class="topbar">
+      <div class="brand"><div class="brand-mark" aria-hidden="true">♬</div><div><div class="eyebrow">ONE WORD, ONE STEP</div><div class="brand-name">Trade English Starter<span class="brand-zh">外贸英语入门</span></div></div></div>
+      <div class="header-actions"><button class="theme-toggle" id="themeBtn" type="button"><span id="themeLabel">深色模式</span></button><div class="session">当前练习<strong id="currentSession">正在加载…</strong></div></div>
+    </header>
+    <section class="course-tabs" aria-label="选择学习区">
+      <button class="course-tab active" data-section="trade" type="button"><span>01 / START HERE</span><strong>外贸入门</strong><small>6 节短对话 · 适合初级</small></button>
+      <button class="course-tab" data-section="advanced" type="button"><span>02 / KEEP EXPLORING</span><strong>故事进阶</strong><small>36 张原版故事 · 成人社交情景</small></button>
+      <div class="course-note"><strong>从听清一个词开始。</strong><span>首次默认 0.65×；当前读到的单词会随音频高亮。</span></div>
+    </section>
+    <section class="library" aria-label="练习卡片库"><div class="library-copy"><div class="label">PRACTICE LIBRARY</div><div class="library-title" id="libraryTitle">选择一课</div><p class="library-hint" id="libraryHint">先听一遍，再跟着句子练习。</p></div><nav class="chapter-nav" id="chapterNav" aria-label="课程分类"></nav><div class="library-results"><div class="chapter-meta" id="chapterMeta"></div><div class="session-cards" id="sessionCards"></div></div></section>
+    <div class="layout">
+      <section class="panel player" aria-label="播放器">
+        <div class="label" id="trialLabel">外贸入门</div><h1 class="title" id="sessionTitle">正在加载课程…</h1><p class="lesson-zh" id="sessionZh"></p><p class="subtitle" id="sessionSubtitle"></p>
+        <aside class="context-card"><div class="context-kicker">CONVERSATION BACKGROUND · 对话背景</div><p class="context-en" id="contextChinese"></p><p class="context-secondary" id="contextEnglish"></p></aside>
+        <div class="speakers" id="speakerChips"></div><div class="speaker-stage" id="speakerStage" aria-label="说话人物"></div>
+        <div class="wave" id="wave" aria-hidden="true"></div>
+        <div class="time-row"><span id="currentTime">0:00</span><span id="playerStatus" role="status">正在准备音频</span><span id="duration">0:00</span></div>
+        <input class="progress-range" id="seek" type="range" min="0" max="1000" step="1" value="0" aria-label="音频进度" disabled>
+        <div class="transport"><button class="icon-btn" id="back15" type="button" aria-label="后退十五秒">↶</button><button class="icon-btn" id="previous" type="button" aria-label="上一句">❮</button><button class="play" id="play" type="button" aria-label="播放"><span id="playLabel">▶ 播放对话</span></button><button class="icon-btn" id="next" type="button" aria-label="下一句">❯</button><button class="icon-btn" id="forward15" type="button" aria-label="前进十五秒">↷</button></div>
+        <div class="controls">
+          <div class="control-line"><span>播放速度</span><div class="speed-group" role="group" aria-label="播放速度"><button class="speed active" data-speed="0.65" type="button">0.65×</button><button class="speed" data-speed="0.85" type="button">0.85×</button><button class="speed" data-speed="1" type="button">1.0×</button><button class="speed" data-speed="1.1" type="button">1.1×</button></div></div>
+          <label class="control-line"><span>循环当前句</span><input id="loopToggle" class="toggle" type="checkbox"></label>
+          <label class="control-line"><span>字幕自动跟随</span><input id="scrollToggle" class="toggle" type="checkbox" checked></label>
+          <label class="control-line"><span>逐词同步高亮</span><input id="wordToggle" class="toggle" type="checkbox" checked></label>
+        </div>
+        <p class="hotkeys"><span class="key">Space</span> 播放／暂停　<span class="key">←</span><span class="key">→</span> 前后 5 秒　<span class="key">L</span> 循环　<span class="key">T</span> 翻译</p>
+        <audio id="audio" preload="metadata" playsinline></audio>
+      </section>
+      <section class="panel transcript-shell" id="transcriptShell" aria-label="同步字幕">
+        <header class="transcript-head"><div><div class="label">LISTEN & FOLLOW</div><h2>一句一句，慢慢来</h2><p class="transcript-tip">点句子播放 · 金色单词正在被读出</p></div><div class="mode-controls"><button class="chip active" id="translationBtn" type="button" aria-pressed="true">中文释义</button><button class="chip" id="englishBtn" type="button" aria-pressed="false">专注英文</button><button class="chip" id="restartBtn" type="button">从头开始</button></div></header>
+        <div class="lines" id="lines"><p class="loading-copy">正在读取课程。首次打开可能需要一点时间。</p></div>
+      </section>
+    </div>
+    <section class="panel vocabulary" aria-labelledby="vocabTitle"><div class="vocab-head"><div><div class="label">SMALL WORDS, REAL CONVERSATIONS</div><h2 id="vocabTitle">本课重点词</h2><p>先听原句中的发音，再跟着例句读。认识的词可以标记。</p></div><span class="vocab-count" id="vocabCount"></span></div><div class="vocab-grid" id="vocabGrid"></div><p class="vocab-note">🔊 播放的是这个词在当前对话中的原音片段，不调用手机系统语音。原文和全部单词始终保留，不会逐词消失。</p></section>
+    <footer class="footer"><span>为成人初级学习者设计 · 人物及情景均为虚构 · 示例报价不构成交易承诺</span><span><button id="resetProgress" type="button">清除本课播放进度</button> · 学习记录仅保存在此浏览器</span></footer>
+  </main>
+  <div class="toast" id="toast" role="status"></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

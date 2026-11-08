@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.openai/
+.codex/
+.cache/
+tmp/
+outputs/
+*.log
+*.tar
+*.zip
+.DS_Store
+Thumbs.db

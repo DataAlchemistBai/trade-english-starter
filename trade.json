@@ -1,0 +1,158 @@
+[
+  {
+    "id":"trade-01","section":"trade","chapter":"start","label":"外贸入门 · 01","title":"Hello, I'm Evan","zhTitle":"打招呼与公司介绍","subtitle":"先介绍自己，再说清楚公司卖什么。","description":"初次见面 · 通用外贸","audio":"audio/trade-01.mp3","timings":"timings/trade-01.json","speakers":["Evan","Oliver"],"roles":{"Evan":"供应商代表","Oliver":"客户"},
+    "context":{"en":"Evan meets a buyer at a trade fair. They introduce themselves.","zh":"情景演练：展会上第一次见面，Evan 是供应商代表，Oliver 是客户。先问候、介绍姓名，再介绍公司。本课角色不改变原故事中的人物职业。"},
+    "dialogue":[
+      ["Evan","Hello. I'm Evan.","你好，我是 Evan。"],
+      ["Oliver","Hi. My name is Oliver.","你好，我叫 Oliver。"],
+      ["Evan","Nice to meet you.","很高兴认识你。"],
+      ["Oliver","Nice to meet you too.","我也很高兴认识你。"],
+      ["Evan","Are you a buyer?","你是采购商吗？"],
+      ["Oliver","Yes. What does your company sell?","是的。你们公司销售什么？"],
+      ["Evan","We sell home products.","我们销售家居产品。"],
+      ["Oliver","Do you sell chairs?","你们卖椅子吗？"],
+      ["Evan","Yes. We sell tables too.","卖的。我们也卖桌子。"],
+      ["Oliver","Can I see your products?","我可以看看你们的产品吗？"],
+      ["Evan","Of course. Please come this way.","当然，请这边走。"],
+      ["Oliver","Thank you. That would be great.","谢谢，那太好了。"]
+    ],
+    "vocabulary":[
+      {"word":"hello","zh":"你好","ipa":"/həˈləʊ/","example":"Hello. I'm Evan.","exampleZh":"你好，我是 Evan。"},
+      {"word":"name","zh":"名字","ipa":"/neɪm/","example":"My name is Oliver.","exampleZh":"我叫 Oliver。"},
+      {"word":"company","zh":"公司","ipa":"/ˈkʌmpəni/","example":"What does your company sell?","exampleZh":"你们公司销售什么？"},
+      {"word":"sell","zh":"卖；销售","ipa":"/sel/","example":"We sell chairs.","exampleZh":"我们卖椅子。"},
+      {"word":"buyer","zh":"买方；采购商","ipa":"/ˈbaɪə/","example":"Are you a buyer?","exampleZh":"你是采购商吗？"},
+      {"word":"meet","zh":"见面；认识","ipa":"/miːt/","example":"Nice to meet you.","exampleZh":"很高兴认识你。"}
+    ]
+  },
+  {
+    "id":"trade-02","section":"trade","chapter":"start","label":"外贸入门 · 02","title":"Can You Send a Catalogue?","zhTitle":"看产品与索要目录","subtitle":"用简单问句了解产品，并索要电子目录。","description":"产品目录 · 家居场景","audio":"audio/trade-02.mp3","timings":"timings/trade-02.json","speakers":["Miles","Dean"],"roles":{"Miles":"供应商代表","Dean":"客户"},
+    "context":{"en":"Dean wants to see furniture. Miles offers a catalogue.","zh":"情景演练：客户 Dean 想了解家具产品。供应商代表 Miles 介绍椅子和桌子，并询问如何发送目录。"},
+    "dialogue":[
+      ["Dean","What products do you sell?","你们销售哪些产品？"],
+      ["Miles","We sell chairs and tables.","我们卖椅子和桌子。"],
+      ["Dean","Can I see this chair?","我能看看这把椅子吗？"],
+      ["Miles","Yes. Please have a look.","可以，请看。"],
+      ["Dean","Do you have a catalogue?","你们有产品目录吗？"],
+      ["Miles","Yes. I can send it.","有的，我可以发给你。"],
+      ["Dean","Can you send it by email?","你能通过电子邮件发送吗？"],
+      ["Miles","Of course. What is your email address?","当然，你的邮箱地址是什么？"],
+      ["Dean","I'll send you my email address.","我会把我的邮箱地址发给你。"],
+      ["Miles","Would you like photos too?","你还想要照片吗？"],
+      ["Dean","Yes, please. Photos would help.","是的，麻烦了。照片会有帮助。"],
+      ["Miles","I'll send the catalogue and photos.","我会发送目录和照片。"]
+    ],
+    "vocabulary":[
+      {"word":"products","zh":"产品（复数）","ipa":"/ˈprɒdʌkts/","example":"What products do you sell?","exampleZh":"你们销售哪些产品？"},
+      {"word":"catalogue","zh":"产品目录","ipa":"/ˈkætəlɒɡ/","example":"Do you have a catalogue?","exampleZh":"你们有产品目录吗？"},
+      {"word":"chair","zh":"椅子","ipa":"/tʃeə/","example":"Can I see this chair?","exampleZh":"我能看看这把椅子吗？"},
+      {"word":"tables","zh":"桌子（复数）","ipa":"/ˈteɪbəlz/","example":"We sell chairs and tables.","exampleZh":"我们卖椅子和桌子。"},
+      {"word":"send","zh":"发送；寄送","ipa":"/send/","example":"I can send it.","exampleZh":"我可以发送。"},
+      {"word":"email","zh":"电子邮件","ipa":"/ˈiːmeɪl/","example":"Can you send it by email?","exampleZh":"你能通过电子邮件发送吗？"}
+    ]
+  },
+  {
+    "id":"trade-03","section":"trade","chapter":"inquiry","label":"外贸入门 · 03","title":"Do You Have It in Blue?","zhTitle":"确认颜色与尺寸","subtitle":"围绕一件衬衫，练习颜色、尺寸和确认需求。","description":"颜色尺寸 · 服装场景","audio":"audio/trade-03.mp3","timings":"timings/trade-03.json","speakers":["Oliver","Kai"],"roles":{"Oliver":"供应商代表","Kai":"客户"},
+    "context":{"en":"Kai asks Oliver about a shirt. He needs a different colour and size.","zh":"情景演练：客户 Kai 看中一件衬衫，想确认蓝色和大号是否可提供。练习用 this、it 和简单问句承接对话。"},
+    "dialogue":[
+      ["Kai","I like this shirt.","我喜欢这件衬衫。"],
+      ["Oliver","What colour would you like?","你想要什么颜色？"],
+      ["Kai","Do you have it in blue?","这款有蓝色的吗？"],
+      ["Oliver","Yes. We have blue and white.","有的。我们有蓝色和白色。"],
+      ["Kai","What size is this?","这是什么尺码？"],
+      ["Oliver","This one is small.","这件是小号。"],
+      ["Kai","Do you have a large size?","有大号吗？"],
+      ["Oliver","Yes. Let me check.","有的，让我确认一下。"],
+      ["Kai","Can you show me the blue one?","能给我看看蓝色那件吗？"],
+      ["Oliver","Here it is. It's a large.","在这里。这件是大号。"],
+      ["Kai","Great. This is what I need.","太好了，这就是我需要的。"],
+      ["Oliver","I'll write down the colour and size.","我会记下颜色和尺码。"]
+    ],
+    "vocabulary":[
+      {"word":"shirt","zh":"衬衫","ipa":"/ʃɜːt/","example":"I like this shirt.","exampleZh":"我喜欢这件衬衫。"},
+      {"word":"colour","zh":"颜色","ipa":"/ˈkʌlə/","example":"What colour would you like?","exampleZh":"你想要什么颜色？"},
+      {"word":"blue","zh":"蓝色；蓝色的","ipa":"/bluː/","example":"Do you have it in blue?","exampleZh":"这款有蓝色的吗？"},
+      {"word":"size","zh":"尺码；尺寸","ipa":"/saɪz/","example":"What size is this?","exampleZh":"这是什么尺码？"},
+      {"word":"small","zh":"小的；小号","ipa":"/smɔːl/","example":"This one is small.","exampleZh":"这件是小号。"},
+      {"word":"large","zh":"大的；大号","ipa":"/lɑːdʒ/","example":"Do you have a large size?","exampleZh":"有大号吗？"}
+    ]
+  },
+  {
+    "id":"trade-04","section":"trade","chapter":"inquiry","label":"外贸入门 · 04","title":"What Is the Price?","zhTitle":"询问价格与数量","subtitle":"用简短句子询价、报数量，并确认下一步。","description":"价格数量 · 通用外贸","audio":"audio/trade-04.mp3","timings":"timings/trade-04.json","speakers":["Evan","Dean"],"roles":{"Evan":"供应商代表","Dean":"客户"},
+    "context":{"en":"Dean asks about a lamp. Evan explains the price and asks about quantity.","zh":"情景演练：客户想采购一款灯具，双方询问单价和数量。价格、数量只是语言练习示例，不代表真实报价。"},
+    "dialogue":[
+      ["Dean","What is the price?","价格是多少？"],
+      ["Evan","It's five dollars each.","每个五美元。"],
+      ["Dean","Is that the price for one?","那是一个的价格吗？"],
+      ["Evan","Yes. How many do you need?","是的。你需要多少个？"],
+      ["Dean","Can I order fifty pieces?","我能订五十个吗？"],
+      ["Evan","Yes. Fifty pieces is fine.","可以。五十个没问题。"],
+      ["Dean","Does the price include shipping?","价格包含运费吗？"],
+      ["Evan","No. Shipping is extra.","不包含。运费另算。"],
+      ["Dean","Can you check the total?","你能确认一下总额吗？"],
+      ["Evan","Yes. I'll email the total.","可以，我会把总额通过邮件发给你。"],
+      ["Dean","Thank you. I'll check it today.","谢谢，我今天会查看。"],
+      ["Evan","Please let me know if you have questions.","如果有问题，请告诉我。"]
+    ],
+    "vocabulary":[
+      {"word":"price","zh":"价格","ipa":"/praɪs/","example":"What is the price?","exampleZh":"价格是多少？"},
+      {"word":"each","zh":"每个；每件","ipa":"/iːtʃ/","example":"It's five dollars each.","exampleZh":"每个五美元。"},
+      {"word":"order","zh":"订购；订单","ipa":"/ˈɔːdə/","example":"Can I order fifty pieces?","exampleZh":"我能订五十个吗？"},
+      {"word":"pieces","zh":"件；个（复数）","ipa":"/ˈpiːsɪz/","example":"Fifty pieces is fine.","exampleZh":"五十个没问题。"},
+      {"word":"fifty","zh":"五十","ipa":"/ˈfɪfti/","example":"I need fifty pieces.","exampleZh":"我需要五十个。"},
+      {"word":"total","zh":"总额；合计","ipa":"/ˈtəʊtəl/","example":"Can you check the total?","exampleZh":"你能确认一下总额吗？"}
+    ]
+  },
+  {
+    "id":"trade-05","section":"trade","chapter":"order","label":"外贸入门 · 05","title":"Can You Send a Sample?","zhTitle":"寄样与准备时间","subtitle":"围绕螺丝样品，询问寄样、费用和准备时间。","description":"样品沟通 · 五金场景","audio":"audio/trade-05.mp3","timings":"timings/trade-05.json","speakers":["Grant","Kai"],"roles":{"Grant":"供应商代表","Kai":"客户"},
+    "context":{"en":"Kai wants to check a screw before ordering. Grant discusses a sample.","zh":"情景演练：客户 Kai 希望先检查螺丝样品，再考虑订购。费用与时间只是示例；真实业务应另行确认。"},
+    "dialogue":[
+      ["Kai","Can you send a sample?","你能寄一个样品吗？"],
+      ["Grant","Yes. Which screw do you need?","可以。你需要哪种螺丝？"],
+      ["Kai","This one, please.","请给我这种。"],
+      ["Grant","How many samples would you like?","你想要几个样品？"],
+      ["Kai","Two would be great.","两个就很好。"],
+      ["Grant","Of course. We can prepare two.","当然，我们可以准备两个。"],
+      ["Kai","How much does the sample cost?","样品多少钱？"],
+      ["Grant","The sample is free. Shipping is extra.","样品免费，运费另算。"],
+      ["Kai","When will the samples be ready?","样品什么时候能准备好？"],
+      ["Grant","They'll be ready in three days.","三天后能准备好。"],
+      ["Kai","Please check the shipping cost too.","也请确认一下运费。"],
+      ["Grant","I will. I'll email you tomorrow.","好的，我明天给你发邮件。"]
+    ],
+    "vocabulary":[
+      {"word":"sample","zh":"样品","ipa":"/ˈsɑːmpəl/","example":"Can you send a sample?","exampleZh":"你能寄一个样品吗？"},
+      {"word":"screw","zh":"螺丝","ipa":"/skruː/","example":"Which screw do you need?","exampleZh":"你需要哪种螺丝？"},
+      {"word":"cost","zh":"费用；花费","ipa":"/kɒst/","example":"How much does the sample cost?","exampleZh":"样品多少钱？"},
+      {"word":"ready","zh":"准备好的","ipa":"/ˈredi/","example":"When will the samples be ready?","exampleZh":"样品什么时候能准备好？"},
+      {"word":"days","zh":"天（复数）","ipa":"/deɪz/","example":"In three days.","exampleZh":"三天后。"},
+      {"word":"check","zh":"查看；确认","ipa":"/tʃek/","example":"Please check the shipping cost.","exampleZh":"请确认运费。"}
+    ]
+  },
+  {
+    "id":"trade-06","section":"trade","chapter":"order","label":"外贸入门 · 06","title":"When Can You Ship It?","zhTitle":"发货与订单跟进","subtitle":"确认地址、包装和发货时间，完成一次简单跟进。","description":"发货跟进 · 通用外贸","audio":"audio/trade-06.mp3","timings":"timings/trade-06.json","speakers":["Miles","Oliver"],"roles":{"Miles":"供应商代表","Oliver":"客户"},
+    "context":{"en":"Oliver checks an order of home products. Miles confirms the next steps.","zh":"情景演练：客户 Oliver 跟进家居产品订单。双方确认地址、包装、发货与物流查询信息。示例时间不代表真实承诺，请勿填写个人真实信息到公开内容中。"},
+    "dialogue":[
+      ["Oliver","Is my order ready?","我的订单准备好了吗？"],
+      ["Miles","Yes. We can ship it on Friday.","是的，我们周五可以发货。"],
+      ["Oliver","Do you have my address?","你有我的地址吗？"],
+      ["Miles","Please send the address by email.","请通过邮件发送地址。"],
+      ["Oliver","I'll send it today.","我今天会发送。"],
+      ["Miles","Do you need small boxes?","你需要小箱子吗？"],
+      ["Oliver","Yes. Please use strong boxes.","需要，请用结实的箱子。"],
+      ["Miles","Of course. We'll check the packing.","当然，我们会检查包装。"],
+      ["Oliver","Can you send me a tracking number?","能给我发一个物流单号吗？"],
+      ["Miles","Yes. I'll send it after shipping.","可以，发货后我会发送。"],
+      ["Oliver","Thank you. Please keep me updated.","谢谢，请随时告诉我进展。"],
+      ["Miles","I will. Thank you for your order.","好的，感谢你的订单。"]
+    ],
+    "vocabulary":[
+      {"word":"ship","zh":"发货；运送","ipa":"/ʃɪp/","example":"When can you ship it?","exampleZh":"你什么时候可以发货？"},
+      {"word":"address","zh":"地址","ipa":"/əˈdres/","example":"Do you have my address?","exampleZh":"你有我的地址吗？"},
+      {"word":"boxes","zh":"箱子（复数）","ipa":"/ˈbɒksɪz/","example":"Please use strong boxes.","exampleZh":"请用结实的箱子。"},
+      {"word":"packing","zh":"包装","ipa":"/ˈpækɪŋ/","example":"We'll check the packing.","exampleZh":"我们会检查包装。"},
+      {"word":"tracking","zh":"追踪；物流查询","ipa":"/ˈtrækɪŋ/","example":"Can you send a tracking number?","exampleZh":"你能发送一个物流单号吗？"},
+      {"word":"updated","zh":"获知最新进展的","ipa":"/ʌpˈdeɪtɪd/","example":"Please keep me updated.","exampleZh":"请随时告诉我进展。"}
+    ]
+  }
+]
