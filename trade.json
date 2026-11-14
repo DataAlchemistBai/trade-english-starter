@@ -154,5 +154,161 @@
       {"word":"tracking","zh":"追踪；物流查询","ipa":"/ˈtrækɪŋ/","example":"Can you send a tracking number?","exampleZh":"你能发送一个物流单号吗？"},
       {"word":"updated","zh":"获知最新进展的","ipa":"/ʌpˈdeɪtɪd/","example":"Please keep me updated.","exampleZh":"请随时告诉我进展。"}
     ]
+  },
+  {
+    "id":"trade-07","section":"trade","chapter":"inquiry","label":"外贸入门 · 07","title":"How Many Do I Need to Order?","zhTitle":"确认最低起订量","subtitle":"问清最少订多少，以及不同颜色能否合计。","description":"最低起订量 · 服装","audio":"audio/trade-07.mp3","timings":"timings/trade-07.json","speakers":["Oliver","Dean"],"roles":{"Oliver":"供应商代表","Dean":"客户"},
+    "context":{"en":"Dean wants shirts in two colours. Oliver explains the minimum order.","zh":"情景演练：Dean 想试卖两种颜色的衬衫。他先问起订量，再确认两种颜色能不能合计。"},
+    "dialogue":[
+      ["Dean","What is the minimum order?","最低起订量是多少？"],
+      ["Oliver","The minimum is one hundred shirts.","最少订一百件衬衫。"],
+      ["Dean","Can I mix two colours?","我可以混订两种颜色吗？"],
+      ["Oliver","Yes. Which colours do you want?","可以。你想要哪两种颜色？"],
+      ["Dean","Blue and white, please.","蓝色和白色，谢谢。"],
+      ["Oliver","How many of each colour?","每种颜色要多少件？"],
+      ["Dean","Sixty blue and forty white.","蓝色六十件，白色四十件。"],
+      ["Oliver","That makes one hundred in total.","这样总共是一百件。"],
+      ["Dean","Can I start with this order?","我可以先下这笔订单吗？"],
+      ["Oliver","Yes. Please confirm the sizes.","可以，请确认尺码。"],
+      ["Dean","I'll send the size list today.","我今天会发尺码清单。"],
+      ["Oliver","Great. I'll check the details.","好的，我会核对细节。"]
+    ],
+    "vocabulary":[
+      {"word":"minimum","zh":"最低的；最少量","ipa":"/ˈmɪnɪməm/","example":"What is the minimum order?","exampleZh":"最低起订量是多少？"},
+      {"word":"mix","zh":"混合；搭配","ipa":"/mɪks/","example":"Can I mix two colours?","exampleZh":"我可以混订两种颜色吗？"},
+      {"word":"sixty","zh":"六十","ipa":"/ˈsɪksti/","example":"Sixty blue and forty white.","exampleZh":"蓝色六十件，白色四十件。"},
+      {"word":"forty","zh":"四十","ipa":"/ˈfɔːti/","example":"Sixty blue and forty white.","exampleZh":"蓝色六十件，白色四十件。"},
+      {"word":"confirm","zh":"确认","ipa":"/kənˈfɜːm/","example":"Yes. Please confirm the sizes.","exampleZh":"可以，请确认尺码。"},
+      {"word":"list","zh":"清单","ipa":"/lɪst/","example":"I'll send the size list today.","exampleZh":"我今天会发尺码清单。"}
+    ]
+  },
+  {
+    "id":"trade-08","section":"trade","chapter":"inquiry","label":"外贸入门 · 08","title":"Do You Have It in Stock?","zhTitle":"查库存与找替代款","subtitle":"原款暂时无货时，询问现货并比较另一个款式。","description":"库存与替代 · 家居","audio":"audio/trade-08.mp3","timings":"timings/trade-08.json","speakers":["Miles","Evan"],"roles":{"Miles":"供应商代表","Evan":"客户"},
+    "context":{"en":"Evan wants a wooden chair. Miles offers another model that is in stock.","zh":"情景演练：Evan 想买木椅，但原款暂无现货。Miles 推荐另一款，客户先看照片，再决定是否订购。"},
+    "dialogue":[
+      ["Evan","Is this chair in stock?","这款椅子有现货吗？"],
+      ["Miles","Sorry. That model is sold out.","抱歉，那款卖完了。"],
+      ["Evan","When will it be back?","什么时候会再到货？"],
+      ["Miles","It should be back next month.","预计下个月会再到货。"],
+      ["Evan","I need chairs this week.","我这周就需要椅子。"],
+      ["Miles","We have another model in stock.","我们另一款有现货。"],
+      ["Evan","Is it the same size?","尺寸一样吗？"],
+      ["Miles","Yes, but the seat is darker.","一样，不过椅座颜色更深。"],
+      ["Evan","Can you send a photo?","你能发张照片吗？"],
+      ["Miles","Yes. I'll send one now.","可以，我现在就发。"],
+      ["Evan","Thanks. I'll show my team.","谢谢，我会给团队看看。"],
+      ["Miles","No problem. Take your time.","没问题，你慢慢看。"]
+    ],
+    "vocabulary":[
+      {"word":"stock","zh":"库存；现货（in stock）","ipa":"/stɒk/","example":"Is this chair in stock?","exampleZh":"这款椅子有现货吗？"},
+      {"word":"model","zh":"款式；型号","ipa":"/ˈmɒdəl/","example":"Sorry. That model is sold out.","exampleZh":"抱歉，那款卖完了。"},
+      {"word":"month","zh":"月","ipa":"/mʌnθ/","example":"It should be back next month.","exampleZh":"预计下个月会再到货。"},
+      {"word":"another","zh":"另一个；另一款","ipa":"/əˈnʌðə/","example":"We have another model in stock.","exampleZh":"我们另一款有现货。"},
+      {"word":"seat","zh":"椅座；座位","ipa":"/siːt/","example":"Yes, but the seat is darker.","exampleZh":"一样，不过椅座颜色更深。"},
+      {"word":"photo","zh":"照片","ipa":"/ˈfəʊtəʊ/","example":"Can you send a photo?","exampleZh":"你能发张照片吗？"}
+    ]
+  },
+  {
+    "id":"trade-09","section":"trade","chapter":"order","label":"外贸入门 · 09","title":"Can You Offer a Lower Price?","zhTitle":"数量折扣与更新报价","subtitle":"用礼貌问句讨论批量价格，并要一份写清运费的报价。","description":"批量报价 · 五金","audio":"audio/trade-09.mp3","timings":"timings/trade-09.json","speakers":["Grant","Kai"],"roles":{"Grant":"供应商代表","Kai":"客户"},
+    "context":{"en":"Kai may buy more hooks. He asks Grant for a better price and an updated quote.","zh":"情景演练：Kai 有意增加挂钩的采购量，想知道能否拿到更低单价。他请 Grant 把货款和运费分别写进报价。价格仅为口语示例。"},
+    "dialogue":[
+      ["Kai","Could you offer a lower price?","你能给一个更低的价格吗？"],
+      ["Grant","How many hooks do you need?","你需要多少个挂钩？"],
+      ["Kai","We may need three hundred.","我们可能需要三百个。"],
+      ["Grant","We can give a small discount.","我们可以给一点折扣。"],
+      ["Kai","What is the new unit price?","新的单价是多少？"],
+      ["Grant","It's two dollars per hook.","每个挂钩两美元。"],
+      ["Kai","Does that include freight?","这包含运费吗？"],
+      ["Grant","No. I'll list freight separately.","不包含。我会单独列出运费。"],
+      ["Kai","Could you send a new quote?","可以发一份新的报价吗？"],
+      ["Grant","Sure. I'll send it this afternoon.","可以，我今天下午发。"],
+      ["Kai","Thanks. I'll review it with my team.","谢谢，我会和团队一起看看。"],
+      ["Grant","Let me know what they think.","他们怎么想，记得告诉我。"]
+    ],
+    "vocabulary":[
+      {"word":"offer","zh":"给出；提供","ipa":"/ˈɒfə/","example":"Could you offer a lower price?","exampleZh":"你能给一个更低的价格吗？"},
+      {"word":"hooks","zh":"挂钩（复数）","ipa":"/hʊks/","example":"How many hooks do you need?","exampleZh":"你需要多少个挂钩？"},
+      {"word":"discount","zh":"折扣","ipa":"/ˈdɪskaʊnt/","example":"We can give a small discount.","exampleZh":"我们可以给一点折扣。"},
+      {"word":"unit","zh":"单位（unit price：单价）","ipa":"/ˈjuːnɪt/","example":"What is the new unit price?","exampleZh":"新的单价是多少？"},
+      {"word":"freight","zh":"货运费用；运费","ipa":"/freɪt/","example":"Does that include freight?","exampleZh":"这包含运费吗？"},
+      {"word":"quote","zh":"报价；报价单","ipa":"/kwəʊt/","example":"Could you send a new quote?","exampleZh":"可以发一份新的报价吗？"}
+    ]
+  },
+  {
+    "id":"trade-10","section":"trade","chapter":"order","label":"外贸入门 · 10","title":"Please Check the Order Details","zhTitle":"核对并确认订单","subtitle":"下单前核对数量、款号和包装，发现不一致时先请对方修改。","description":"订单核对 · 服装","audio":"audio/trade-10.mp3","timings":"timings/trade-10.json","speakers":["Evan","Oliver"],"roles":{"Evan":"供应商代表","Oliver":"客户"},
+    "context":{"en":"Oliver checks a shirt order and spots a mistake in the order form.","zh":"情景演练：Oliver 准备确认衬衫订单，发现表单里的数量不对。两人核对款号和包装后，由 Evan 发回更新版。"},
+    "dialogue":[
+      ["Evan","Did you get the order form?","你收到订单表了吗？"],
+      ["Oliver","Yes. The quantity is wrong.","收到了。数量不对。"],
+      ["Evan","What quantity do you need?","你需要多少件？"],
+      ["Oliver","We need eighty shirts, not fifty.","我们需要八十件衬衫，不是五十件。"],
+      ["Evan","Got it. Is the item code correct?","明白，商品编号对吗？"],
+      ["Oliver","Yes. The code is correct.","对，编号正确。"],
+      ["Evan","Do you want individual bags?","你希望每件单独装袋吗？"],
+      ["Oliver","Yes. One shirt per bag, please.","是的，每袋装一件衬衫。"],
+      ["Evan","I'll update the form now.","我现在就更新表单。"],
+      ["Oliver","Please send me the revised form.","请把修改后的表单发给我。"],
+      ["Evan","Sure. Please check it again.","可以，请再核对一下。"],
+      ["Oliver","I'll confirm after I check it.","核对后我会确认。"]
+    ],
+    "vocabulary":[
+      {"word":"form","zh":"表单","ipa":"/fɔːm/","example":"Did you get the order form?","exampleZh":"你收到订单表了吗？"},
+      {"word":"quantity","zh":"数量","ipa":"/ˈkwɒntəti/","example":"Yes. The quantity is wrong.","exampleZh":"收到了。数量不对。"},
+      {"word":"code","zh":"编号；代码","ipa":"/kəʊd/","example":"Got it. Is the item code correct?","exampleZh":"明白，商品编号对吗？"},
+      {"word":"individual","zh":"单独的；个别的","ipa":"/ˌɪndɪˈvɪdʒuəl/","example":"Do you want individual bags?","exampleZh":"你希望每件单独装袋吗？"},
+      {"word":"update","zh":"更新（动词）","ipa":"/ʌpˈdeɪt/","example":"I'll update the form now.","exampleZh":"我现在就更新表单。"},
+      {"word":"revised","zh":"修改后的","ipa":"/rɪˈvaɪzd/","example":"Please send me the revised form.","exampleZh":"请把修改后的表单发给我。"}
+    ]
+  },
+  {
+    "id":"trade-11","section":"trade","chapter":"followup","label":"外贸入门 · 11","title":"We Need Two More Days","zhTitle":"告知延误与新发货日","subtitle":"说明延误原因，给出新日期，并主动约定下一次更新。","description":"延误沟通 · 家居","audio":"audio/trade-11.mp3","timings":"timings/trade-11.json","speakers":["Grant","Miles"],"roles":{"Grant":"供应商代表","Miles":"客户"},
+    "context":{"en":"A packaging delay changes the shipping date for a furniture order.","zh":"情景演练：家具订单因包装推迟。Grant 主动说明情况，Miles 询问能否先发一部分，并约定下一次进度更新。"},
+    "dialogue":[
+      ["Grant","There's a delay with your order.","你的订单有些延误。"],
+      ["Miles","What caused the delay?","是什么导致延误的？"],
+      ["Grant","The cartons arrived late.","纸箱到得晚了。"],
+      ["Miles","When can you ship the order?","什么时候能发货？"],
+      ["Grant","We need two more days.","我们还需要两天。"],
+      ["Miles","Can you ship part of it first?","能先发一部分吗？"],
+      ["Grant","Yes. Half is ready now.","可以，有一半已经准备好了。"],
+      ["Miles","Please send that half first.","请先发那一半。"],
+      ["Grant","We'll ship it on Thursday.","我们周四发出。"],
+      ["Miles","When will the rest ship?","剩下的什么时候发？"],
+      ["Grant","On Saturday. I'll send an update tomorrow.","周六。我明天会告诉你最新进展。"],
+      ["Miles","Thanks for letting me know.","谢谢你告诉我。"]
+    ],
+    "vocabulary":[
+      {"word":"delay","zh":"延误","ipa":"/dɪˈleɪ/","example":"There's a delay with your order.","exampleZh":"你的订单有些延误。"},
+      {"word":"cartons","zh":"纸箱（复数）","ipa":"/ˈkɑːtənz/","example":"The cartons arrived late.","exampleZh":"纸箱到得晚了。"},
+      {"word":"part","zh":"一部分","ipa":"/pɑːt/","example":"Can you ship part of it first?","exampleZh":"能先发一部分吗？"},
+      {"word":"half","zh":"一半","ipa":"/hɑːf/","example":"Yes. Half is ready now.","exampleZh":"可以，有一半已经准备好了。"},
+      {"word":"rest","zh":"剩余部分","ipa":"/rest/","example":"When will the rest ship?","exampleZh":"剩下的什么时候发？"},
+      {"word":"update","zh":"最新进展（名词）","ipa":"/ˈʌpdeɪt/","example":"On Saturday. I'll send an update tomorrow.","exampleZh":"周六。我明天会告诉你最新进展。"}
+    ]
+  },
+  {
+    "id":"trade-12","section":"trade","chapter":"followup","label":"外贸入门 · 12","title":"Three Items Are Missing","zhTitle":"反馈漏发与确认补寄","subtitle":"说清少了什么、少了多少，并确认补寄和物流单号。","description":"售后补寄 · 五金","audio":"audio/trade-12.mp3","timings":"timings/trade-12.json","speakers":["Dean","Kai"],"roles":{"Dean":"供应商代表","Kai":"客户"},
+    "context":{"en":"Kai receives his hardware order, but three items are missing. Dean checks the packing list.","zh":"情景演练：Kai 收到五金订单后，发现少了三个挂钩。Dean 先核对装箱单，确认后再协商补寄。"},
+    "dialogue":[
+      ["Kai","We received the package today.","我们今天收到了包裹。"],
+      ["Dean","Did everything arrive?","东西都收到了吗？"],
+      ["Kai","Three hooks are missing.","少了三个挂钩。"],
+      ["Dean","I'm sorry. Can you send a photo?","抱歉，你能发张照片吗？"],
+      ["Kai","Yes. I'll send the photo now.","可以，我现在就发。"],
+      ["Dean","I'll check the packing list.","我会核对装箱单。"],
+      ["Kai","Can you send the missing hooks?","你能把漏发的挂钩寄过来吗？"],
+      ["Dean","Yes. We'll send them tomorrow.","可以，我们明天补寄。"],
+      ["Kai","Do I need to pay for shipping?","我需要付运费吗？"],
+      ["Dean","No. We'll cover the shipping cost.","不用，运费我们承担。"],
+      ["Kai","Please send me the tracking number.","请把物流单号发给我。"],
+      ["Dean","Of course. Thanks for your patience.","当然，感谢你的耐心。"]
+    ],
+    "vocabulary":[
+      {"word":"received","zh":"收到了","ipa":"/rɪˈsiːvd/","example":"We received the package today.","exampleZh":"我们今天收到了包裹。"},
+      {"word":"package","zh":"包裹","ipa":"/ˈpækɪdʒ/","example":"We received the package today.","exampleZh":"我们今天收到了包裹。"},
+      {"word":"missing","zh":"缺失的；漏发的","ipa":"/ˈmɪsɪŋ/","example":"Three hooks are missing.","exampleZh":"少了三个挂钩。"},
+      {"word":"list","zh":"清单（packing list：装箱单）","ipa":"/lɪst/","example":"I'll check the packing list.","exampleZh":"我会核对装箱单。"},
+      {"word":"cover","zh":"承担费用","ipa":"/ˈkʌvə/","example":"No. We'll cover the shipping cost.","exampleZh":"不用，运费我们承担。"},
+      {"word":"patience","zh":"耐心","ipa":"/ˈpeɪʃəns/","example":"Of course. Thanks for your patience.","exampleZh":"当然，感谢你的耐心。"}
+    ]
   }
 ]

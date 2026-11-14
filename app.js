@@ -24,11 +24,11 @@ function setTheme(theme){const light=theme==='light';document.body.classList.tog
 $('#themeBtn').onclick=()=>setTheme(document.body.classList.contains('light-theme')?'dark':'light');setTheme(read('theme','light'));
 for(let i=0;i<36;i++){const bar=document.createElement('i');bar.className='bar';bar.style.setProperty('--h',`${20+Math.abs(Math.sin(i*1.7))*85}px`);bar.style.setProperty('--d',`${(i%7)*-.12}s`);$('#wave').append(bar);}
 
-function chapterList(){return section==='trade'?[['all','全部入门课'],['start','基础开口'],['inquiry','询盘报价'],['order','订单推进']]:[['all','全部原版故事'],['everyday','日常与工作'],['dating','约会与关系'],['circle','朋友与社交']];}
+function chapterList(){return section==='trade'?[['all','全部入门课'],['start','基础开口'],['inquiry','询盘报价'],['order','订单推进'],['followup','跟进与售后']]:[['all','全部原版故事'],['everyday','日常与工作'],['dating','约会与关系'],['circle','朋友与社交']];}
 function renderLibrary(){
   const pool=lessons.filter(lesson=>lesson.section===section);
   document.querySelectorAll('.course-tab').forEach(button=>{const selected=button.dataset.section===section;button.classList.toggle('active',selected);button.setAttribute('aria-pressed',String(selected));});
-  $('#libraryTitle').textContent=section==='trade'?'6 节基础外贸':'36 张故事进阶';$('#libraryHint').textContent=section==='trade'?'成人初级 · 人物进行业务角色扮演，不改原故事设定。':'原版成人社交故事 · 与外贸课程分开练习。';
+  $('#libraryTitle').textContent=section==='trade'?`${pool.length} 节基础外贸`:`${pool.length} 张故事进阶`;$('#libraryHint').textContent=section==='trade'?'成人初级 · 人物进行业务角色扮演，不改原故事设定。':'原版成人社交故事 · 与外贸课程分开练习。';
   $('#chapterNav').replaceChildren();
   for(const [id,name]of chapterList()){const button=document.createElement('button');button.className=`chapter-button ${chapter===id?'active':''}`;button.type='button';button.setAttribute('aria-pressed',String(chapter===id));const count=id==='all'?pool.length:pool.filter(lesson=>lesson.chapter===id).length;button.innerHTML=`<span class="chapter-name">${name}</span><span class="chapter-count">${count} 张练习卡片</span>`;button.onclick=()=>{chapter=id;renderLibrary();};$('#chapterNav').append(button);}
   const visible=pool.filter(lesson=>chapter==='all'||lesson.chapter===chapter);$('#chapterMeta').textContent=`${visible.length} 张卡片 · 选择后可反复练习`;
@@ -122,5 +122,7 @@ document.addEventListener('keydown',event=>{if(event.target.closest('button,inpu
 
 try{
   const fetchJSON=url=>fetch(url).then(response=>{if(!response.ok)throw Error(`无法读取 ${url}`);return response.json();});
-  const [trade,advanced,people,vocabulary]=await Promise.all(['trade.json','advanced.json','characters.json','base-vocabulary.json'].map(fetchJSON));lessons=[...trade,...advanced];characters=people;basicWords=vocabulary;if(!['trade','advanced'].includes(section))section='trade';const pool=lessons.filter(lesson=>lesson.section===section);const first=pool.find(lesson=>lesson.id===read(`last.${section}`,''))||pool[0];await selectLesson(first.id);fitTranscript();
+  const [trade,advanced,people,vocabulary]=await Promise.all(['trade.json','advanced.json','characters.json','base-vocabulary.json'].map(fetchJSON));
+  $('#tradeCourseSummary').textContent=`${trade.length} 节短对话 · 适合初级`;
+  lessons=[...trade,...advanced];characters=people;basicWords=vocabulary;if(!['trade','advanced'].includes(section))section='trade';const pool=lessons.filter(lesson=>lesson.section===section);const first=pool.find(lesson=>lesson.id===read(`last.${section}`,''))||pool[0];await selectLesson(first.id);fitTranscript();
 }catch(error){$('#sessionTitle').textContent='课程暂时无法加载';$('#sessionSubtitle').textContent='请检查网络后刷新页面，无需配置账号或密钥。';lines.innerHTML=`<p class="error-note">${escape(error.message)}</p>`;$('#play').disabled=true;}

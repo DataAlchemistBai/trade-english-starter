@@ -8,7 +8,7 @@ import {STORAGE_PREFIX,SPEEDS,normalizeWord,intervalIndex,wordPieces,validateTim
 const root=fileURLToPath(new URL('../',import.meta.url));
 const json=name=>JSON.parse(fs.readFileSync(path.join(root,name),'utf8'));
 const trade=json('trade.json'),advanced=json('advanced.json'),characters=json('characters.json'),lessons=[...trade,...advanced];
-assert.equal(trade.length,6);assert.equal(advanced.length,36);assert.equal(Object.keys(characters).length,6);assert.equal(new Set(lessons.map(x=>x.id)).size,42);
+assert.equal(trade.length,12);assert.equal(advanced.length,36);assert.equal(Object.keys(characters).length,6);assert.equal(new Set(lessons.map(x=>x.id)).size,lessons.length);
 assert.deepEqual(SPEEDS,[.65,.85,1,1.1]);assert.equal(STORAGE_PREFIX,'trade-starter-v1.');
 let words=0;
 for(const lesson of lessons){
@@ -35,4 +35,5 @@ for(const person of Object.values(characters)){assert(fs.existsSync(path.join(ro
 const app=fs.readFileSync(path.join(root,'app.js'),'utf8'),sw=fs.readFileSync(path.join(root,'practice-cache-sw.js'),'utf8'),html=fs.readFileSync(path.join(root,'index.html'),'utf8');
 new vm.Script(sw);assert(!app.includes('speaking-studio-progress'));assert(!app.includes('speechSynthesis'));assert(sw.includes('trade-starter-assets-')&&!sw.includes('british-speaking-studio-practice-'));assert(html.includes('data-speed="0.65"'));assert(app.includes('requestAnimationFrame(frame)'));
 assert.equal(fs.existsSync(path.join(root,'.openai')),false);
-console.log(`PASS: 6 trade lessons + 36 original stories; ${words} exact word intervals; .65/.85/1/1.1 highlight lookup; 36 vocabulary clips; isolated storage/cache.`);
+const vocabularyCount=trade.reduce((total,lesson)=>total+lesson.vocabulary.length,0);
+console.log(`PASS: ${trade.length} trade lessons + ${advanced.length} original stories; ${words} exact word intervals; .65/.85/1/1.1 highlight lookup; ${vocabularyCount} vocabulary clips; isolated storage/cache.`);

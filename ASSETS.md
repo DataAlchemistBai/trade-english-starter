@@ -10,7 +10,7 @@ The six characters are fictional adults. Their names, jobs, ages, romantic relat
 
 ## Audio
 
-The 42 MP3 files are synthesized dialogue recordings supplied with the project for language practice: six beginner trade lessons and 36 retained story lessons. There is no microphone recording, live voice cloning or voice-model download in this repository. This separate edition regenerated audio using the same original story text, voice profiles and rate to obtain word-level service metadata; recordings in the parent website were not overwritten.
+The 48 MP3 files are synthesized dialogue recordings supplied with the project for language practice: twelve beginner trade lessons and 36 retained story lessons. There is no microphone recording, live voice cloning or voice-model download in this repository. This separate edition regenerated audio using the same original story text, voice profiles and rate to obtain word-level service metadata; recordings in the parent website were not overwritten.
 
 Each lesson has a corresponding file in `timings/` with sentence and word boundaries. Word starts come from speech-service metadata, not uniform text-length estimates. Rare zero-duration weak words use the next measured word start as their end, explicitly noted by `endSource`.
 
